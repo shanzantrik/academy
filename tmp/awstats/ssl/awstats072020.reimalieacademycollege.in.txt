@@ -1,0 +1,856 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home/reimalieacademy/tmp/awstats/ssl/awstats.reimalieacademycollege.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2033                
+POS_TIME 2707                
+POS_VISITOR 11417               
+POS_DAY 21647               
+POS_DOMAIN 3527                
+POS_LOGIN 3988                
+POS_ROBOT 4143                
+POS_WORMS 4593                
+POS_EMAILSENDER 4724                
+POS_EMAILRECEIVER 4867                
+POS_SESSION 22463               
+POS_SIDER 22673               
+POS_FILETYPES 5002                
+POS_DOWNLOADS 5246                
+POS_OS 5294                
+POS_BROWSER 5507                
+POS_SCREENSIZE 6753                
+POS_UNKNOWNREFERER 6827                
+POS_UNKNOWNREFERERBROWSER 7318                
+POS_ORIGIN 7518                
+POS_SEREFERRALS 7659                
+POS_PAGEREFS 7822                
+POS_SEARCHWORDS 8380                
+POS_KEYWORDS 8532                
+POS_MISC 2369                
+POS_ERRORS 8591                
+POS_CLUSTER 3844                
+POS_SIDER_404 8773                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200801004210 1 0 10330472322974
+FirstTime 20200701031159
+LastTime 20200731130617
+LastUpdate 20200801174702 1 0 0 0 0
+TotalVisits 281                 
+TotalUnique 246                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 266                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 215 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 22 37 2394515 12 30 674256
+1 4 4 51520 8 14 62211
+2 6 6 26688 8 20 30459
+3 8 14 1143205 5 9 15761
+4 6 8 517711 26 34 59639
+5 14 25 2423095 3 17 277248
+6 6 8 517671 6 14 30104
+7 2 2 8816 6 16 22104
+8 44 66 4474129 81 95 907400
+9 49 66 2866475 27 44 1263528
+10 112 166 11075898 62 116 12417743
+11 78 116 14364620 36 134 10570037
+12 188 237 35280682 83 347 30143624
+13 87 141 12349032 197 262 4902077
+14 24 57 1677280 14 30 193087
+15 23 56 1820518 5 24 22722
+16 23 30 2270312 10 39 1172474
+17 17 38 3411742 14 45 1183914
+18 28 59 2274273 6 16 296165
+19 9 13 864015 9 17 18775
+20 42 57 3142824 28 41 258475
+21 40 49 1326771 18 28 71579
+22 21 33 1256690 7 16 114795
+23 34 46 2795731 10 23 283418
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+ca 403 597 77589549
+in 220 420 21806791
+us 207 254 7560760
+gb 27 30 657015
+fr 6 6 60757
+cn 4 7 562670
+de 4 4 17632
+ie 4 4 17632
+no 2 2 16667
+id 2 2 8976
+au 1 1 4538
+dk 1 1 4408
+ch 1 1 4408
+vn 1 1 4538
+jp 1 1 4488
+ua 1 1 4408
+gr 1 1 4488
+ru 1 1 4488
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+no_user_agent 425 47552215 20200729183527 0
+YandexBot/ 68 623730 20200731075021 37
+Googlebot/ 55 1618511 20200730111806 16
+AhrefsBot/ 54 148560 20200731113359 19
+bot[\s_+:,\.\;\/\\-] 11 146985 20200717081238 1
+unknown 10 216 20200729194057 10
+curl 4 18082 20200730131128 0
+[\s_+:,\.\;\/\\-]bot 1 4408 20200701110959 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+png 76 2732554 0 0
+Unknown 582 56103861 0 0
+html 237 1500126 0 0
+jpeg 1 105062 0 0
+woff2 7 317776 0 0
+js 205 30516434 0 0
+css 146 14690866 0 0
+php 61 365319 0 0
+jpg 19 2002215 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+macosx10 10 10
+win10 127 77
+Unknown 23 20
+macosx12 4 1
+macosx 1 1
+winvista 1 1
+linux 89 87
+win8.1 10 4
+win7 672 452
+winxp 1 1
+linuxandroid 396 233
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 53
+chrome83.0.4103.83 10 5
+chrome80.0.3987.99 15 6
+chrome84.0.4147.111 3 1
+chrome83.0.4103.106 225 157
+chrome77.0.3865.92 25 16
+chrome71.0.3578.99 12 8
+chrome62.0.3202.84 23 19
+firefox78.0 10 6
+chrome69.0.3497.100 18 12
+mozilla 18 15
+chrome59.0.3071.125 8 2
+chrome83.0.4103.116 431 265
+chrome72.0.3626.121 11 2
+chrome46.0.2490.80 3 3
+Unknown 3 3
+android 3 1
+chrome45.0.2454.101 4 4
+chrome41.0.2226.0 2 2
+chrome79.0.3945.116 33 21
+firefox57.0 5 5
+chrome76.0.3809.132 6 3
+chrome56.0.2924.87 23 17
+chrome80.0.3987.132 18 18
+chrome84.0.4147.89 50 15
+chrome70.0.3538.80 1 1
+msie9.0 1 1
+chrome65.0.3312.0 4 1
+chrome70.0.3538.110 6 4
+netscape5.0 2 2
+firefox77.0 42 37
+chrome45.0.2454.94 1 1
+opera68.0.3618.173 14 8
+chrome52.0.2743.116 6 6
+chrome57.0.2987.108 16 10
+firefox62.0 44 44
+chrome73.0.3683.58 14 11
+chrome84.0.4147.105 54 23
+chrome36.0.1985.67 1 1
+opera50.0.2254.149182 4 2
+chrome79.0.3945.79 4 4
+chrome74.0.3729.136 23 15
+chrome41.0.2228.0 1 1
+chrome72.0.3626.105 3 0
+chrome80.0.3987.149 13 4
+chrome66.0.3359.126 17 16
+chrome49.0.2623.75 26 26
+edge18 23 20
+firefox72.0 2 2
+chrome78.0.3904.108 11 11
+chrome80.0.3987.117 11 5
+chrome73.0.3683.90 8 8
+chrome41.0.2225.0 1 1
+chrome71.0.3578.141 22 16
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20200703021948
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200706010323
+Mozilla/5.0_(compatible;_ips-agent) 20200712150913
+Python/3.6_aiohttp/3.6.2 20200720171503
+WhatsApp/2.20.194.16_A 20200721171909
+Mozilla/5.0_zgrab/0.x 20200715082041
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200728205650
+Python/3.7_aiohttp/3.0.9 20200703031833
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Python/3.7_aiohttp/3.0.9 20200703031833
+WhatsApp/2.20.194.16_A 20200721171909
+Python/3.6_aiohttp/3.6.2 20200720171503
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 228 228
+From1 2 2
+From2 2 2
+From3 23 23
+From4 632 1079
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://mail.reimalieacademycollege.in/wp-login.php 8 8
+https://srv.nexanow.in:2087 4 4
+http://mail.reimalieacademycollege.in 2 2
+https://mail.reimalieacademycollege.in/home 2 2
+http://webmail.reimalieacademycollege.in/wp-login.php 2 2
+http://mail.reimalieacademycollege.in/admin 2 2
+https://134.209.148.252:2087 1 1
+https://server.tpark.online:2087 1 1
+http://cpanel.reimalieacademycollege.in/wp-login.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+405 2 224944
+401 7 296
+404 225 310592
+301 127 31787
+419 1 1508
+206 4 175208
+302 198 82376
+500 24 14052177
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 53
+//shop/wp-includes/wlwmanifest.xml 2 -
+//sito/wp-includes/wlwmanifest.xml 2 -
+/wp2 4 https://mail.reimalieacademycollege.in/wp2/
+/old 4 https://mail.reimalieacademycollege.in/old/
+/2019 4 https://mail.reimalieacademycollege.in/2019/
+/ads.txt 8 -
+//cms/wp-includes/wlwmanifest.xml 2 -
+/test 4 https://mail.reimalieacademycollege.in/test/
+/blog 4 https://mail.reimalieacademycollege.in/blog/
+/images/sign/ 7 -
+/demo 4 https://mail.reimalieacademycollege.in/demo/
+/sitemap.xml 1 -
+//2018/wp-includes/wlwmanifest.xml 2 -
+/bak 4 https://mail.reimalieacademycollege.in/bak/
+//website/wp-includes/wlwmanifest.xml 2 -
+//wp2/wp-includes/wlwmanifest.xml 2 -
+/download-application-pdf 49 https://reimalieacademycollege.in/
+/site 4 https://mail.reimalieacademycollege.in/site/
+/2018 4 https://mail.reimalieacademycollege.in/2018/
+//site/wp-includes/wlwmanifest.xml 2 -
+/new-site 3 https://mail.reimalieacademycollege.in/new-site/
+/cms 4 https://mail.reimalieacademycollege.in/cms/
+/install 3 https://mail.reimalieacademycollege.in/install/
+/2020 4 https://mail.reimalieacademycollege.in/2020/
+/v1 4 https://mail.reimalieacademycollege.in/v1/
+//wp/wp-includes/wlwmanifest.xml 2 -
+//2019/wp-includes/wlwmanifest.xml 2 -
+/web 4 https://mail.reimalieacademycollege.in/web/
+/backup 4 https://mail.reimalieacademycollege.in/backup/
+/main 4 https://mail.reimalieacademycollege.in/main/
+/wp 4 https://mail.reimalieacademycollege.in/wp/
+/dev 4 https://mail.reimalieacademycollege.in/dev/
+//test/wp-includes/wlwmanifest.xml 2 -
+/images/photo/ 1 -
+//media/wp-includes/wlwmanifest.xml 2 -
+/new 4 https://mail.reimalieacademycollege.in/new/
+/old-site 4 https://mail.reimalieacademycollege.in/old-site/
+/bk 4 https://mail.reimalieacademycollege.in/bk/
+/old-wp 4 https://mail.reimalieacademycollege.in/old-wp/
+//web/wp-includes/wlwmanifest.xml 2 -
+//wp-includes/wlwmanifest.xml 2 -
+/temp 4 https://mail.reimalieacademycollege.in/temp/
+/v2 4 https://mail.reimalieacademycollege.in/v2/
+/wp-login.php 6 -
+/wp1 4 https://mail.reimalieacademycollege.in/wp1/
+//wp1/wp-includes/wlwmanifest.xml 2 -
+/app-ads.txt 7 -
+//xmlrpc.php 2 -
+//blog/wp-includes/wlwmanifest.xml 2 -
+//wordpress/wp-includes/wlwmanifest.xml 2 -
+/wordpress 4 https://mail.reimalieacademycollege.in/wordpress/
+/tmp 4 https://mail.reimalieacademycollege.in/tmp/
+//news/wp-includes/wlwmanifest.xml 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 266
+47.29.139.212 78 100 31245014 20200702130126
+157.42.240.205 36 62 3160702 20200706122831
+47.29.250.35 25 56 6686578 20200702133920
+59.93.140.110 23 54 2108292 20200729183526
+47.29.197.149 21 21 4302306 20200702130133
+223.238.123.93 20 23 180426 20200701123617
+223.231.121.131 17 21 1204148 20200707235400
+47.29.192.94 16 25 4314027 20200702111856
+47.29.221.247 13 13 182896 20200703114315
+66.102.6.100 13 13 57824 20200723113142
+27.56.100.121 12 14 949742 20200702134016
+157.42.200.74 12 12 131380 20200701102749
+157.42.214.221 12 12 134154 20200701100119
+157.42.210.43 11 12 98395 20200701095732
+47.29.154.113 11 13 447683 20200724085652
+223.231.95.11 10 12 577071 20200707234535
+157.42.206.168 10 13 591945 20200701214627
+223.238.96.60 9 12 1318918 20200703104315
+116.74.243.183 9 38 2959229 20200705132025
+47.29.205.119 9 9 2205559 20200702123516
+157.42.217.216 9 12 184714 20200704001749
+66.102.6.97 8 8 35584 20200721102848
+117.198.64.211 8 11 578910 20200702135015
+51.222.43.124 8 8 34107 20200728205228
+47.29.171.217 8 8 327156 20200706123002
+165.22.114.208 1 1 4528 20200706111006
+47.29.244.136 1 1 5578 20200712000609
+157.42.255.138 6 6 148190 20200706102809
+46.105.102.68 1 1 4538 20200705052205
+35.230.162.59 1 1 4538 20200728010415
+157.42.218.109 6 7 183822 20200701101545
+106.203.154.226 2 5 545862 20200728125657
+47.29.200.226 0 3 537046 
+157.42.247.98 3 6 552610 20200710204959
+167.172.201.221 1 1 4488 20200702233615
+47.29.239.242 0 1 333363 
+157.42.222.215 7 8 156279 20200702121125
+52.40.16.154 2 2 8856 20200713152204
+139.59.174.107 1 1 4538 20200728224603
+165.227.72.93 1 1 38086 20200706010323
+47.29.181.178 3 6 551846 20200702135912
+223.179.247.30 3 3 18977 20200707180954
+47.29.181.143 1 4 541454 20200731005019
+47.29.175.217 1 2 162148 20200717044634
+27.56.102.248 2 4 213639 20200725091140
+47.29.244.35 1 1 5578 20200709163306
+47.29.237.42 6 6 95310 20200706122919
+51.91.129.4 2 2 8896 20200717190328
+223.231.76.37 1 1 2307 20200723135737
+138.197.144.119 1 1 0 20200717083752
+138.197.131.30 1 1 0 20200717083753
+47.29.162.242 4 6 223230 20200702092513
+34.218.79.190 1 1 4408 20200723025648
+95.142.120.44 2 2 8816 20200709043556
+192.99.34.142 1 1 4538 20200717144019
+51.89.201.9 3 3 14544 20200707134231
+157.42.238.167 6 7 180496 20200707124320
+47.29.196.28 4 5 20976 20200701080505
+47.29.184.187 1 2 162653 20200730133856
+163.172.117.227 2 2 8976 20200728230927
+47.29.188.167 3 5 16699 20200702130829
+47.29.224.100 4 6 352348 20200703194841
+153.126.135.68 1 1 4488 20200725044618
+27.56.103.183 6 7 368834 20200725131605
+123.57.51.204 1 1 4528 20200701232642
+3.6.220.103 1 1 4488 20200725171750
+47.29.208.73 4 7 558646 20200701100747
+47.29.176.155 7 10 573115 20200730213217
+47.29.241.78 1 1 4737 20200702135904
+34.71.26.47 3 3 14394 20200731130617
+47.29.158.11 1 4 541454 20200727163423
+223.238.102.49 5 8 599552 20200707141022
+223.238.120.228 1 3 495511 20200718060434
+47.29.207.250 1 4 541454 20200718173511
+207.180.227.58 1 1 4488 20200721214949
+47.29.219.141 1 1 253611 20200703164510
+47.29.241.183 3 3 20013 20200701215017
+47.29.160.205 0 2 380476 
+47.29.172.178 0 1 156570 
+47.29.135.206 3 5 506585 20200703083808
+47.29.234.62 5 8 599537 20200707114634
+47.29.205.207 1 4 541454 20200723155807
+27.56.91.159 3 4 609553 20200707051044
+47.29.158.10 1 4 541454 20200704131657
+47.29.184.122 1 1 6036 20200701100742
+74.208.253.209 1 1 4528 20200716222039
+18.237.119.62 2 2 8856 20200720152653
+47.29.146.25 1 1 4814 20200701080450
+223.187.223.131 2 5 545862 20200721171909
+47.29.242.7 6 9 580311 20200713201534
+72.13.62.43 3 3 16213 20200712150913
+47.29.197.196 4 4 116781 20200703083758
+148.72.31.117 1 1 4488 20200721082746
+192.99.36.177 1 1 38087 20200714153427
+64.111.121.238 1 1 4538 20200716202454
+47.29.221.163 3 4 388158 20200706111842
+27.56.66.152 2 2 10793 20200725093731
+166.62.80.109 1 1 4488 20200703184154
+27.56.69.152 3 4 359388 20200725091202
+223.231.89.134 1 2 4408 20200712093800
+51.15.247.217 1 1 4448 20200731061814
+223.182.46.39 4 7 550270 20200709053721
+223.176.14.176 1 4 4408 20200710223239
+35.233.73.146 1 1 4528 20200721080028
+47.29.228.42 0 1 333363 
+67.205.57.152 1 1 4538 20200727205620
+27.56.127.36 1 2 162148 20200713092923
+64.90.40.100 1 1 4488 20200719222611
+47.29.254.172 3 4 60079 20200702130842
+47.29.166.186 0 1 333363 
+103.15.242.194 1 1 4488 20200722213413
+142.93.157.43 1 1 0 20200717083752
+47.29.137.12 1 3 208091 20200712031728
+223.231.120.230 0 2 47113 
+47.29.133.69 0 1 333363 
+27.56.127.119 1 1 4387 20200728101706
+47.29.188.62 1 4 4488 20200724100853
+64.227.22.127 1 1 12274 20200705220600
+47.29.217.144 2 2 13778 20200702205145
+47.29.186.6 1 2 162148 20200724231206
+27.56.121.15 2 4 212833 20200707051027
+167.172.243.55 1 1 4408 20200701031159
+47.29.195.39 0 1 333363 
+42.108.42.160 4 7 57748 20200705221050
+167.71.216.37 1 1 4528 20200726053358
+27.56.67.111 5 7 241171 20200725131541
+47.29.221.97 0 2 380476 
+47.29.189.143 1 1 2307 20200723132425
+157.230.153.203 1 1 4538 20200706210336
+47.29.160.91 2 2 9986 20200704093348
+195.181.168.185 1 1 4408 20200711011457
+47.29.147.101 1 2 162148 20200729231216
+42.108.58.112 2 2 47671 20200705221101
+51.158.97.248 1 1 4448 20200731045910
+47.29.161.114 3 3 7899 20200703113533
+47.29.147.85 1 4 4408 20200727175625
+47.29.254.11 4 6 352360 20200703144325
+178.128.103.151 1 1 4488 20200728011219
+47.29.190.227 3 3 13224 20200727163710
+47.29.210.32 1 3 208091 20200715092446
+223.179.234.198 0 1 156570 
+47.29.128.222 1 1 6036 20200701100825
+47.29.243.183 2 2 6707 20200702102324
+167.99.12.47 1 1 4488 20200717024938
+95.142.120.137 2 2 8816 20200709201446
+163.172.163.25 1 1 4448 20200731035439
+115.146.127.147 1 1 4538 20200721224123
+47.29.224.237 0 1 47113 
+27.56.92.36 0 1 333363 
+27.56.96.1 4 6 172301 20200702122443
+47.29.201.190 5 5 27741 20200701220058
+47.29.215.62 1 1 2307 20200710192536
+117.194.215.32 6 31 143479 20200717154428
+27.56.100.200 1 1 4387 20200725092354
+223.238.124.22 5 8 62497 20200707124810
+178.22.71.112 1 1 4408 20200730232702
+47.29.151.40 3 6 589216 20200706202428
+47.29.183.129 6 8 612779 20200703164529
+47.114.186.72 1 1 12280 20200701215029
+83.143.86.62 2 2 16667 20200715082041
+64.225.6.170 1 1 38074 20200703111417
+27.56.12.38 1 3 495511 20200715170507
+47.29.188.210 0 1 333363 
+66.102.6.126 5 5 22240 20200722105111
+47.29.202.102 3 8 391759 20200702104654
+54.38.253.1 1 1 4528 20200722001201
+47.29.202.55 6 6 151392 20200703164238
+47.29.199.2 0 2 666726 
+47.29.180.116 6 6 147302 20200702205156
+47.29.234.249 2 2 6795 20200706104918
+47.29.187.23 0 1 47113 
+27.56.65.217 5 7 435636 20200702133855
+157.42.209.127 3 3 13348 20200701100540
+136.27.62.24 1 1 4408 20200715191438
+47.29.244.37 1 4 541454 20200706223304
+27.56.5.7 4 21 135602 20200705141848
+47.29.131.237 0 1 333363 
+47.29.190.85 3 4 172629 20200724084646
+47.29.197.51 1 1 265793 20200702132632
+95.216.206.9 1 1 4408 20200716064818
+165.227.201.25 1 1 4538 20200716202520
+51.15.214.14 1 1 4488 20200722033118
+223.238.120.60 1 4 541454 20200731122750
+51.15.242.22 1 1 4448 20200731063332
+157.42.244.120 1 4 541454 20200716170210
+35.223.92.16 1 1 4448 20200727155000
+42.108.35.136 4 7 558016 20200731081253
+222.130.240.102 2 5 545862 20200703031836
+54.187.143.200 2 2 8856 20200727152325
+47.29.209.15 5 8 563460 20200703145429
+162.214.28.25 1 1 4528 20200716221938
+223.231.120.51 1 1 4661 20200725100049
+35.227.179.107 1 1 4408 20200720171503
+47.29.150.105 6 6 2272107 20200702102612
+47.29.187.96 4 4 148726 20200703103236
+223.238.105.178 1 3 495511 20200731085441
+47.29.212.26 2 5 547565 20200704122207
+27.56.95.71 4 7 557935 20200728101724
+47.29.172.106 1 1 125053 20200703114402
+223.238.120.251 1 3 495511 20200712050237
+223.179.250.65 0 1 333363 
+47.29.132.54 4 4 11981 20200703110628
+192.254.207.43 1 1 4488 20200717025011
+47.29.177.102 1 1 4356 20200701204909
+157.42.252.0 2 4 500247 20200721100831
+47.29.226.12 0 1 333363 
+38.99.62.94 1 1 4408 20200703021948
+103.51.103.3 1 1 4488 20200712220112
+51.158.114.198 1 1 4448 20200731044454
+51.15.241.250 1 1 4458 20200728003850
+185.177.57.20 1 1 4488 20200727214424
+47.29.187.0 2 2 13789 20200703114101
+35.225.8.194 3 3 14394 20200718083301
+49.204.226.0 1 4 541454 20200709053932
+47.29.241.35 1 3 495511 20200716150413
+47.29.202.246 1 4 541454 20200724222042
+142.93.152.19 1 1 4528 20200727141609
+47.29.231.74 3 9 1087316 20200709003628
+47.29.132.181 1 3 494341 20200704080438
+47.29.141.122 2 2 49217 20200707094333
+223.179.208.126 1 1 142516 20200707181000
+223.187.212.155 1 3 495511 20200710082031
+223.179.209.57 1 1 905 20200703213847
+223.176.9.221 5 8 62492 20200705212736
+47.29.220.201 0 3 537046 
+35.202.200.38 3 3 14544 20200716130828
+47.29.202.39 2 2 736950 20200702120739
+47.29.252.5 2 3 9986 20200704093222
+208.113.162.87 1 1 4488 20200722210732
+167.172.31.114 1 1 4458 20200703003119
+47.29.218.230 4 6 511318 20200701104905
+47.29.206.173 1 3 495976 20200729192311
+47.29.190.160 3 5 217652 20200706111809
+47.29.230.244 6 7 402127 20200707094332
+47.29.131.34 1 1 15877 20200703114133
+47.29.132.13 1 2 160978 20200730083359
+223.238.123.233 4 7 19099 20200701115621
+47.29.235.58 6 10 723807 20200717173138
+47.29.146.73 2 2 6795 20200724100928
+131.220.6.156 4 4 17632 20200722053858
+159.203.163.107 1 1 12273 20200705205047
+223.231.89.171 3 3 23987 20200725100147
+47.29.234.160 1 1 15885 20200706123010
+47.29.166.241 6 6 68731 20200702135126
+51.158.117.104 1 1 4458 20200728002747
+157.42.220.236 3 3 13348 20200701100424
+47.29.250.172 3 3 94467 20200706202436
+157.245.114.124 1 1 4408 20200707201810
+27.56.37.7 1 9 2299 20200705141825
+223.179.200.150 1 3 384884 20200705085903
+132.148.167.225 1 1 4488 20200727210436
+165.227.86.14 1 1 4488 20200706123353
+223.179.217.65 4 6 224188 20200728004431
+176.31.105.112 1 1 38087 20200728031256
+47.29.144.244 1 3 494341 20200723174739
+138.197.173.88 1 1 0 20200717083751
+47.29.141.88 3 3 14941 20200703145458
+210.212.250.45 1 1 4488 20200710203317
+188.165.251.196 2 2 9066 20200716222045
+47.29.150.214 3 3 17873 20200701214912
+35.227.170.34 1 1 4528 20200712210927
+47.29.197.107 1 3 5578 20200708234955
+47.29.159.104 3 3 16652 20200703164316
+51.77.128.212 1 4 541494 20200728205650
+37.187.73.206 2 2 9066 20200712224758
+157.42.226.4 1 4 541454 20200720151400
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20200701 111 128 2564942 22
+20200702 228 314 56143921 26
+20200703 83 100 5364243 24
+20200704 17 30 1835159 6
+20200705 29 92 3835580 10
+20200706 76 114 6173671 15
+20200707 69 89 4677476 15
+20200708 2 4 10106 2
+20200709 15 30 2748192 8
+20200710 10 19 1406031 8
+20200711 3 3 13264 3
+20200712 10 18 1123831 8
+20200713 11 16 1093574 4
+20200714 6 6 60327 6
+20200715 9 17 1612928 9
+20200716 16 21 1100897 14
+20200717 24 55 1394103 14
+20200718 4 9 1046951 3
+20200719 2 2 8896 2
+20200720 6 9 563574 5
+20200721 10 15 1073007 8
+20200722 6 6 26848 6
+20200723 6 12 1096378 6
+20200724 19 30 1668560 6
+20200725 25 33 1902562 10
+20200726 1 1 4528 1
+20200727 12 18 590432 9
+20200728 27 39 2306391 13
+20200729 25 60 3099779 3
+20200730 11 19 1619401 5
+20200731 14 25 2168661 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 15
+0s-30s 198
+30s-2mn 42
+1h+ 2
+30mn-1h 1
+15mn-30mn 4
+2mn-5mn 19
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 154
+/ 236 1499221 163 108
+/login 107 620035 28 43
+/index.php 56 252318 51 45
+/home 47 216961 3 8
+/payment-history 44 210271 4 11
+/moderator/login 33 84259 3 2
+/register 22 145184 3 5
+/verify 20 110949 2 6
+/index.php/moderator/login 19 45408 5 4
+/admin/approved-applications 18 2354577 0 1
+/make-payment 13 74228 0 2
+/admin/login 13 30202 3 2
+/admin/applications 12 1712528 1 2
+/download-application-pdf/%7Bid%7D 12 1957732 1 4
+/admin/payments 11 1308164 0 2
+/dashboard 11 134970 0 1
+/moderator/dashboard 9 100404 0 2
+/moderator/approved-applications 8 1046200 0 2
+/adminlte/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 7 317776 0 0
+/admin/application-pdf/135 7 1628916 0 0
+/password/reset 5 22009 1 3
+/admin/application/130 5 136025 1 0
+/wp-login.php 5 113001 5 5
+/admin/application/126 5 136057 0 0
+/admin/application-pdf/229 5 573130 0 1
+/admin/application-pdf/158 1 95389 0 0
+/admin/application-pdf/181 1 80810 0 0
+/admin/application-pdf/138 1 87236 0 0
+/admin/application-pdf/128 1 84367 0 0
+/admin/application-pdf/187 1 85870 0 0
+/admin/application-pdf/148 1 89667 0 0
+/download/receipt-pdf/102 3 128850 0 2
+/download/receipt-pdf/130 1 42959 0 0
+/admin/application-pdf/198 1 253611 0 0
+/admin/application-pdf/171 1 168480 0 0
+/admin/application-pdf/176 1 268818 0 0
+/download/receipt-pdf/155 2 85894 0 0
+/admin/application-pdf/163 1 84155 0 0
+/manage-departments 1 37820 0 0
+/admin/application-pdf/208 1 145688 0 0
+/admin/application-pdf/143 1 101888 0 0
+/manage-categories 1 31425 0 1
+/admin/application-pdf/122 1 1318886 0 0
+/admin/application-pdf/204 1 92511 0 0
+/admin/application-pdf/189 1 499124 0 0
+/manage-courses 1 13505 0 0
+/download/receipt-pdf/118 1 42952 0 0
+/admin/application-pdf/161 1 94542 0 0
+/admin/application-pdf/221 4 4015048 0 1
+/admin/application-pdf/10 1 92343 0 0
+/admin/application/125 4 108946 0 1
+/admin/application-pdf/190 1 132579 0 0
+/download/receipt-pdf/157 2 85912 0 0
+/admin/application-pdf/226 1 1686033 0 0
+/admin/application-pdf/195 1 79818 0 0
+/admin/application-pdf/227 3 332198 0 0
+/admin/application-pdf/200 1 110697 0 0
+/admin/application-pdf/220 1 401481 1 0
+/admin/application-pdf/203 1 159936 0 0
+/admin/application-pdf/131 1 92753 0 0
+/admin/application-pdf/194 1 208345 0 0
+/admin/application-pdf/206 1 64709 0 0
+/admin/application-pdf/167 1 65760 0 0
+/download/receipt-pdf/188 1 42951 0 1
+/admin/application-pdf/173 1 160780 0 0
+/admin/application-pdf/225 1 44751 0 0
+/admin/application/211 3 80871 0 2
+/admin/application-pdf/177 1 392315 0 0
+/admin/application-pdf/160 1 121495 0 0
+/admin/application-pdf/146 1 82579 0 0
+/admin/application-pdf/124 1 133733 0 0
+/admin/application-pdf/149 1 84600 0 0
+/admin/application-pdf/172 1 102655 0 0
+/admin/application-pdf/215 1 1162456 0 0
+/admin/application-pdf/201 1 66815 0 1
+/admin/application-pdf/169 1 1085725 0 0
+/admin/application/128 3 81531 0 0
+/admin/application-pdf/127 1 119763 0 0
+/admin/application-pdf/179 1 93752 0 0
+/admin/application-pdf/207 1 91123 0 0
+/admin/application-pdf/178 1 82112 0 0
+/admin/application-pdf/193 1 102134 0 0
+/admin/application-pdf/175 2 531586 1 1
+/admin/application-pdf/151 1 1777694 0 0
+/admin/application-pdf/156 1 3403287 0 0
+/admin/application-pdf/188 1 99148 0 0
+/admin/application-pdf/142 1 127816 0 0
+/admin/application-pdf/130 1 81807 0 0
+/admin/application-pdf/152 2 205168 0 0
+/admin/application-pdf/123 1 350014 0 0
+/admin/application-pdf/209 1 962818 0 0
+/admin/application-pdf/126 1 147910 0 1
+/admin/application-pdf/144 1 221776 0 0
+/admin/application-pdf/212 1 104480 0 0
+/admin/application-pdf/196 1 67948 0 0
+/admin/application/124 1 27005 0 0
+/admin/application-pdf/139 1 247983 0 0
+/admin/application-pdf/121 1 97206 0 1
+/download/receipt-pdf/153 1 42947 0 0
+/admin/application-pdf/211 1 1455656 0 0
+/admin/application-pdf/166 1 116087 0 0
+/admin/application/135 1 26957 0 0
+/admin/application-pdf/141 1 73739 0 0
+/admin/application-pdf/214 1 104962 0 0
+/admin/application-pdf/223 1 2076773 0 0
+/admin/application-pdf/184 1 99837 0 0
+/admin/application-pdf/134 1 281379 0 0
+/admin/application-pdf/8 1 488473 0 0
+/admin/application-pdf/159 1 67319 0 0
+/admin/application/6 1 27267 0 0
+/admin/application-pdf/162 1 70187 0 0
+/admin/application-pdf/140 1 104589 0 0
+/admin/application-pdf/224 1 380131 0 0
+/download/receipt-pdf/199 4 171836 0 0
+/admin/application-pdf/199 1 85711 0 0
+/admin/application-pdf/145 1 123743 0 0
+/download/receipt-pdf/187 1 42954 0 1
+/download/receipt-pdf/101 1 42955 0 1
+/download/receipt-pdf/123 1 42957 0 1
+/admin/application-pdf/186 1 197457 0 0
+/admin/application-pdf/218 1 87330 0 0
+/admin/application-pdf/202 1 133278 0 0
+/admin/application-pdf/192 1 85475 0 0
+/admin/application-pdf/219 1 335469 0 1
+/admin/application-pdf/168 1 500551 0 0
+/admin/application-pdf/185 1 84047 0 0
+/download/receipt-pdf/151 2 85918 1 0
+/admin/application-pdf/222 1 99026 0 0
+/admin/application-pdf/216 1 1872093 0 0
+/moderator/payments 4 500212 1 3
+/admin/application-pdf/182 1 170755 0 0
+/admin/application-pdf/136 1 80863 0 0
+/admin/application-pdf/157 1 87997 0 0
+/admin/application-pdf/164 1 2923252 0 0
+/admin/application-pdf/180 1 2214490 0 0
+/admin/application-pdf/147 1 89605 0 0
+/admin/application-pdf/183 1 96120 0 0
+/admin/application/152 2 53966 0 0
+/admin/application-pdf/210 1 465990 1 0
+/admin/application-pdf/228 2 317638 0 0
+/admin/application-pdf/197 1 64772 1 0
+/admin/application-pdf/205 1 87400 0 0
+/admin/application-pdf/150 1 134563 0 0
+/admin/application-pdf/125 1 94137 0 0
+/admin/application-pdf/217 1 1099526 0 0
+/admin/application-pdf/132 1 51899 0 0
+/unprotected/loader.html 1 905 1 1
+/admin/application-pdf/153 1 80314 0 0
+/admin/application-pdf/170 1 88306 0 0
+/admin/application-pdf/120 2 188770 0 1
+/download/receipt-pdf/108 1 42956 0 1
+/admin/application-pdf/191 1 68481 0 0
+/admin/application-pdf/213 1 96413 0 0
+/admin/application-pdf/137 1 793332 0 0
+END_SIDER

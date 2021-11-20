@@ -1,0 +1,5 @@
+[26-May-2020 05:59:18 UTC] PHP Warning:  POST Content-Length of 9820036 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-May-2020 06:07:01 UTC] PHP Warning:  POST Content-Length of 9820036 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-May-2020 06:09:23 UTC] PHP Warning:  POST Content-Length of 9820036 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-May-2020 06:10:33 UTC] PHP Warning:  POST Content-Length of 9820036 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[05-Jun-2020 15:58:17 Asia/Kolkata] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/reimalieacademy/app/Http/Controllers/HomeController.php on line 10

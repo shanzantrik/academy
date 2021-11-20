@@ -1,0 +1,1668 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	382	106	607	652	9841870
+D	26487125	26495628
+18393	241	1	1	2798
+18393	259	1	1	2798
+18393	265	1	1	2818
+18393	269	2	2	5596
+18393	285	1	1	2798
+18394	9	1	1	2798
+18394	14	1	1	2803
+18394	47	1	1	2823
+18394	92	1	1	2803
+18394	106	3	0	72
+18394	119	1	0	24
+18394	121	3	1	2871
+18394	152	2	0	48
+18394	170	1	1	2819
+18394	209	1	1	0
+18394	218	1	0	4895
+18394	276	2	0	5463
+18394	280	1	1	2819
+18394	286	1	1	2819
+18395	10	2	2	5658
+18395	13	2	1	2868
+18395	14	1	1	2819
+18395	21	1	0	24
+18395	31	2	1	5688
+18395	41	1	1	2819
+18395	43	1	0	24
+18395	47	1	0	24
+18395	67	1	1	2839
+18395	82	1	1	2819
+18395	93	2	1	2843
+18395	108	2	0	48
+18395	116	1	0	24
+18395	120	1	0	24
+18395	124	2	0	48
+18395	125	1	1	2839
+18395	126	1	1	2819
+18395	158	4	1	20880
+18395	164	4	1	20868
+18395	170	1	1	2819
+18395	181	2	2	2819
+18395	212	1	0	24
+18395	214	1	1	2819
+18395	224	1	1	2839
+18395	225	1	0	5439
+18395	250	1	1	2819
+18395	256	1	0	4895
+18395	265	1	0	5439
+18396	12	1	1	2819
+18396	14	1	1	2839
+18396	23	1	1	2819
+18396	34	3	1	2867
+18396	82	1	1	2844
+18396	133	1	0	24
+18396	138	2	1	2843
+18396	139	5	2	495595
+18396	153	1	1	0
+18396	159	1	1	2819
+18396	162	1	0	24
+18396	168	1	0	24
+18396	169	2	1	2843
+18396	175	2	0	3738
+18396	178	1	0	24
+18396	196	1	1	2839
+18396	216	1	1	2819
+18396	228	1	1	2819
+18396	252	1	1	2819
+18396	273	1	1	2819
+18397	16	1	1	2819
+18397	39	1	1	2819
+18397	42	1	0	4930
+18397	47	1	1	2839
+18397	48	1	0	24
+18397	67	2	2	5638
+18397	82	1	0	24
+18397	116	1	1	2819
+18397	141	1	0	24
+18397	142	1	1	2819
+18397	148	1	1	0
+18397	153	2	1	7714
+18397	154	1	1	2819
+18397	159	1	0	24
+18397	166	1	0	24
+18397	171	1	0	24
+18397	182	2	1	2868
+18397	186	2	1	2843
+18397	194	1	0	24
+18397	213	3	1	2887
+18397	219	1	1	2839
+18397	220	1	1	2819
+18397	222	1	1	2819
+18397	228	1	0	24
+18397	233	1	1	2819
+18397	238	1	1	0
+18397	239	1	1	2819
+18397	280	1	1	2819
+18397	286	1	1	2819
+18398	1	1	1	2819
+18398	23	1	0	24
+18398	59	1	0	24
+18398	64	1	1	2839
+18398	83	1	1	2819
+18398	84	3	1	2867
+18398	87	1	1	2819
+18398	141	1	0	24
+18398	164	1	1	2819
+18398	172	1	0	24
+18398	200	1	1	2819
+18398	230	1	0	24
+18398	255	1	1	2819
+18398	270	1	0	24
+18398	274	1	1	2819
+18398	275	1	0	24
+18399	89	1	0	24
+18399	99	1	1	2839
+18399	100	1	0	24
+18399	127	1	1	2819
+18399	129	2	0	3708
+18399	137	8	7	19813
+18399	138	2	2	5658
+18399	142	1	0	24
+18399	143	2	1	2839
+18399	155	1	1	2819
+18399	163	2	1	2819
+18399	169	1	1	2819
+18399	178	2	1	2819
+18399	183	9	1	1003293
+18399	184	34	1	2603010
+18399	185	18	1	119885
+18399	186	14	1	98455
+18399	187	56	0	2363677
+18399	188	1	0	8517
+18399	189	2	0	0
+18399	190	1	0	0
+18399	191	1	0	24
+18399	199	1	0	1802
+18399	200	2	0	1802
+18399	201	5	1	22805
+18399	202	4	0	10173
+18399	203	50	1	2739134
+18399	204	2	0	9567
+18399	206	2	1	2843
+18399	209	4	1	20866
+18399	211	2	2	5638
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/wp/wp-includes/wlwmanifest.xml
+1	0	0	0	1	0	0	26493708	0	0	26493708	0	/deal/amazon-opta-bluetooth-headsets/feed
+1	3	0	0	0	26495575	0	0	26495484	0	0	2060121	/adminlte/dist/css/adminlte.min.css
+1	0	0	1	0	0	26494876	0	0	26494876	0	0	/deal/skybags-brat-2-backpackblack/
+1	0	0	1	0	0	26493418	0	0	26493418	0	0	/deal/69-off-metronaut-mens-tees/
+1	0	0	0	1	0	0	26493441	0	0	26493441	0	/deal/amazon-nivea-men-fresh-active-original-deodorant-spray/feed
+1	0	0	0	1	0	0	26491896	0	0	26491896	0	/deal/appliance-bazar-tp-cordless-trimmer/feed
+1	0	0	1	0	0	26494616	0	0	26494616	0	0	/deal/912/feed/
+1	0	0	1	0	0	26495580	0	0	26495580	0	0	/payment/10
+1	0	0	1	0	0	26495179	0	0	26495179	0	0	/deal/geekcases-2-usb-ports-2-1a-wall-charger-adapter-1m-3-3ft-micro-usb-cable-smart-charger-2-1a-intellicharge-adaptive-charging-auto-id-4-fail-safe-features-samsung/
+1	0	0	1	0	0	26493340	0	0	26493340	0	0	/deal/jockey-mens-cotton-socks/
+1	0	0	1	0	0	26493501	0	0	26493501	0	0	/deal/inalsa-easy-toast-white/
+1	0	0	0	1	0	0	26492471	0	0	26492471	0	/deal/amazon-universal-mini-tripod-digital-camera-android-iphone
+1	0	0	0	5	0	0	26494429	0	0	26487081	0	/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122-b-modified-1521036058
+1	0	0	0	5	0	0	26494429	0	0	26487081	0	/wp-content/plugins/akismet/_inc/form.js?ver=4.0.3
+1	0	0	0	1	0	0	26494571	0	0	26494571	0	/deal/people-mens-t-shirt-blue/feed
+1	0	0	0	1	0	0	26489368	0	0	26489368	0	/deal/dp-9093-0-5-watt-led-torch-multicolour
+1	0	0	1	0	0	26490478	0	0	26490478	0	0	/deal/us-polo-assn-mens-casual-trousers/feed/
+1	0	0	1	0	0	26492691	0	0	26492691	0	0	/deal/set-wet-vertical-hold-gel-100ml-pack-of-3/
+1	0	0	0	1	0	0	26490561	0	0	26490561	0	/deal/nap-premium-quality-kishmish-raisin-250gms
+1	0	0	1	0	0	26488349	0	0	26488349	0	0	/deal/hp-laptop-backpack/feed/
+1	0	0	0	1	0	0	26489369	0	0	26489369	0	/deal/dragonwar-storm-gaming-keyboard-led-mouse-combo-wired
+1	0	0	0	1	0	0	26493255	0	0	26493255	0	/deal/blue-microphones-icicle-xlr-usb-mic-converter-mic-preamp/feed
+1	0	0	1	0	0	26494794	0	0	26494794	0	0	/deal/lotto-mens-sandals-floaters/
+1	0	0	1	0	0	26495318	0	0	26495318	0	0	/deal/amazon-exclusive-brands-flat-40-off-extra-20-off-coupon/
+1	0	0	0	1	0	0	26487295	0	0	26487295	0	/deal/face-towel-set-20
+1	0	0	1	0	0	26492654	0	0	26492654	0	0	/deal/lotto-black-yellow-gym-bag/
+1	0	0	1	0	0	26491720	0	0	26491720	0	0	/deal/amazon-laurels-aspire-ivory-dial-mens-watch-lo-asp-101/
+1	0	0	0	1	0	0	26489366	0	0	26489366	0	/deal/fantosy-womens-handbag-yellow-black-fnb-290
+1	0	0	0	1	0	0	26494909	0	0	26494909	0	/deal/lotto-black-yellow-gym-bag/feed
+1	0	0	0	1	0	0	26491836	0	0	26491836	0	/deal/safari-xcross-antiscratch-cabin-luggage-21-inch
+1	0	0	0	11	0	0	26495260	0	0	26487026	0	/type/best/feed
+1	0	0	1	0	0	26489770	0	0	26489770	0	0	/deal/tp-link-tl-wn725n-150mbps-wireless-n-nano-usb-adapter-black/
+1	0	0	1	0	0	26492718	0	0	26492718	0	0	/deal/jackly-31in1-ratchet-screwdriver-set-pack-31/
+1	0	0	0	8	0	0	26494428	0	0	26487081	0	/wp-includes/js/jquery/jquery.js?ver=1.12.4
+1	0	0	1	0	0	26491975	0	0	26491975	0	0	/deal/cellbell-apple-macbook-air-hard-shell-skin-cover-case-keyboard-cover-dust-plugs/
+1	0	0	0	5	0	0	26494428	0	0	26487081	0	/wp-content/plugins/page-loading-effects/assets/css/style.css?ver=1.0.0
+1	0	0	1	0	0	26488921	0	0	26488921	0	0	/deal/amazon-nivea-oil-lotion-cocoa-nourish-400ml/feed/
+1	0	0	1	0	0	26488941	0	0	26488941	0	0	/deal/mosquito-racket/feed/
+1	0	0	0	1	0	0	26491568	0	0	26491568	0	/deal/adidas-men-women-solid-ankle-length-socks-pack-9/feed
+1	0	0	0	1	0	0	26492632	0	0	26492632	0	/deal/smartron-t-phone-p-32-gb3gb-ram/feed
+1	0	0	0	1	0	0	26491758	0	0	26491758	0	/deal/6-1-electric-soldering-iron-complete-set/feed
+1	0	0	0	1	0	0	26490566	0	0	26490566	0	/deal/shopos-380-ml-notebook-water-cup-bottle-for-travel-and-office-use-assorted-color
+1	0	0	1	0	0	26491218	0	0	26491218	0	0	/deal/vega-blooming-air-vhdh-05-hair-dryer-color-may-vary/
+1	0	0	0	1	0	0	26495167	0	0	26495167	0	/deal/truck-accident-app-get-rs-5-per-referral-redeem-via-paytm-freecharge
+1	0	0	1	0	0	26489490	0	0	26489490	0	0	/deal/redmi-note-5-pro-live-1200/
+1	0	0	2	0	0	26494195	0	0	26489404	0	0	/deal/flipkart-wildcraft-rusksacks/
+1	0	0	1	0	0	26495274	0	0	26495274	0	0	/deal/alcatel-a7-metallic-gold-4gb-ram-32gb/
+1	0	0	1	0	0	26487848	0	0	26487848	0	0	/deal/hp-15-6-inch-expandable-laptop-backpack/
+1	0	0	1	0	0	26492847	0	0	26492847	0	0	/deal/provogue-lace-shoes-menbrown/
+1	0	0	2	0	0	26494580	0	0	26489365	0	0	/deal/sennheiser-hd-180-wired-headphone/
+1	0	0	1	0	0	26487297	0	0	26487297	0	0	/deal/lemor-premium-green-tea-with-mint-green-tea/
+1	0	0	1	0	0	26492886	0	0	26492886	0	0	/tag/how-to-find-amazon-deals/
+1	0	0	1	0	0	26492890	0	0	26492890	0	0	/tag/best-way-to-find-the-deals-in-amazon/
+1	0	0	0	1	0	0	26493359	0	0	26493359	0	/type/loot
+1	3	0	0	0	26495575	0	0	26495484	0	0	24207	/adminlte/plugins/daterangepicker/daterangepicker.css
+1	0	0	0	1	0	0	26492074	0	0	26492074	0	/deal/samsung-galaxy-s7-edge-32-gb4-gb-ram
+1	0	0	1	0	0	26490231	0	0	26490231	0	0	/deal/pillsbury-milk-choco-spread-290g/feed/
+1	0	0	0	1	0	0	26491332	0	0	26491332	0	/deal/lg-v20a-titan-64-gb/feed
+1	3	0	0	0	26495575	0	0	26495484	0	0	201804	/adminlte/plugins/daterangepicker/daterangepicker.js
+1	0	0	0	1	0	0	26489367	0	0	26489367	0	/deal/steelseries-siberia-p300-headset-mic
+1	0	0	0	1	0	0	26491151	0	0	26491151	0	/deal/samsung-24-inch-curved-full-hd-led-backlit-gaming-monitor
+1	0	0	0	2	0	0	26493183	0	0	26491907	0	/swiggy/?C=D;O=D
+1	0	0	0	1	0	0	26489367	0	0	26489367	0	/deal/genius-hs-m225-in-ear-headphones-with-mic-red
+1	0	0	1	0	0	26492845	0	0	26492845	0	0	/deal/nayasa-allora-plastic-container-set-4-pieces-yellow/
+1	0	0	1	0	0	26494794	0	0	26494794	0	0	/deal/wipro-10-w-b22-led-bulb/
+1	0	0	1	0	0	26488340	0	0	26488340	0	0	/deal/dabur-chyawanprash-1kg-dabur-red-paste-150g-free/
+1	0	0	0	1	0	0	26493194	0	0	26493194	0	/deal/coolnut-solar-power-bank-13000mah-cable-rs-1349
+1	0	0	1	0	0	26492134	0	0	26492134	0	0	/deal/micro-usb-cable-1-2-mtr-nylon-braided-premium-sync-and-charging-data-cables-super-high-speed-usb-2-0-android-charger/feed/
+1	0	0	1	0	0	26486984	0	0	26486984	0	0	/deal/lavie-rosetta-1-womens-sling-bag-black/
+1	0	0	0	1	0	0	26490564	0	0	26490564	0	/deal/storyhome-navy-100-cotton-6-pc-face-towel
+1	0	0	3	0	0	26495576	0	0	26495489	0	0	/moderator/update-application/1
+1	0	0	0	1	0	0	26492693	0	0	26492693	0	/deal/yonex-gr-303-saina-nehwal-special-edition-badminton-racquet-g3-strung-black-weight-95-g
+1	0	0	0	1	0	0	26492590	0	0	26492590	0	/deal/amazon-aristocrat-27-ltrs-black-casual-backpack-sbzen1blk/feed
+1	0	0	1	0	0	26492688	0	0	26492688	0	0	/deal/elligator-glasses-driving-day-night-fishing-outdoor-anti-glare-sunglasses/
+1	0	0	0	1	0	0	26493423	0	0	26493423	0	/deal/sinew-nutrition-elevate-mass-gainer-300gms-coffee/feed
+1	0	0	1	0	0	26490478	0	0	26490478	0	0	/deal/sony-mdr-ex14ap-headset-mic/
+1	0	0	0	1	0	0	26491296	0	0	26491296	0	/deal/lention-mini-smart-ear-hook-bluetooth-headset-black?54.36.148.168
+1	0	0	0	1	0	0	26490916	0	0	26490916	0	/deal/yi-88012-action-camera-black/feed
+1	0	0	1	0	0	26494349	0	0	26494349	0	0	/deal/amazon-universal-mini-tripod-digital-camera-android-iphone/
+1	0	0	0	2	0	0	26492403	0	0	26490102	0	/type/best/page/4
+1	0	0	1	0	0	26493551	0	0	26493551	0	0	/deal/neulife-exclusive-skipping-rope/
+1	0	0	1	0	0	26494653	0	0	26494653	0	0	/deal/titan-htse-3-analog-black-dial-womens-watch-2525nl01/
+1	0	0	10	0	0	26495110	0	0	26487607	0	0	/type/hot-offer/feed/
+1	0	0	0	1	0	0	26489370	0	0	26489370	0	/type/best/page/3
+1	0	0	1	0	0	26492098	0	0	26492098	0	0	/deal/orient-electric-fabrijoy-difj10bp-1000-watt-dry-iron-white-blue/
+1	0	0	1	0	0	26493130	0	0	26493130	0	0	/deal/flipkart-usha-fan-room-heater-1299/
+1	0	0	0	1	0	0	26491488	0	0	26491488	0	/wp-includes/js/wp-embed.min.js?ver=5.0.3
+1	0	0	0	1	0	0	26488636	0	0	26488636	0	/wp-content/themes/Trickyhunt/style.css?b-modified=1515850317&ver=4.9.1
+1	2	0	0	0	26495576	0	0	26495484	0	0	83150	/images/1589139827.jpeg
+1	0	0	1	0	0	26490571	0	0	26490571	0	0	/deal/swimming-combo-kit-1-silicone-swim-cap-1-goggle-1-pair-ear-plugs-combomulticolor/
+1	0	0	0	1	0	0	26493144	0	0	26493144	0	/deal/mobile-case-rs-99/feed
+1	23	0	0	0	26495579	0	0	26495477	0	0	140677	/make-payment
+1	0	0	1	0	0	26487432	0	0	26487432	0	0	/deal/amazon-decoholic-mens-premium-cotton-ankle-socks-pairs-anti-slip-silicon-pack-12/feed/
+1	0	0	0	1	0	0	26491635	0	0	26491635	0	/deal/drive-black-flip-flop
+1	3	0	0	0	26495575	0	0	26495484	0	0	127149	/adminlte/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js
+1	0	0	1	0	0	26493602	0	0	26493602	0	0	/deal/intex-pb11k-11000mah-power-bank-white/
+1	0	0	1	0	0	26490567	0	0	26490567	0	0	/deal/paytm-mall-x5-fusion-mens-watch-new-w0234/
+1	0	0	0	1	0	0	26489458	0	0	26489458	0	/deal/park-avenue-shiny-bouncy-beer-shampoo-180ml-men
+1	0	0	1	0	0	26491402	0	0	26491402	0	0	/deal/boat-bassheads-900-wired-headphone-mic/
+1	0	0	0	1	0	0	26488636	0	0	26488636	0	/wp-content/plugins/jetpack/modules/wpgroho.js?ver=-b-modified-1515785257
+1	0	0	1	0	0	26495207	0	0	26495207	0	0	/deal/makeup-academy-lipstick-shade-12-3-8g/feed/
+1	0	0	2	0	0	26493002	0	0	26491640	0	0	/deal/home-star-3-container-750ml-lunch-box-color-assorted/
+1	0	0	0	2	0	0	26488636	0	0	26488636	0	/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/socicon.css?ver=20170209
+1	0	0	0	1	0	0	26488796	0	0	26488796	0	/index.php?param1=assert&param2=print(md5(57575848371));
+1	0	0	2	0	0	26494210	0	0	26489369	0	0	/deal/amkette-evo-gamepad-wired-otg-supported-android-phones-tablets/
+1	0	0	1	0	0	26491815	0	0	26491815	0	0	/deal/amazon-decoholic-mens-premium-cotton-ankle-socks-pairs-anti-slip-silicon-pack-12/
+1	0	0	1	0	0	26487890	0	0	26487890	0	0	/deal/amazon-kenneth-cole-reaction-tshirts-80-off/feed/
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/wp1/wp-includes/wlwmanifest.xml
+1	0	0	1	0	0	26495234	0	0	26495234	0	0	/deal/ratan-3000-ml-1800-ml-1020-ml-620-ml-350-ml-200-ml-plastic-grocery-container-pack-6-violet/
+1	0	0	1	0	0	26487459	0	0	26487459	0	0	/deal/amazon-pantene-silky-smooth-care-conditioner-175ml/
+1	0	0	0	1	0	0	26495301	0	0	26495301	0	/deal/blanket-pack-starting-228/feed
+1	0	0	1	0	0	26491458	0	0	26491458	0	0	/deal/sony-mdr-zx110a-ear-stereo-headphones/
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/site/wp-includes/wlwmanifest.xml
+1	0	0	1	0	0	26494534	0	0	26494534	0	0	/deal/le-gear-premium-microfiber-cleaning-cloth-blue/
+1	0	0	0	1	0	0	26491488	0	0	26491488	0	/wp-includes/js/wp-emoji-release.min.js?ver=5.0.3
+1	0	0	0	1	0	0	26491015	0	0	26491015	0	/deal/skybags-cardiff-polyester-52-cms-red-travel-duffle
+1	0	0	1	0	0	26487335	0	0	26487335	0	0	/deal/skybags-cardiff-polyester-52-cms-red-travel-duffle/
+1	0	0	0	1	0	0	26489365	0	0	26489365	0	/deal/philips-gc-1011-steam-iron
+1	0	0	1	0	0	26494149	0	0	26494149	0	0	/deal/snapshopee-socket-set-pack-41/
+1	0	0	0	1	0	0	26493208	0	0	26493208	0	/deal/silvers-sb-414-gutted-badminton-racketsmulticolor/feed
+1	0	0	0	1	0	0	26492641	0	0	26492641	0	/deal/maybelline-new-york-fit-matte-poreless-powder-235-pure-beige-8-5g
+1	0	0	0	1	0	0	26490564	0	0	26490564	0	/deal/storyhome-white-100-cotton-6-pc-face-towel
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/2019/wp-includes/wlwmanifest.xml
+1	0	0	1	0	0	26492386	0	0	26492386	0	0	/deal/intex-muzyk-b20-portable-speakers-black/
+1	0	0	1	0	0	26491753	0	0	26491753	0	0	/deal/flat-60-off-kids-wears/
+1	0	0	0	1	0	0	26492437	0	0	26492437	0	/deal/earton-sneakers-men
+1	0	0	1	0	0	26490906	0	0	26490906	0	0	/deal/flipkart-add-3-best-price/
+1	0	0	1	0	0	26494206	0	0	26494206	0	0	/deal/htc-u-play/
+1	0	0	1	0	0	26490566	0	0	26490566	0	0	/deal/micro-usb-cable-1-2-mtr-nylon-braided-premium-sync-and-charging-data-cables-super-high-speed-usb-2-0-android-charger/
+1	0	0	1	0	0	26491432	0	0	26491432	0	0	/deal/portable-cordless-mini-hand-held-clothes-fabrics-sewing-machine/
+1	3	0	0	0	26495575	0	0	26495484	0	0	22731	/adminlte/dist/js/pages/dashboard.js
+1	0	0	0	1	0	0	26493301	0	0	26493301	0	/deal/little-india-earthenware-table-diya-setheight-1-inch-pack-4
+1	0	0	1	0	0	26489371	0	0	26489371	0	0	/deal/pigeon-blackline-smart-stainless-steel-4-burner-gas-stove-black/
+1	0	0	0	1	0	0	26492537	0	0	26492537	0	/deal/amazon-happilo-premium-seedless-raisins-250g-pack-2
+1	0	0	1	0	0	26491170	0	0	26491170	0	0	/deal/amazon-regency-walnut-kernels-halves-250g/
+1	0	0	1	0	0	26489365	0	0	26489365	0	0	/deal/philips-gc-1011-steam-iron/
+1	0	0	1	0	0	26492889	0	0	26492889	0	0	/tag/amazon-offer/
+1	0	0	0	1	0	0	26487300	0	0	26487300	0	/deal/paytm-mall-wipro-tejas-9w-led-bulb-cool-day-light-6500k-pack-3
+1	0	0	2	0	0	26492076	0	0	26489367	0	0	/deal/puma-womens-solid-crew-length-socks/
+1	0	0	1	0	0	26489368	0	0	26489368	0	0	/deal/dp-9093-0-5-watt-led-torch-multicolour/
+1	2	0	0	0	26495498	0	0	26495496	0	0	23936	/dashboard
+1	0	0	1	0	0	26489365	0	0	26489365	0	0	/deal/bingo-m2-black-smart-fitness-band/
+1	0	0	1	0	0	26495594	0	0	26495594	0	0	/deal/yonex-gr-303-saina-nehwal-special-edition-badminton-racquet-g3-strung-black-weight-95-g/feed/
+1	0	0	0	1	0	0	26492815	0	0	26492815	0	/deal/puma-womens-solid-crew-length-socks/feed
+1	0	0	1	0	0	26489502	0	0	26489502	0	0	/deal/tata-swach-desire-27-l-non-electric-water-purifier-black/
+1	0	0	1	0	0	26491310	0	0	26491310	0	0	/deal/geekcases-micro-usb-3d-rhombus-cable-extra-long-6-ft-turbo-charge-2-4a-zinc-alloy-kirsite-micro-usb-white/
+1	0	0	0	1	0	0	26490569	0	0	26490569	0	/deal/kaltron-sturdy-steel-combination-20-32-cm-8-inch-plier
+1	0	0	1	0	0	26489826	0	0	26489826	0	0	/deal/all-out-ultra-clear-refill-saver-270ml-pack-6/feed/
+1	0	0	1	0	0	26490567	0	0	26490567	0	0	/deal/square-bluetooth-earphone-cable-storage-box/
+1	0	0	1	0	0	26488341	0	0	26488341	0	0	/deal/sandisk-32gb-class-10-microsdxc-memory-card-adapter-sdsquar-032g-gn6ma/feed/
+1	0	0	0	10	0	0	26494835	0	0	26487373	0	/type/loot/feed
+1	0	0	2	0	0	26489381	0	0	26489370	0	0	/deal/soundlogic-btc001s_wh-portable-bluetooth-mobile-tablet-speaker/
+1	0	0	0	3	0	0	26487268	0	0	26487267	0	/wp-admin/theme-editor.php
+1	0	0	1	0	0	26490561	0	0	26490561	0	0	/deal/nap-premium-quality-kishmish-raisin-250gms/
+1	0	0	1	0	0	26493833	0	0	26493833	0	0	/deal/amazon-buwch-mens-leatherite-formal-black-shoes/feed/
+1	0	0	0	1	0	0	26491067	0	0	26491067	0	/deal/1-bath-towels-4-face-towels
+1	0	0	1	0	0	26489367	0	0	26489367	0	0	/deal/faces-nail-enmel-transparent-01-30ml/
+1	0	0	0	1	0	0	26489365	0	0	26489365	0	/deal/prestige-teon-750-w-mixer-grinder
+1	0	0	1	0	0	26494567	0	0	26494567	0	0	/deal/amazon-aristocrat-27-ltrs-black-casual-backpack-sbzen1blk/
+1	0	0	0	1	0	0	26491523	0	0	26491523	0	/deal/parachute-advansed-body-lotion-deep-nourish-250ml-parachute-advansed-coconut-hair-oil-175ml-free-worth-rs-80
+1	0	0	0	1	0	0	26493573	0	0	26493573	0	/deal/lavie-rosetta-1-womens-sling-bag-black/feed
+1	0	0	1	0	0	26490564	0	0	26490564	0	0	/deal/storyhome-white-100-cotton-6-pc-face-towel/
+1	3	0	0	0	26495575	0	0	26495484	0	0	63450	/adminlte/plugins/jqvmap/jquery.vmap.min.js
+1	0	0	1	0	0	26487810	0	0	26487810	0	0	/deal/amazon-havit-hv-2198d-headphones-black/
+1	0	0	0	1	0	0	26490563	0	0	26490563	0	/deal/indian-beauty-poly-cotton-saree-blouse
+1	0	0	0	1	0	0	26490475	0	0	26490475	0	/deal/panasonic-er-gy10-k44b-cordless-trimmer
+1	0	0	1	0	0	26489369	0	0	26489369	0	0	/deal/dragonwar-storm-gaming-keyboard-led-mouse-combo-wired/
+1	0	0	1	0	0	26493125	0	0	26493125	0	0	/deal/bms-lifestyle-eco-non-stick-cookware-kitchen-gift-set-4-pieces-cookware-set/
+1	0	0	1	0	0	26494481	0	0	26494481	0	0	/deal/amazon-duke-mens-printed-slim-fit-t-shirt/
+1	0	0	2	0	0	26494736	0	0	26488528	0	0	/deal/makeup-academy-luxe-glow-beam-liquid-highlight-cushion-gold-10g/
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/wp-includes/wlwmanifest.xml
+1	0	0	0	1	0	0	26491857	0	0	26491857	0	/deal/world-wear-footwear-multicolor-combo
+1	0	0	1	0	0	26493250	0	0	26493250	0	0	/deal/bajaj-dc-70-dlx-desert-air-cooler-white-70-litres/
+1	3	0	0	0	26495575	0	0	26495484	0	0	143136	/adminlte/plugins/jqvmap/maps/jquery.vmap.usa.js
+1	0	0	1	0	0	26495301	0	0	26495301	0	0	/deal/farenheit-uv-protected-wayfarer-unisex-sunglasses/feed/
+1	0	0	1	0	0	26489366	0	0	26489366	0	0	/deal/appliance-bazar-tp-cordless-trimmer/
+1	0	0	1	0	0	26493935	0	0	26493935	0	0	/deal/amazon-nivea-men-fresh-active-original-deodorant-spray/
+1	0	0	1	0	0	26490479	0	0	26490479	0	0	/deal/rapoo-v110-wired-usb-gaming-keyboard/
+1	0	0	0	12	0	0	26495093	0	0	26487892	0	/ads.txt
+1	0	0	1	0	0	26488812	0	0	26488812	0	0	/deal/earton-sneakers-men/
+1	0	0	0	1	0	0	26493418	0	0	26493418	0	/deal/flipkart-nanki-trades-candles-candle
+1	0	0	1	0	0	26493518	0	0	26493518	0	0	/deal/puma-mens-brown-genuine-leather-wallet-4-card-slot-free-delivery/
+1	0	0	0	1	0	0	26493654	0	0	26493654	0	/deal/fogg-analog-black-dial-mens-watch-2004-bk
+1	0	0	1	0	0	26490654	0	0	26490654	0	0	/deal/amazon-shc-mens-casual-sports-shoes-sneaker-8-navyblue/
+1	0	0	0	6	0	0	26494429	0	0	26487081	0	/wp-content/themes/Trickyhunt/js/navigation.js?ver=20151215-b-modified-1516466432
+1	0	0	1	0	0	26490560	0	0	26490560	0	0	/deal/flair-pop-gel-pen-blue-pack-of-20-pen/
+1	0	0	2	0	0	26495488	0	0	26488671	0	0	/deal/hp-backpacks/
+1	0	0	1	0	0	26488278	0	0	26488278	0	0	/deal/aloe-vera-eye-cool-mask/
+1	3	0	0	0	26495575	0	0	26495484	0	0	27213	/adminlte/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css
+1	0	0	1	0	0	26489094	0	0	26489094	0	0	/deal/gas-macho-tennis-ball/feed/
+1	0	0	1	0	0	26495498	0	0	26495498	0	0	/create-installment
+1	0	0	0	6	0	0	26494429	0	0	26487081	0	/wp-content/themes/Trickyhunt/js/skip-link-focus-fix.js?ver=20151215-b-modified-1516466432
+1	0	0	2	0	0	26492036	0	0	26487295	0	0	/deal/face-towel-set-20/
+1	0	0	0	2	0	0	26493416	0	0	26492203	0	/deal/sandisk-16-gb-ultra-dual-m3-0-pen-drive-black/feed
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/news/wp-includes/wlwmanifest.xml
+1	0	0	0	1	0	0	26488355	0	0	26488355	0	/deal/amazon-kenneth-cole-reaction-tshirts-80-off
+1	0	0	1	0	0	26491078	0	0	26491078	0	0	/deal/klick2style-womens-crepe-yellow-dress/feed/
+1	0	0	1	0	0	26489190	0	0	26489190	0	0	/deal/dettol-fresh-shaving-cream-78g-pack-3/feed/
+1	0	0	0	5	0	0	26493951	0	0	26488604	0	/comments/feed
+1	0	0	0	1	0	0	26492747	0	0	26492747	0	/deal/amazon-exclusive-brands-flat-40-off-extra-20-off-coupon/feed
+1	0	0	0	1	0	0	26487414	0	0	26487414	0	/deal/mosquito-racket
+1	0	0	2	0	0	26493171	0	0	26490569	0	0	/deal/andride-8-in-1-multi-screwdriver-with-led-portable-torch/
+1	0	0	2	0	0	26492031	0	0	26489369	0	0	/deal/69gal-full-sleeve-printed-womens-sweatshirt/
+1	0	0	0	1	0	0	26491098	0	0	26491098	0	/type/loot/page/2
+1	0	0	0	1	0	0	26493747	0	0	26493747	0	/deal/fitkit-fkymp05-g-yoga-mat-6mm-green
+1	0	0	1	0	0	26488698	0	0	26488698	0	0	/page/8/
+1	0	0	1	0	0	26490565	0	0	26490565	0	0	/deal/zebronics-headphone-with-mic/
+1	0	0	1	0	0	26491965	0	0	26491965	0	0	/deal/pagex-300-mbps-wireless-router/
+1	3	0	0	0	26495498	0	0	26495496	0	0	78623	/manage-installments
+1	0	0	0	1	0	0	26493140	0	0	26493140	0	/deal/nap-premium-quality-kishmish-raisin-250gms/feed
+1	0	0	1	0	0	26490174	0	0	26490174	0	0	/deal/laurels-ranger-tan-mens-walet-lw-rgr-0603/feed/
+1	0	0	1	0	0	26492231	0	0	26492231	0	0	/deal/amazon-urbanlifestylers-storm-breaker-complete-rain-suit-carry-bag-black/feed/
+1	0	0	0	1	0	0	26489365	0	0	26489365	0	/deal/sennheiser-hd-180-wired-headphone
+1	0	0	1	0	0	26493454	0	0	26493454	0	0	/deal/vlcc-skin-defense-melia-face-wash/
+1	0	0	0	1	0	0	26491197	0	0	26491197	0	/deal/storyhome-traditional-style-eco-series-cotton-blend-3-piece-door-mat/feed
+1	0	0	0	1	0	0	26490571	0	0	26490571	0	/deal/swimming-combo-kit-1-silicone-swim-cap-1-goggle-1-pair-ear-plugs-combomulticolor
+1	0	0	1	0	0	26491993	0	0	26491993	0	0	/deal/sunsilk-stunning-black-shine-shampoo-650ml/
+1	0	0	0	1	0	0	26495234	0	0	26495234	0	/deal/ratan-3000-ml-1800-ml-1020-ml-620-ml-350-ml-200-ml-plastic-grocery-container-pack-6-violet
+1	0	0	1	0	0	26491943	0	0	26491943	0	0	/deal/karbonn-k9-staar-black/
+1	0	0	0	1	0	0	26493629	0	0	26493629	0	/deal/cello-amaze-500-watt-mixer-grinder-with-2-jars-marron
+1	0	0	0	1	0	0	26491432	0	0	26491432	0	/deal/portable-cordless-mini-hand-held-clothes-fabrics-sewing-machine
+1	0	0	1	0	0	26491678	0	0	26491678	0	0	/deal/laurels-europha-analog-blue-dial-mens-watch/
+1	0	0	1	0	0	26489370	0	0	26489370	0	0	/deal/taotronics-bh06-sweatproof-bluetooth-ear-headphones-mic-black/
+1	0	0	1	0	0	26493872	0	0	26493872	0	0	/deal/marvel-boys-hoodie/
+1	0	0	2	0	0	26495396	0	0	26494794	0	0	/deal/minimum-50-off-aristocrat-casual-backpacks/
+1	3	0	0	0	26495575	0	0	26495484	0	0	60141	/adminlte/plugins/summernote/summernote-bs4.css
+1	0	0	1	0	0	26492805	0	0	26492805	0	0	/deal/vaseline-intensive-care-aloe-soothe-spray-moisturizer-190ml/
+1	0	0	2	0	0	26495535	0	0	26489366	0	0	/deal/fantosy-womens-handbag-yellow-black-fnb-290/
+1	0	0	0	2	0	0	26491488	0	0	26491488	0	/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=1509
+1	0	0	0	1	0	0	26491488	0	0	26491488	0	/wp-content/plugins/bubble-menu/public/css/style.css?ver=1.3
+1	0	0	0	1	0	0	26491488	0	0	26491488	0	/wp-includes/css/dashicons.min.css?ver=5.0.3
+1	0	0	1	0	0	26493446	0	0	26493446	0	0	/deal/princeware-modular-plastic-container-set-6-pieces-violet/
+1	0	0	0	1	0	0	26492466	0	0	26492466	0	/deal/watch-box-men-women-wrist-watcheswristwatch-case-giftboxtotal-5-boxes
+1	0	0	0	1	0	0	26489367	0	0	26489367	0	/deal/adidas-mens-womens-ankle-length-socks
+1	0	0	1	0	0	26489517	0	0	26489517	0	0	/deal/neevov-boys-avenger-iron-man-hooded-sweatshirt/
+1	0	0	1	0	0	26491566	0	0	26491566	0	0	/deal/cello-max-fresh-super-steel-lunch-box-set-2-pieces-red/feed/
+1	3	0	0	0	26495575	0	0	26495484	0	0	446232	/adminlte/plugins/summernote/summernote-bs4.min.js
+1	0	0	0	1	0	0	26492176	0	0	26492176	0	/deal/new-stock-added-american-crew-mens-t-shirt/feed
+1	0	0	0	1	0	0	26493753	0	0	26493753	0	/deal/livpure-liv-pep-pro-plus-7-l-ro-uv-uf-water-purifierwhite
+1	0	0	0	1	0	0	26488636	0	0	26488636	0	/wp-content/themes/Trickyhunt/js/navigation.js?ver=20151215-b-modified-1515515433
+1	0	0	0	1	0	0	26493091	0	0	26493091	0	/deal/core-i3-laptops-upto-50-off-rs-21990
+1	1	0	0	0	26492447	0	0	26492447	0	0	4895	/login?from=0.000000
+1	0	0	1	0	0	26493574	0	0	26493574	0	0	/deal/safari-xcross-antiscratch-cabin-luggage-21-inch/
+1	0	0	0	3	0	0	26495334	0	0	26493747	0	/feed
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/shop/wp-includes/wlwmanifest.xml
+1	0	0	1	0	0	26494575	0	0	26494575	0	0	/deal/orbatt-data-cable/
+1	0	0	0	1	0	0	26492739	0	0	26492739	0	/deal/amazon-kohinoor-platinum-authentic-basmati-rice-1kg/feed
+1	0	0	1	0	0	26488297	0	0	26488297	0	0	/deal/combo-2-sunglass/feed/
+1	0	0	0	1	0	0	26493332	0	0	26493332	0	/deal/amazon-prestige-pkoss-1-2-litre-1200w-electric-kettle/feed
+1	0	0	1	0	0	26489662	0	0	26489662	0	0	/deal/watch-box-men-women-wrist-watcheswristwatch-case-giftboxtotal-5-boxes/
+1	0	0	0	2	0	0	26493968	0	0	26493968	0	/airtel-free-internet-uc-handler-trick
+1	0	0	0	1	0	0	26488636	0	0	26488636	0	/wp-content/themes/Trickyhunt/js/skip-link-focus-fix.js?ver=20151215-b-modified-1515515433
+1	0	0	1	0	0	26495499	0	0	26495499	0	0	/admin/update-application/2
+1	0	0	1	0	0	26490475	0	0	26490475	0	0	/page/2/
+1	0	0	1	0	0	26488951	0	0	26488951	0	0	/deal/john-miller-mens-solid-slim-fit-synthetic-casual-shirt/
+1	0	0	1	0	0	26487853	0	0	26487853	0	0	/deal/lapguard-sailing-1530_10-4k-10400mah-lithium-ion-power-bank/feed/
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/wp2/wp-includes/wlwmanifest.xml
+1	0	0	1	0	0	26492259	0	0	26492259	0	0	/deal/amazon-happilo-premium-seedless-raisins-250g-pack-2/
+1	0	0	1	0	0	26491970	0	0	26491970	0	0	/deal/fogg-fantastic-range-absolute-fragrance-body-spray-120ml/feed/
+1	0	0	1	0	0	26489370	0	0	26489370	0	0	/deal/gear-polyester-20-ltrs-blue-casual-backpack-mdbkpeco50504/
+1	0	0	0	1	0	0	26494270	0	0	26494270	0	/wp-content/uploads/2018/07/71CbCSf2hiL._UL1500_.jpg
+1	0	0	1	0	0	26489367	0	0	26489367	0	0	/deal/adidas-mens-womens-ankle-length-socks/
+1	0	0	1	0	0	26488839	0	0	26488839	0	0	/deal/amazon-happilo-premium-international-queen-kalmi-dates-200g-pack-5/
+1	0	0	0	1	0	0	26489503	0	0	26489503	0	/.well-known/assetlinks.json
+1	0	0	0	1	0	0	26493386	0	0	26493386	0	/deal/bikenwear-indicator-cover
+1	0	0	0	1	0	0	26491018	0	0	26491018	0	/deal/sandisk-16gb-class-4-sdhc-memory-card/feed
+1	0	0	1	0	0	26494495	0	0	26494495	0	0	/deal/intex-16sbt-bluetooth-speakers-black/
+1	0	0	1	0	0	26494349	0	0	26494349	0	0	/deal/sandisk-32gb-class-10-microsdxc-memory-card-adapter-sdsquar-032g-gn6ma/
+1	0	0	1	0	0	26495614	0	0	26495614	0	0	/deal/amazon-havit-hv-kb371l-gaming-keyboard-black/
+1	0	0	0	1	0	0	26489365	0	0	26489365	0	/deal/top-ramen-curry-veg-280g
+1	14	0	12	0	26495573	26495575	0	26495484	26495484	0	35448	/moderator/login
+1	0	0	1	0	0	26490564	0	0	26490564	0	0	/deal/dual-sided-compass-box-for-multi-purpose-with-free-gift-fidget-spinner/
+1	0	0	0	1	0	0	26493385	0	0	26493385	0	/deal/amazon-women-clothing-80-off/feed
+1	0	0	1	0	0	26493736	0	0	26493736	0	0	/sample-page/
+1	0	0	1	0	0	26495607	0	0	26495607	0	0	/2020/02/15/hello-world/?unapproved=99&moderation-hash=1b72bfa917004bee250c8a901b0d5c3e
+1	0	0	0	1	0	0	26490570	0	0	26490570	0	/deal/kaltron-magnetic-hex-screwdriver-bit-professional-tool-kit
+1	0	0	11	0	0	26495260	0	0	26487026	0	0	/type/best/feed/
+1	0	0	0	1	0	0	26490563	0	0	26490563	0	/deal/perfect-vapouriser-steamer
+1	0	0	1	0	0	26494312	0	0	26494312	0	0	/author/abdhesh/
+1	0	0	0	1	0	0	26487518	0	0	26487518	0	/deal/myntra-check-description-get-rs-125-off-tshirt-no-min-purchase
+1	0	0	2	0	0	26491318	0	0	26490043	0	0	/deal/my-dryfruits-wali-premium-quality-raisinkishmish-pack-of-500gm/
+1	0	0	0	1	0	0	26491487	0	0	26491487	0	/wp-content/plugins/menu-icons/vendor/codeinwp/icon-picker/css/types/font-awesome.min.css?ver=4.7.0
+1	0	0	0	1	0	0	26489076	0	0	26489076	0	/deal/flipkart-steelseries-rival-95-wired-optical-gaming-mouse-usb-black
+1	0	0	1	0	0	26488604	0	0	26488604	0	0	/deal/flipkart-branded-jeans-upto-84-off/feed/
+1	0	0	1	0	0	26494343	0	0	26494343	0	0	/category/about-us/
+1	0	0	0	3	0	0	26494065	0	0	26492938	0	/tag/amazon-best-deals
+1	0	0	1	0	0	26489368	0	0	26489368	0	0	/deal/filpkart-ant-vr-designed-lenovo-smart-glasses/
+1	0	0	1	0	0	26487300	0	0	26487300	0	0	/deal/paytm-mall-wipro-tejas-9w-led-bulb-cool-day-light-6500k-pack-3/
+1	0	0	1	0	0	26493643	0	0	26493643	0	0	/deal/amazon-laurels-watch/feed/
+1	0	0	0	1	0	0	26487524	0	0	26487524	0	/deal/cosmic-flash-mountain-bikes-26-inch-black-green
+1	0	0	1	0	0	26490295	0	0	26490295	0	0	/deal/new-stock-added-american-crew-mens-t-shirt/feed/
+1	0	0	1	0	0	26491241	0	0	26491241	0	0	/deal/boat-rockerz-400-ear-bluetooth-headphones-carbon-black/
+1	0	0	1	0	0	26487816	0	0	26487816	0	0	/deal/rico-sordi-mens-metal-watch/feed/
+1	1	0	0	0	26495498	0	0	26495498	0	0	29966	/images/1589193180.png
+1	0	0	0	1	0	0	26490561	0	0	26490561	0	/deal/drive-red-flip-flop
+1	0	0	0	2	0	0	26492248	0	0	26489801	0	/deal/amazon-zebronics-happy-head-headphones-grey
+1	0	0	0	2	0	0	26493442	0	0	26487295	0	/deal/weighing-scale
+1	0	0	1	0	0	26492171	0	0	26492171	0	0	/deal/livpure-liv-pep-pro-plus-7-l-ro-uv-uf-water-purifierwhite/
+1	0	0	1	0	0	26489364	0	0	26489364	0	0	/deal/sharp-ig-dc2e-b-car-air-purifier-black/
+1	0	0	0	1	0	0	26489365	0	0	26489365	0	/deal/cad-audio-as16-acoustic-enclosure
+1	0	0	0	1	0	0	26492773	0	0	26492773	0	/deal/kurtas-kurtis-best-price
+1	0	0	0	1	0	0	26491246	0	0	26491246	0	/deal/lg-v20a-titan-64-gb
+1	0	0	2	0	0	26494111	0	0	26489365	0	0	/deal/panasonic-battery/
+1	0	0	0	1	0	0	26492798	0	0	26492798	0	/deal/redmi-note-5/feed
+1	1	0	0	2	26495493	0	26495624	26495493	0	26495562	37479	/adminer/index.php
+1	0	0	0	5	0	0	26491038	0	0	26489592	0	/deal/flipkart-shrih-37-keys-melody-piano-dual-speakers-keyboard-microphone
+1	0	0	0	6	0	0	26494429	0	0	26487081	0	/wp-content/plugins/jetpack/modules/wpgroho.js?ver=-b-modified-1521036058
+1	0	0	1	0	0	26491373	0	0	26491373	0	0	/deal/urban-eagle-pantaloons-printed-mens-round-neck-light-blue-t-shirt/
+1	0	0	0	1	0	0	26491487	0	0	26491487	0	/wp-content/themes/outreach-pro/js/responsive-menu.js?ver=1.0.0
+1	0	0	1	0	0	26488570	0	0	26488570	0	0	/deal/amazon-krishna-emporia-party-wear-cotton-silk-georgette-multi-colour-saree-blouse/
+1	0	0	0	1	0	0	26493246	0	0	26493246	0	/deal/honor-10-phantom-blue-128-gb-6-gb-ram
+1	0	0	0	1	0	0	26493519	0	0	26493519	0	/deal/amazon-chromozome-mens-polo/feed
+1	0	0	1	0	0	26489640	0	0	26489640	0	0	/deal/amazon-laurels-combo-3-watches/feed/
+1	0	0	0	1	0	0	26487412	0	0	26487412	0	/deal/urban-living-3-layer-stainless-steel
+1	0	0	1	0	0	26493579	0	0	26493579	0	0	/deal/core-i3-laptops-upto-50-off-rs-21990/
+1	0	0	0	1	0	0	26492283	0	0	26492283	0	/deal/aristocrat-juke-cabin-luggage-22-inch
+1	0	0	0	1	0	0	26493418	0	0	26493418	0	/deal/69-off-metronaut-mens-tees
+1	0	0	1	0	0	26491084	0	0	26491084	0	0	/deal/amazonbasics-ear-headphones-white/
+1	0	0	1	0	0	26494610	0	0	26494610	0	0	/deal/storyhome-handicraft-style-eco-series-2-piece-cotton-blend-door-mat-set-16x24-brown-and-grey/
+1	0	0	0	1	0	0	26491488	0	0	26491488	0	/wp-content/plugins/meks-flexible-shortcodes/css/style.css?ver=1.3.1
+1	0	0	1	0	0	26489565	0	0	26489565	0	0	/deal/kall-k3310-dark-blue/
+1	0	0	0	1	0	0	26492553	0	0	26492553	0	/deal/touchwood-mens-sports-running-shoe-upto-74-off/feed
+1	0	0	0	1	0	0	26495210	0	0	26495210	0	/deal/panasonic-p90/feed
+1	0	0	0	1	0	0	26490997	0	0	26490997	0	/deal/tp-link-tl-wn725n-150mbps-wireless-n-nano-usb-adapter-black
+1	0	0	1	0	0	26488392	0	0	26488392	0	0	/deal/havells-bc1001-rechargeable-baby-hair-clipper-blue/
+1	0	0	2	0	0	26491075	0	0	26490569	0	0	/deal/3-digit-combination-padlock-set-of-2-assorted-color-model/
+1	0	0	1	0	0	26489615	0	0	26489615	0	0	/deal/steelseries-siberia-p300-headset-mic/feed/
+1	0	0	0	1	0	0	26492443	0	0	26492443	0	/deal/flipkart-wallstickers-starts-19
+1	0	0	0	1	0	0	26489369	0	0	26489369	0	/deal/amkette-evo-gamepad-wired-otg-supported-android-phones-tablets
+1	0	0	1	0	0	26492809	0	0	26492809	0	0	/deal/storyhome-white-100-cotton-6-pc-face-towel/feed/
+1	0	0	1	0	0	26491584	0	0	26491584	0	0	/2017/11/17/become-paytm-merchant-account-holder/
+1	0	0	0	1	0	0	26489371	0	0	26489371	0	/deal/pigeon-blackline-smart-stainless-steel-4-burner-gas-stove-black
+1	0	0	0	1	0	0	26490567	0	0	26490567	0	/deal/square-bluetooth-earphone-cable-storage-box
+1	0	0	1	0	0	26491366	0	0	26491366	0	0	/deal/gb7mp-bagrrys-fruit-n-fibre-muesli-mixed-fruit-1000g/
+1	0	0	0	1	0	0	26487810	0	0	26487810	0	/deal/amazon-havit-hv-2198d-headphones-black
+1	0	0	0	1	0	0	26489366	0	0	26489366	0	/deal/appliance-bazar-tp-cordless-trimmer
+1	0	0	1	0	0	26491134	0	0	26491134	0	0	/deal/ivoltaa-ivfk1-sync-charge-cable-black/
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/web/wp-includes/wlwmanifest.xml
+1	0	0	0	1	0	0	26489369	0	0	26489369	0	/deal/69gal-full-sleeve-printed-womens-sweatshirt
+1	0	0	1	0	0	26487959	0	0	26487959	0	0	/deal/amazon-chaps-analog-watches-upto-70-off/feed/
+1	0	0	1	0	0	26492591	0	0	26492591	0	0	/deal/puma-men-women-ankle-length-socks-pack-15/
+1	0	0	2	0	0	26495439	0	0	26489366	0	0	/deal/excalibur-mens-formal-shirt-pack-2-400/
+1	0	0	0	1	0	0	26491097	0	0	26491097	0	/deal/laurels-ranger-tan-mens-walet-lw-rgr-0603/feed
+1	0	0	1	0	0	26492826	0	0	26492826	0	0	/deal/cadbury-miniatures-collection-dairy-milk-silk-200g/
+1	0	0	0	1	0	0	26491943	0	0	26491943	0	/deal/karbonn-k9-staar-black
+1	0	0	0	5	0	0	26494428	0	0	26487081	0	/wp-content/plugins/mango-buttons/public/style/mb-button.css?ver=1.2.9
+1	0	0	1	0	0	26493731	0	0	26493731	0	0	/deal/laurels-large-size-polo-white-dial-mens-watch-lo-polo-701/
+1	0	0	0	1	0	0	26493235	0	0	26493235	0	/exam/?C=D;O=D
+1	0	0	1	0	0	26492438	0	0	26492438	0	0	/deal/touchwood-mens-sports-running-shoe-upto-74-off/
+1	0	0	0	1	0	0	26491682	0	0	26491682	0	/deal/oshotto-premium-high-quality-yty-universal-door-guard-set-4-white
+1	0	0	0	1	0	0	26491387	0	0	26491387	0	/deal/amazon-happilo-premium-international-queen-kalmi-dates-200g-pack-5
+1	0	0	0	1	0	0	26493164	0	0	26493164	0	/exam/?C=D;O=A
+1	0	0	0	1	0	0	26488636	0	0	26488636	0	/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=20170209-b-modified-1515751067
+1	0	0	1	0	0	26490013	0	0	26490013	0	0	/deal/gillette-endurance-cool-wave-clear-gel-deo-stick-deodorant-stick-men/feed/
+1	1	0	0	0	26495498	0	0	26495498	0	0	11632	/admin/applications
+1	0	0	1	0	0	26494496	0	0	26494496	0	0	/deal/timewear-analogue-beige-dial-watch-men-women/
+1	0	0	1	0	0	26491784	0	0	26491784	0	0	/deal/hindware-60-cm-700-m3-h-chimney-clarissa-black-60black/
+1	0	0	0	1	0	0	26490569	0	0	26490569	0	/deal/3-digit-combination-padlock-set-of-2-assorted-color-model
+1	0	0	1	0	0	26489368	0	0	26489368	0	0	/deal/prestige-delight-prwo-1-0-electric-rice-cooker/
+1	0	0	0	2	0	0	26492797	0	0	26489366	0	/deal/excalibur-mens-formal-shirt-pack-2-400
+1	0	0	1	0	0	26491158	0	0	26491158	0	0	/deal/flipkart-lunch-box-starts-39/
+1	0	0	1	0	0	26495310	0	0	26495310	0	0	/deal/seagate-expansion-1-5tb-portable-external-drive/
+1	0	0	1	0	0	26491699	0	0	26491699	0	0	/deal/amazon-dabur-honitus-ginger-cough-drops-300-lozenges-jar/
+1	0	0	1	0	0	26489822	0	0	26489822	0	0	/deal/912/
+1	0	0	1	0	0	26489974	0	0	26489974	0	0	/deal/kvg-plastic-cloth-clipsmulticolor-pack-29/
+1	0	0	0	1	0	0	26492884	0	0	26492884	0	/category/exclusive
+1	0	0	2	0	0	26495334	0	0	26493919	0	0	/feed/
+1	0	0	1	0	0	26495366	0	0	26495366	0	0	/deal/roadster-men-black-analogue-watch-rd17-2d/
+1	3	0	0	0	26495575	0	0	26495484	0	0	170637	/adminlte/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js
+1	0	0	0	1	0	0	26490568	0	0	26490568	0	/deal/pickadda-gyming-gym-fitness-gloves-free-size-black
+1	0	0	1	0	0	26490569	0	0	26490569	0	0	/deal/kaltron-sturdy-steel-combination-20-32-cm-8-inch-plier/
+1	0	0	0	2	0	0	26495009	0	0	26489020	0	/swiggy/
+1	0	0	0	1	0	0	26490953	0	0	26490953	0	/deal/reebok-riot-red-casual-backpack-bc4148/feed
+1	0	0	1	0	0	26494024	0	0	26494024	0	0	/deal/nivea-men-fresh-active-original-body-spray-men/
+1	0	0	1	0	0	26493409	0	0	26493409	0	0	/deals/
+1	19	0	0	0	26495577	0	0	26495248	0	0	0	/favicon.ico
+1	0	0	1	0	0	26491800	0	0	26491800	0	0	/deal/visko-111-8-blades-combination-screw-driver-set-tester-blue-white-9-pieces/feed/
+1	0	0	0	1	0	0	26493200	0	0	26493200	0	/deal/envent-truewood-210-portable-laptop-desktop-speaker
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/xmlrpc.php?rsd
+1	0	0	1	0	0	26493988	0	0	26493988	0	0	/deal/flipkart-cooling-days-9th-10th-march/
+1	0	0	1	0	0	26493175	0	0	26493175	0	0	/deal/cadbury-dairy-milk-silk-pralines-collection-240g/
+1	0	0	0	1	0	0	26490562	0	0	26490562	0	/deal/gas-macho-tennis-ball
+1	0	0	7	1	0	26495578	26495476	0	26495486	26495476	0	/logout
+1	0	0	0	1	0	0	26490476	0	0	26490476	0	/deal/dragon-war-ele-g11-wired-laser-gaming-mouse
+1	0	0	1	0	0	26490565	0	0	26490565	0	0	/deal/catbird-women-red-flip-flops/
+1	0	0	0	1	0	0	26491437	0	0	26491437	0	/deal/5plus-lightning-to-usb-for-smart-phones
+1	0	0	1	0	0	26493259	0	0	26493259	0	0	/deal/flipkart-audio-technica-ath-ax1is-bk-wired-headphone/
+1	0	0	1	0	0	26490120	0	0	26490120	0	0	/become-author-editor/?sa=U&ved=0ahUKEwi34MbYzZXXAhXMxYMKHdMfDvIQFggjMAI&usg=AOvVaw3fftyvoER4z63dkXYoZFCH
+1	0	0	1	0	0	26490561	0	0	26490561	0	0	/deal/branded-water-pump-plier/
+1	0	0	1	0	0	26495320	0	0	26495320	0	0	/deal/flipkart-wipro-garnet-plus-4-feet-22watt-led-tube-batten-straight-linear-led-tube-light/
+1	0	0	0	1	0	0	26493420	0	0	26493420	0	/deal/aristocrat-volt-polyester-55-cms-blue-travel-duffle-dftvol55blu
+1	0	0	1	0	0	26490935	0	0	26490935	0	0	/deal/vatika-anti-dandruff-shampoo-340-ml/
+1	0	0	1	0	0	26494231	0	0	26494231	0	0	/deal/ponds-pure-white-anti-pollution-face-wash-100-g/
+1	0	0	10	0	0	26494835	0	0	26487373	0	0	/type/loot/feed/
+1	0	0	1	0	0	26491178	0	0	26491178	0	0	/deal/amazon-chromozome-mens-polo/
+1	0	0	1	0	0	26489075	0	0	26489075	0	0	/deal/prestige-pdi-03-750-watt-dry-iron/
+1	0	0	2	0	0	26493968	0	0	26493968	0	0	/airtel-free-internet-uc-handler-trick/
+1	0	0	1	0	0	26493111	0	0	26493111	0	0	/deal/panasonic-eluga-i9-champagne-gold-32-gb/
+1	0	0	0	1	0	0	26491820	0	0	26491820	0	/deal/bombay-dyeing-bedsheets-buy-1-get-2/feed
+1	0	0	1	0	0	26494794	0	0	26494794	0	0	/deal/citizen-21-auto-umbrella/
+1	0	0	0	1	0	0	26493491	0	0	26493491	0	/deal/ruuh-messenger-refer-10-friends-get-free-rs-100-amazon-voucher/feed
+1	0	0	0	6	0	0	26489458	0	0	26487081	0	/wp-content/plugins/content-egg/res/js/price_alert.js?ver=-b-modified-1526397989
+1	0	0	1	0	0	26492766	0	0	26492766	0	0	/deal/tempo-mens-combo-pack-5-sandals/
+1	0	0	0	1	0	0	26493633	0	0	26493633	0	/deal/amazon-ab-roller-evolution-roller-work-exerciser
+1	0	0	1	0	0	26494766	0	0	26494766	0	0	/deal/amazon-50-off-on-pantry-items-new-items-added/
+1	0	0	0	1	0	0	26491487	0	0	26491487	0	/wp-content/plugins/meks-flexible-shortcodes/css/font-awesome/css/font-awesome.min.css?ver=1.3.1
+1	0	0	0	1	0	0	26493114	0	0	26493114	0	/deal/prestige-pic-1-0-mini-induction-cooktop
+1	0	0	1	0	0	26492884	0	0	26492884	0	0	/category/exclusive/
+1	0	0	0	1	0	0	26490563	0	0	26490563	0	/deal/gas-lighter-knife-peeler-color
+1	0	0	0	1	0	0	26492520	0	0	26492520	0	/deal/prestige-hard-anodised-plus-cookware-induction-base-roti-tawa/feed
+1	0	0	2	0	0	26493949	0	0	26489074	0	0	/deal/levis-mens-flip-flops-sandals-70-off-124/
+1	0	0	0	1	0	0	26493496	0	0	26493496	0	/deal/amazon-flat-80-off-gas-clothing-15-cashback
+1	0	0	0	1	0	0	26492479	0	0	26492479	0	/category/uncategorized
+1	0	0	1	0	0	26492470	0	0	26492470	0	0	/deal/lention-mini-smart-ear-hook-bluetooth-headset-black/feed/
+1	0	0	0	1	0	0	26491175	0	0	26491175	0	/deal/skybags-brat-8-25-l-backpack/feed
+1	0	0	1	0	0	26491731	0	0	26491731	0	0	/deal/pigeon-ultra-glass-stainless-steel-manual-gas-stove/
+1	0	0	0	1	0	0	26493308	0	0	26493308	0	/deal/sandisk-cruzer-blade-pack-2-16-gb-pen-drive-red-black
+1	0	0	0	1	0	0	26492704	0	0	26492704	0	/deal/amazon-laurels-aspire-ivory-dial-mens-watch-lo-asp-101/feed
+1	0	0	1	0	0	26493733	0	0	26493733	0	0	/deal/puma-shoes-65-off-rs-815/
+1	0	0	0	1	0	0	26487296	0	0	26487296	0	/deal/birde-blue-canvas-casual-shoes-men
+1	0	0	2	0	0	26487704	0	0	26487350	0	0	/deal/pillsbury-cookie-cake-greeting-pack-276g-12-single-packs-inside/
+1	0	0	0	1	0	0	26489074	0	0	26489074	0	/deal/backpack-on-filpkart
+1	0	0	2	0	0	26490976	0	0	26490566	0	0	/deal/shopos-380-ml-notebook-water-cup-bottle-for-travel-and-office-use-assorted-color/
+1	0	0	1	0	0	26489426	0	0	26489426	0	0	/deal/logitech-b170-wireless-optical-mouse/feed/
+1	0	0	0	1	0	0	26489081	0	0	26489081	0	/deal/mini-microphone-3-5mm-table-top-microphone-stand-laptop-pc-desktopblack
+1	0	0	1	0	0	26490436	0	0	26490436	0	0	/deal/ethics-mens-perfect-black-orange-sneaker-shoes-6/feed/
+1	0	0	1	0	0	26488740	0	0	26488740	0	0	/deal/tejdeep-strong-ctc-tea-combo-of-4-for-indian-strong-beverage-drinkers/
+1	0	0	0	1	0	0	26491487	0	0	26491487	0	/wp-content/plugins/meks-flexible-shortcodes/css/simple-line/simple-line-icons.css?ver=1.3.1
+1	0	0	0	1	0	0	26493655	0	0	26493655	0	/deal/amazonbasics-gopro-head-strap-mount-black/feed
+1	0	0	1	0	0	26493659	0	0	26493659	0	0	/deal/dettol-fresh-shaving-cream-78g-pack-3/
+1	0	0	1	0	0	26487298	0	0	26487298	0	0	/deal/klick2style-womens-crepe-yellow-dress/
+1	0	0	0	3	0	0	26493981	0	0	26489863	0	/invest/
+1	0	0	2	0	0	26494098	0	0	26493615	0	0	/deal/prestige-hard-anodised-plus-cookware-induction-base-roti-tawa/
+1	0	0	1	0	0	26491434	0	0	26491434	0	0	/deal/amazon-tcl-81-28-cm-32-inches-l32d2900-hd-ready-led-tv/
+1	0	0	0	1	0	0	26492748	0	0	26492748	0	/deal/amazon-harpic-powerplus-original-1-l-lizol-disinfectant-floor-cleaner-975-ml-citrus-dettol-hygiene-regular-500-ml/feed
+1	0	0	1	0	0	26487942	0	0	26487942	0	0	/deal/1-bath-towels-4-face-towels/
+1	0	0	0	1	0	0	26489367	0	0	26489367	0	/deal/puma-womens-solid-crew-length-socks
+1	0	0	1	0	0	26488192	0	0	26488192	0	0	/deal/lakme-9-5-long-wear-nail-color-pink-blast9-ml/feed/
+1	0	0	1	0	0	26493968	0	0	26493968	0	0	/deal/pinnaclz-selfie-stick-with-aux/
+1	0	0	1	0	0	26492318	0	0	26492318	0	0	/deal/krapal-casual-solid-womens-kurti/
+1	0	0	1	0	0	26494669	0	0	26494669	0	0	/deal/gfive-u229-dual-sim-basic-feature-mobile-phone-black-red/feed/
+1	0	0	0	1	0	0	26490560	0	0	26490560	0	/deal/flair-pop-gel-pen-blue-pack-of-20-pen
+1	0	0	1	0	0	26488633	0	0	26488633	0	0	/deal/amazonbasics-ballpoint-pens-1-0mm-pack-100/feed/
+1	0	0	1	0	0	26492328	0	0	26492328	0	0	/deal/2tb-portable-external-hard-drive-just-%E2%82%B95897/
+1	0	0	1	0	0	26494442	0	0	26494442	0	0	/deal/fd-a110-2-1-channel-multimedia-speakers/
+1	0	0	1	0	0	26494222	0	0	26494222	0	0	/deal/black-decker-pw1370-100-bar-pressure-washer-orange-black/
+1	0	0	0	1	0	0	26492697	0	0	26492697	0	/deal/matrix-analog-blue-dial-blue-leather-strap-womens-girls-watch-wn-14/feed
+1	0	0	0	2	0	0	26493321	0	0	26491793	0	/deal/samsung-galaxy-j8
+1	0	0	0	1	0	0	26492448	0	0	26492448	0	/phpMyAdmin/scripts/setup.php
+1	0	0	0	6	0	0	26494579	0	0	26487267	0	/wp-login.php
+1	0	0	0	7	0	0	26494428	0	0	26487081	0	/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+1	0	0	0	1	0	0	26489368	0	0	26489368	0	/deal/filpkart-ant-vr-designed-lenovo-smart-glasses
+1	0	0	1	0	0	26493263	0	0	26493263	0	0	/deal/neulife-exclusive-skipping-rope/feed/
+1	0	0	1	0	0	26490658	0	0	26490658	0	0	/deal/fd-e220-ear-headphone-red-black/feed/
+1	0	0	0	1	0	0	26488570	0	0	26488570	0	/deal/amazon-krishna-emporia-party-wear-cotton-silk-georgette-multi-colour-saree-blouse
+1	0	0	1	0	0	26491813	0	0	26491813	0	0	/deal/logitech-mk215-wireless-keyboard-mouse-combo/feed/
+1	0	0	0	1	0	0	26493137	0	0	26493137	0	/deal/jiofi-jmr815-wireless-data-card/feed
+1	0	0	2	0	0	26493523	0	0	26490568	0	0	/deal/pickadda-gyming-gym-fitness-gloves-free-size-black/
+1	0	0	1	0	0	26492885	0	0	26492885	0	0	/find-biggest-discount-on-amazon/
+1	0	0	1	0	0	26493321	0	0	26493321	0	0	/deal/colgate-toothpaste-maxfresh-spicy-fresh-300-g-red-gel-saver-pack/
+1	3	0	0	0	26495575	0	0	26495484	0	0	242094	/adminlte/plugins/bootstrap/js/bootstrap.bundle.min.js
+1	0	0	1	0	0	26489365	0	0	26489365	0	0	/deal/prestige-teon-750-w-mixer-grinder/
+1	0	0	1	0	0	26494598	0	0	26494598	0	0	/deal/lg-20-l-solo-microwave-oven/
+1	0	0	1	0	0	26487506	0	0	26487506	0	0	/deal/nivea-men-dark-spot-reduction-facewash-100ml-active-clean-shower-gel-250ml/
+1	0	0	1	0	0	26494713	0	0	26494713	0	0	/deal/fisher-price-pop-saurus-multi-color/
+1	0	0	0	1	0	0	26493501	0	0	26493501	0	/deal/jbl-go-portable-wireless-bluetooth-speaker-with-mic-black
+1	0	0	0	1	0	0	26490561	0	0	26490561	0	/deal/branded-water-pump-plier
+1	0	0	1	0	0	26495255	0	0	26495255	0	0	/deal/pickadda-gyming-gym-fitness-gloves-free-size-black/feed/
+1	0	0	0	1	0	0	26488740	0	0	26488740	0	/deal/tejdeep-strong-ctc-tea-combo-of-4-for-indian-strong-beverage-drinkers
+1	0	0	1	0	0	26488225	0	0	26488225	0	0	/deal/body-cupid-shower-gel-grapefruit-blush-400ml/
+1	0	0	0	1	0	0	26491172	0	0	26491172	0	/deal/amazonbasics-ballpoint-pens-1-0mm-pack-100/feed
+1	0	0	0	1	0	0	26493115	0	0	26493115	0	/deal/amazon-cadbury-rich-dry-fruit-collection-120g-pack-2/feed
+1	0	0	0	1	0	0	26491488	0	0	26491488	0	/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.0.3
+1	0	0	0	2	0	0	26492589	0	0	26492441	0	/deal/american-tourister-polyester-21-ltrs-black-laptop-backpack-amt-bop2017-laptop-bkpk3-black
+1	0	0	1	0	0	26491903	0	0	26491903	0	0	/exam
+1	0	0	0	1	0	0	26495396	0	0	26495396	0	/exam/
+1	0	0	0	1	0	0	26493614	0	0	26493614	0	/deal/faces-100-mineral-loose-powder-02-ivory-beige-7g
+1	0	0	1	0	0	26491242	0	0	26491242	0	0	/deal/amazon-jewellery-rs-69/
+1	0	0	1	0	0	26489868	0	0	26489868	0	0	/deal/amazonbasics-gopro-head-strap-mount-black/feed/?207.46.13.89
+1	0	0	1	0	0	26489164	0	0	26489164	0	0	/deal/parachute-advansed-body-lotion-deep-nourish-250ml-parachute-advansed-coconut-hair-oil-175ml-free-worth-rs-80/
+1	0	0	0	1	0	0	26493332	0	0	26493332	0	/deal/google-home-mini/feed
+1	0	0	0	1	0	0	26487299	0	0	26487299	0	/deal/jockey-ankle-length-socks-combo-pack-of-12
+1	0	0	1	0	0	26493863	0	0	26493863	0	0	/deal/nova-nsm-2403-750-watt-3-1-sandwich-maker/feed/
+1	0	0	2	0	0	26495299	0	0	26495216	0	0	/deal/nova-prime-series-nht-1085-cordless-trimmer-men/
+1	0	0	0	1	0	0	26493610	0	0	26493610	0	/deal/boat-rugby-portable-bluetooth-speaker-blue/feed
+1	0	0	1	0	0	26492092	0	0	26492092	0	0	/deal/rikang-anti-skid-bowl-spoon-pink/
+1	0	0	1	0	0	26495519	0	0	26495519	0	0	/2020/02/
+1	3	0	0	0	26495575	0	0	26495484	0	0	32412	/adminlte/plugins/jquery-knob/jquery.knob.min.js
+1	0	0	0	1	0	0	26495608	0	0	26495608	0	/02/15/hello-world?unapproved=99&moderation-hash=1b72bfa917004bee250c8a901b0d5c3e
+1	0	0	1	0	0	26492396	0	0	26492396	0	0	/deal/amazon-fd-anchor-e310-plus-professional-stero-earphone-black/
+1	0	0	0	1	0	0	26492653	0	0	26492653	0	/wp-content/uploads/2018/05/61-Fs82gC1L._SL1350_.jpg
+1	0	0	0	1	0	0	26492447	0	0	26492447	0	/horde/imp/test.php
+1	0	0	1	0	0	26493528	0	0	26493528	0	0	/deal/amazon-vissco-neoprene-back-support-xxl-6-inch/
+1	0	0	0	6	0	0	26494428	0	0	26487081	0	/wp-content/plugins/page-loading-effects/assets/js/ple.preloader.min.js?ver=-b-modified-1521569205
+1	0	0	0	1	0	0	26490567	0	0	26490567	0	/deal/6-1-electric-soldering-iron-complete-set
+1	0	0	0	1	0	0	26494901	0	0	26494901	0	/deal/skullcandy-s5lhz-j576-anti-headphone/headp
+1	0	0	0	1	0	0	26492748	0	0	26492748	0	/deal/amazon-vissco-neoprene-back-support-xxl-6-inch/feed
+1	0	0	1	0	0	26489366	0	0	26489366	0	0	/deal/super-2801-led-cabin-light-switch-12v/
+1	0	0	1	0	0	26488126	0	0	26488126	0	0	/deal/reebok-riot-red-casual-backpack-bc4148/feed/
+1	0	0	0	1	0	0	26495315	0	0	26495315	0	/author/trickyhunt
+1	0	0	0	1	0	0	26493559	0	0	26493559	0	/category/categories/electronies
+1	0	0	0	6	0	0	26495365	0	0	26488164	0	/wp-content/uploads/2018/05/dj-fav.png
+1	3	0	0	0	26495575	0	0	26495484	0	0	37848	/adminlte/dist/js/demo.js
+1	0	0	1	0	0	26493224	0	0	26493224	0	0	/deal/singer-16-litre-maxigrill-1600-oven-toaster-grill-otg/feed/
+1	0	0	1	0	0	26494021	0	0	26494021	0	0	/deal/amazon-l-girl-glazed-lip-paint-baby-doll-12ml/
+1	0	0	1	0	0	26491379	0	0	26491379	0	0	/deal/amazon-kohinoor-platinum-authentic-basmati-rice-1kg/
+1	0	0	1	0	0	26495336	0	0	26495336	0	0	/deal/bosch-10-pieces-combination-screwdriver-set-pack-10/
+1	0	0	0	1	0	0	26489369	0	0	26489369	0	/deal/mee-mee-caring-baby-wet-wipes-aloe-vera-72-pieces-pack-3
+1	0	0	1	0	0	26489079	0	0	26489079	0	0	/deal/logitech-hinge-ultra-thin-protective-case-cover-ipad-mini-4-black/
+1	0	0	1	0	0	26491536	0	0	26491536	0	0	/deal/amazon-sukkhi-kadaa-bracelet-women-golden/
+1	0	0	1	0	0	26493140	0	0	26493140	0	0	/deal/amazon-swiss-design-stylish-cool-sdb-5056-gr01-green-bag-laptop-bag/
+1	14	0	7	0	26495578	26495579	0	26488453	26495487	0	72743	/login
+1	0	0	10	0	0	26494438	0	0	26487022	0	0	/deal/feed/
+1	0	0	1	0	0	26487299	0	0	26487299	0	0	/deal/jockey-ankle-length-socks-combo-pack-of-12/
+1	0	0	1	0	0	26490344	0	0	26490344	0	0	/deal/lg-v20a-titan-64-gb/feed/
+1	0	0	1	0	0	26488226	0	0	26488226	0	0	/deal/sd-fabrics-womens-cotton-dress-material/feed/
+1	0	0	1	0	0	26489366	0	0	26489366	0	0	/deal/povos-pw309-nose-ear-trimmer-black/
+1	0	0	1	0	0	26494671	0	0	26494671	0	0	/deal/hp-laptop-backpack/
+1	0	0	1	0	0	26489365	0	0	26489365	0	0	/deal/top-ramen-curry-veg-280g/
+1	0	0	0	1	0	0	26490567	0	0	26490567	0	/deal/paytm-mall-x5-fusion-mens-watch-new-w0234
+1	3	0	0	0	26495575	0	0	26495484	0	0	21657	/adminlte/plugins/sparklines/sparkline.js
+1	0	0	1	0	0	26494102	0	0	26494102	0	0	/deal/envent-truewood-210-portable-laptop-desktop-speaker/
+1	0	0	1	0	0	26489367	0	0	26489367	0	0	/deal/steelseries-siberia-p300-headset-mic/
+1	0	0	0	1	0	0	26489365	0	0	26489365	0	/deal/bingo-m2-black-smart-fitness-band
+1	0	0	1	0	0	26491151	0	0	26491151	0	0	/deal/samsung-24-inch-curved-full-hd-led-backlit-gaming-monitor/
+1	0	0	0	1	0	0	26492447	0	0	26492447	0	/cgi-bin/test-cgi
+1	0	0	1	0	0	26490563	0	0	26490563	0	0	/deal/indian-beauty-poly-cotton-saree-blouse/
+1	0	0	0	1	0	0	26488278	0	0	26488278	0	/deal/aloe-vera-eye-cool-mask
+1	0	0	1	0	0	26494150	0	0	26494150	0	0	/deal/logitech-z625-powerful-thx-pc-speaker-black/
+1	0	0	0	1	0	0	26491508	0	0	26491508	0	/deal/philips-qt3310-15-trimmer-for-men/feed
+1	6	0	4	0	26495569	26495569	0	26495489	26495496	0	14424	/admin/login
+1	0	0	1	0	0	26495314	0	0	26495314	0	0	/deal/boat-rugby-portable-bluetooth-speaker-blue/feed/
+1	0	0	0	1	0	0	26492167	0	0	26492167	0	/deal/combo-2-sunglass/feed
+1	0	0	0	2	0	0	26488636	0	0	26488636	0	/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome.min.css?ver=20170209
+1	0	0	0	1	0	0	26494312	0	0	26494312	0	/author/abdhesh
+1	0	0	1	0	0	26491847	0	0	26491847	0	0	/deal/strontium-mobile-sri-cuba-3kw-wi-fi-cloud-white/
+1	0	0	1	0	0	26489368	0	0	26489368	0	0	/deal/t-rock-mens-black-sneaker-casual-shoes-6-black/
+1	0	0	1	0	0	26492264	0	0	26492264	0	0	/deal/amazon-glory-sarees-art-silk-blouse-piece-vnart-33_red-blue_free-size/
+1	0	0	1	0	0	26490475	0	0	26490475	0	0	/deal/panasonic-er-gy10-k44b-cordless-trimmer/
+1	0	0	0	1	0	0	26491247	0	0	26491247	0	/deal/eveready-ih402-1500-watt-immersion-rod-black/feed
+1	0	0	0	1	0	0	26491558	0	0	26491558	0	/deal/kall-k3310-dark-blue
+1	0	0	1	0	0	26487120	0	0	26487120	0	0	/deal/storyhome-bedsheets/
+1	0	0	0	1	0	0	26491134	0	0	26491134	0	/deal/ivoltaa-ivfk1-sync-charge-cable-black
+1	0	0	1	0	0	26492812	0	0	26492812	0	0	/deal/amazonbasics-usb-headset/
+1	0	0	0	1	0	0	26494496	0	0	26494496	0	/deal/timewear-analogue-beige-dial-watch-men-women
+1	0	0	0	1	0	0	26492705	0	0	26492705	0	/deal/hindware-60-cm-700-m3-h-chimney-clarissa-black-60black
+1	0	0	0	1	0	0	26491798	0	0	26491798	0	/deal/kvg-plastic-cloth-clipsmulticolor-pack-29
+1	0	0	1	0	0	26489367	0	0	26489367	0	0	/deal/genius-hs-m225-in-ear-headphones-with-mic-red/
+1	0	0	0	1	0	0	26492687	0	0	26492687	0	/deal/flipkart-wipro-garnet-plus-4-feet-22watt-led-tube-batten-straight-linear-led-tube-light
+1	0	0	1	0	0	26488519	0	0	26488519	0	0	/deal/amazon-women-clothing-80-off/feed/
+1	0	0	0	1	0	0	26487298	0	0	26487298	0	/deal/klick2style-womens-crepe-yellow-dress
+1	0	0	1	0	0	26494468	0	0	26494468	0	0	/deal/maniac-full-sleeve-printed-boys-sweatshirt/
+1	0	0	1	0	0	26494727	0	0	26494727	0	0	/deal/flipkart-newport-backpacks/
+1	0	0	1	0	0	26490264	0	0	26490264	0	0	/deal/kekemi-waterproof-shoulder-bag/feed/
+1	0	0	0	1	0	0	26491451	0	0	26491451	0	/deal/amazon-lapguard-lg515-11k-power-bank-11000-mah-make-india-portable-charger-powerbank-white-red/feed
+1	0	0	1	0	0	26487295	0	0	26487295	0	0	/deal/4-tier-black-stackable-shoe-rack/
+1	0	0	1	0	0	26491742	0	0	26491742	0	0	/deal/amazon-snickers-bagged-minis-227g/
+1	0	0	1	0	0	26495365	0	0	26495365	0	0	/deal/laurels-fury-black-mens-wallet-lw-fry-0206/
+1	0	0	0	2	0	0	26495099	0	0	26492375	0	/deal/bel-casa-lock-store-leak-proof-locking-lid-square
+1	0	0	0	1	0	0	26491219	0	0	26491219	0	/deal/body-cupid-shower-gel-grapefruit-blush-400ml
+1	0	0	0	1	0	0	26491159	0	0	26491159	0	/deal/pickadda-gyming-gym-fitness-gloves-free-size-black/feed
+1	0	0	1	0	0	26490570	0	0	26490570	0	0	/deal/kaltron-magnetic-hex-screwdriver-bit-professional-tool-kit/
+1	0	0	1	0	0	26495305	0	0	26495305	0	0	/deal/panasonic-f-vxf35maud-portable-room-air-purifier/
+1	0	0	1	0	0	26489732	0	0	26489732	0	0	/deal/flipkart-add-3-cart-buy-999/feed/
+1	0	0	1	0	0	26487698	0	0	26487698	0	0	/deal/adidas-watch-60-off/feed/
+1	0	0	0	1	0	0	26489366	0	0	26489366	0	/deal/povos-pw309-nose-ear-trimmer-black
+1	0	0	1	0	0	26490563	0	0	26490563	0	0	/deal/perfect-vapouriser-steamer/
+1	0	0	1	0	0	26490019	0	0	26490019	0	0	/deal/jockey-mens-cotton-socks/feed/
+1	0	0	0	1	0	0	26489368	0	0	26489368	0	/deal/t-rock-mens-black-sneaker-casual-shoes-6-black
+1	0	0	0	1	0	0	26487295	0	0	26487295	0	/deal/4-tier-black-stackable-shoe-rack
+1	0	0	1	0	0	26493353	0	0	26493353	0	0	/deal/vedaka-popular-black-urad-whole-sabut-500g/
+1	0	0	1	0	0	26491188	0	0	26491188	0	0	/deal/centrino-mens-blue-moccasins-8-uk-india-42-eu156-004/
+1	0	0	1	0	0	26492027	0	0	26492027	0	0	/deal/boat-rugby-portable-bluetooth-speaker-blue/
+1	3	0	0	0	26495580	0	0	26495495	0	0	14233	/payment-history
+1	0	0	0	1	0	0	26489369	0	0	26489369	0	/deal/philips-shl5000-00-ear-headphone-deep-bass-black
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/cms/wp-includes/wlwmanifest.xml
+1	0	0	0	1	0	0	26490740	0	0	26490740	0	/hello-world-6
+1	0	0	2	0	0	26490565	0	0	26487816	0	0	/deal/jackly-32-1-interchangeable-precise-screwdriver-tool-set-magnetic-holder/
+1	0	0	0	1	0	0	26490193	0	0	26490193	0	/hello-world-5
+1	0	0	1	0	0	26490564	0	0	26490564	0	0	/deal/storyhome-navy-100-cotton-6-pc-face-towel/
+1	0	0	1	0	0	26491559	0	0	26491559	0	0	/deal/pigeon-wondercast-tawa-27-cm-diameter/
+1	0	0	1	0	0	26491994	0	0	26491994	0	0	/deal/amazon-set-wet-deodorant-spray-perfume-150ml-cool-charm-chill-avatar-pack-3/
+1	0	0	0	3	0	0	26487946	0	0	26487081	0	/wp-includes/js/comment-reply.min.js?ver=4.9.8
+1	0	0	0	1	0	0	26492482	0	0	26492482	0	/deal/amazon-dettol-liquid-hand-wash-refill-original-1500-ml
+1	0	0	0	2	0	0	26494429	0	0	26489458	0	/wp-includes/js/comment-reply.min.js?ver=4.9.6
+1	0	0	1	0	0	26494088	0	0	26494088	0	0	/deal/silvers-sb-719-combo-2-badminton-kit/
+1	4	0	0	0	26495575	0	0	26495484	0	0	230120	/adminlte/dist/js/adminlte.js
+1	2	0	0	0	26495205	0	0	26491116	0	0	7398	/password/reset
+1	0	0	0	1	0	0	26487608	0	0	26487608	0	/wp-includes/js/comment-reply.min.js?ver=4.9.4
+1	0	0	1	0	0	26490608	0	0	26490608	0	0	/deal/ethics-mens-pilot-blue-black-casual-loafer-shoes-10/feed/
+1	0	0	1	0	0	26490624	0	0	26490624	0	0	/deals/feed/
+1	0	0	0	2	0	0	26489621	0	0	26489592	0	/flipkart-shrih-37-keys-melody-piano-dual-speakers-keyboard-microphone
+1	58	0	0	0	26495590	0	0	26487890	0	0	1392	/robots.txt
+1	0	0	0	1	0	0	26491488	0	0	26491488	0	/wp-content/plugins/meks-flexible-shortcodes/js/main.js?ver=1
+1	0	0	0	1	0	0	26493534	0	0	26493534	0	/deal/prestige-teon-750-w-mixer-grinder/feed
+1	0	0	1	0	0	26487518	0	0	26487518	0	0	/deal/myntra-check-description-get-rs-125-off-tshirt-no-min-purchase/
+1	0	0	1	0	0	26487333	0	0	26487333	0	0	/deal/safari-fabric-65-cms-blue-soft-side-suitcase/
+1	0	0	1	0	0	26489333	0	0	26489333	0	0	/deal/skmei-1016-gold-chronograph-watch-men/
+1	0	0	1	0	0	26487335	0	0	26487335	0	0	/deal/flipkart-vu-102cm-40-inch-full-hd-led-tv/feed/
+1	0	0	2	0	0	26493287	0	0	26489076	0	0	/deal/flipkart-steelseries-rival-95-wired-optical-gaming-mouse-usb-black/
+1	0	0	1	0	0	26490562	0	0	26490562	0	0	/deal/gas-macho-tennis-ball/
+1	0	0	1	0	0	26493260	0	0	26493260	0	0	/deal/flipkart-luggage-bag/
+1	0	0	1	0	0	26487905	0	0	26487905	0	0	/deal/vimal-cotton-blended-shorts-men/
+1	0	0	0	1	0	0	26495501	0	0	26495501	0	/deal/69gal-full-sleeve-printed-womens-sweatshirt/feed
+1	0	0	1	0	0	26495479	0	0	26495479	0	0	/deal/laurels-analogue-black-dial-mens-watch-lo-crtr-iii-020205/
+1	0	0	1	0	0	26487959	0	0	26487959	0	0	/deal/nirlon-non-stick-aluminium-mini-cookware-set-tawafry-pan-kadhai/
+1	0	0	1	0	0	26489534	0	0	26489534	0	0	/deal/amazon-silver-kartz-premium-look-exclusive-sunglasses-combo-collection/feed/
+1	0	0	3	0	0	26492822	0	0	26489037	0	0	/author/sreemukhi/
+1	3	0	0	0	26495575	0	0	26495484	0	0	1839	/adminlte/plugins/jqvmap/jqvmap.min.css
+1	0	0	1	0	0	26488802	0	0	26488802	0	0	/deal/baidyanath-triphala-churn-500-g-pack-2/feed/
+1	0	0	1	0	0	26494501	0	0	26494501	0	0	/deal/for-hdfc-bank-debit-credit-cards-users-samsung-galaxy-c9-pro-64-gb-gold-6-gb-ramdual-sim-4g/
+1	0	0	1	0	0	26493784	0	0	26493784	0	0	/deal/syska-led-lights-7-w-9-w-b22-led-bulb-white-pack-2/
+1	3	0	0	0	26495575	0	0	26495484	0	0	518436	/adminlte/plugins/chart.js/Chart.min.js
+1	0	0	1	0	0	26490476	0	0	26490476	0	0	/deal/dragon-war-ele-g11-wired-laser-gaming-mouse/
+1	0	0	1	0	0	26492790	0	0	26492790	0	0	/deal/life-zed-series-atom-quad-core/
+1	0	0	0	1	0	0	26491487	0	0	26491487	0	/wp-content/plugins/jetpack/css/jetpack.css?ver=6.8.1
+1	0	0	1	0	0	26494650	0	0	26494650	0	0	/deal/blue-microphones-icicle-xlr-usb-mic-converter-mic-preamp/
+1	0	0	1	0	0	26491612	0	0	26491612	0	0	/deal/prestige-delight-prwo-electric-rice-cooker-steaming-feature/feed/
+1	3	0	0	0	26495575	0	0	26495484	0	0	264435	/adminlte/plugins/jquery/jquery.min.js
+1	0	0	1	0	0	26490211	0	0	26490211	0	0	/deal/fd-f6000u-home-audio-speaker-black-5-1-channel/
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/sito/wp-includes/wlwmanifest.xml
+1	0	0	0	1	0	0	26488636	0	0	26488636	0	/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1
+1	0	0	0	1	0	0	26490478	0	0	26490478	0	/deal/sony-mdr-ex14ap-headset-mic
+1	0	0	1	0	0	26490568	0	0	26490568	0	0	/deal/in-junkyard-usb-wall-charger-for-smart-phones/
+1	0	0	0	10	0	0	26495110	0	0	26487607	0	/type/hot-offer/feed
+1	0	0	1	0	0	26489369	0	0	26489369	0	0	/deal/philips-shl5000-00-ear-headphone-deep-bass-black/
+1	0	0	2	0	0	26494437	0	0	26486988	0	0	/deal/veirdo-mens-cotton-tshirt/
+1	0	0	0	1	0	0	26490566	0	0	26490566	0	/deal/micro-usb-cable-1-2-mtr-nylon-braided-premium-sync-and-charging-data-cables-super-high-speed-usb-2-0-android-charger
+1	0	0	3	0	0	26492938	0	0	26490276	0	0	/tag/amazon-best-deals/
+1	0	0	1	0	0	26490566	0	0	26490566	0	0	/deal/wake-wood-black-dial-watch-for-men-with-free-wallet-ear-phone-aux-cable-otg/
+1	0	0	0	2	0	0	26494355	0	0	26492889	0	/tag/amazon-offer
+1	0	0	1	0	0	26491437	0	0	26491437	0	0	/deal/5plus-lightning-to-usb-for-smart-phones/
+1	0	0	1	0	0	26488140	0	0	26488140	0	0	/deal/amazon-aristocrat-27-ltrs-black-casual-backpack-sbzen1blk/feed/
+1	0	0	1	0	0	26490740	0	0	26490740	0	0	/hello-world-6/
+1	0	0	0	1	0	0	26492031	0	0	26492031	0	/deal/krapal-casual-solid-womens-kurti/feed
+1	0	0	0	1	0	0	26492448	0	0	26492448	0	/deal/pigeon-flat-tawa-250-tawa-23-cm-diameter
+1	0	0	1	0	0	26493418	0	0	26493418	0	0	/deal/flipkart-nanki-trades-candles-candle/
+1	0	0	0	1	0	0	26494591	0	0	26494591	0	/deal/lenovo-pa-10400-mah-power-bank
+1	0	0	0	1	0	0	26487268	0	0	26487268	0	/administrator/index.php?option=com_content&view=article&layout=edit
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/wordpress/wp-includes/wlwmanifest.xml
+1	0	0	1	0	0	26490193	0	0	26490193	0	0	/hello-world-5/
+1	0	0	0	1	0	0	26489370	0	0	26489370	0	/deal/gear-polyester-20-ltrs-blue-casual-backpack-mdbkpeco50504
+1	0	0	0	1	0	0	26491373	0	0	26491373	0	/deal/urban-eagle-pantaloons-printed-mens-round-neck-light-blue-t-shirt
+1	0	0	1	0	0	26487296	0	0	26487296	0	0	/deal/philips-she1505bk-in-ear-earphone-black/
+1	0	0	0	1	0	0	26493999	0	0	26493999	0	/deal/aristocrat-juke-cabin-luggage-22-inch/feed
+1	3	0	0	0	26495575	0	0	26495484	0	0	238332	/adminlte/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+1	3	0	0	0	26495575	0	0	26495484	0	0	761007	/adminlte/plugins/jquery-ui/jquery-ui.min.js
+1	0	0	0	1	0	0	26489368	0	0	26489368	0	/deal/prestige-delight-prwo-1-0-electric-rice-cooker
+1	0	0	0	1	0	0	26492566	0	0	26492566	0	/deal/philips-gc-1011-steam-iron/feed
+1	0	0	0	1	0	0	26490565	0	0	26490565	0	/deal/catbird-women-red-flip-flops
+1	0	0	0	1	0	0	26492492	0	0	26492492	0	/deal/amazonbasics-ear-headphones-white/feed
+1	0	0	1	0	0	26489984	0	0	26489984	0	0	/deal/sinew-nutrition-elevate-mass-gainer-300gms-coffee/feed/
+1	0	0	0	1	0	0	26489075	0	0	26489075	0	/deal/prestige-pdi-03-750-watt-dry-iron
+1	0	0	0	1	0	0	26487607	0	0	26487607	0	/wp-content/themes/Trickyhunt/style.css?b-modified=1516466432&ver=4.9.4
+1	0	0	0	6	0	0	26494429	0	0	26487081	0	/wp-content/plugins/jetpack/css/jetpack.css?ver=5.9
+1	0	0	1	0	0	26495424	0	0	26495424	0	0	/deal/freecharge-get-20-off-on-recharge-of-100/
+1	0	0	1	0	0	26495263	0	0	26495263	0	0	/deal/flipkart-bajaj-dx6-dry-iron-white/
+1	0	0	0	1	0	0	26488636	0	0	26488636	0	/wp-content/plugins/jetpack/css/jetpack.css?ver=5.7
+1	0	0	1	0	0	26495074	0	0	26495074	0	0	/deal/amazon-aristocrat-polyester-67-cms-olive-travel-duffle/
+1	0	0	1	0	0	26490478	0	0	26490478	0	0	/deal/mi-vr-play/
+1	0	0	1	0	0	26487524	0	0	26487524	0	0	/deal/cosmic-flash-mountain-bikes-26-inch-black-green/
+1	0	0	1	0	0	26491345	0	0	26491345	0	0	/deal/gear-modern-eco-4-21-l-backpack-black/
+1	0	0	1	0	0	26494476	0	0	26494476	0	0	/deal/honor-8-lite-4gb-black64gb/
+1	0	0	0	10	0	0	26494438	0	0	26487022	0	/deal/feed
+1	0	0	1	0	0	26490567	0	0	26490567	0	0	/deal/6-1-electric-soldering-iron-complete-set/
+1	0	0	1	0	0	26495343	0	0	26495343	0	0	/deal/amazon-jeans-starts-278/
+1	0	0	0	1	0	0	26492208	0	0	26492208	0	/deal/sale-on-redmi-5a
+1	0	0	1	0	0	26493278	0	0	26493278	0	0	/deal/flipkart-add-3-best-price/feed/
+1	0	0	1	0	0	26493729	0	0	26493729	0	0	/deal/super-india-polar-fleece-polyester-double-blanket-orange/
+1	0	0	1	0	0	26489993	0	0	26489993	0	0	/deal/amazon-autofy-habsolite-ecco-star-front-open-helmet-black-grey-m/
+1	0	0	0	1	0	0	26491488	0	0	26491488	0	/wp-content/plugins/bubble-menu/asset/font-awesome/css/font-awesome.min.css?ver=4.7.0
+1	0	0	1	0	0	26493432	0	0	26493432	0	0	/deal/amazon-starx-multi-shaft-steel-badminton-racquet-set/
+1	0	0	0	1	0	0	26492843	0	0	26492843	0	/deal/skybags-29-ltrs-red-laptop-backpack-lpbprou4red/feed
+1	0	0	1	0	0	26489767	0	0	26489767	0	0	/deal/bhagavad-gita-hardcover/
+1	0	0	0	1	0	0	26489370	0	0	26489370	0	/deal/cad-audio-epf-15a-pop-filter-6-inch-gooseneck-black
+1	0	0	0	1	0	0	26493697	0	0	26493697	0	/deal/american-tourister-polyester-21-ltrs-black-laptop-backpack-amt-bop2017-laptop-bkpk3-black/feed
+1	0	0	1	0	0	26494901	0	0	26494901	0	0	/deal/skullcandy-s5lhz-j576-anti-headphone/headp/
+1	2	0	0	0	26495575	0	0	26495484	0	0	21723	/moderator/dashboard
+1	0	0	1	0	0	26489408	0	0	26489408	0	0	/deal/yi-88012-action-camera-black/feed/
+1	1	1	0	0	26490054	0	0	26490054	0	0	2819	/?SA
+1	0	0	0	1	0	0	26495179	0	0	26495179	0	/deal/avs-soft-heart-34-cm
+1	0	0	0	1	0	0	26491156	0	0	26491156	0	/deal/lenovo-tab3-730x-tablet-7-inch-1gbram-16gb-wi-fi-4g-lte-voice-calling-black-blue
+1	0	0	1	0	0	26492646	0	0	26492646	0	0	/deal/infocus-turbo-5-plus-midnight-black-dual-rear-camera/
+1	0	0	1	0	0	26490562	0	0	26490562	0	0	/deal/kaltron-computer-powerstrip/
+1	0	0	1	0	0	26492203	0	0	26492203	0	0	/deal/amazon-pack-5-donuts-baby-girls-cotton-leggings/feed/
+1	0	0	1	0	0	26487493	0	0	26487493	0	0	/deal/amazon-woodland-mens-leather-espadrille-flats/feed/
+1	1	0	0	0	26495498	0	0	26495498	0	0	3326	/images/1589193180.jpg
+1	0	0	0	1	0	0	26494472	0	0	26494472	0	/deal/amazon-puma-bagpacks-starts-414
+1	0	0	0	1	0	0	26493187	0	0	26493187	0	/deal/nivia-pro-grip-basketball-size-7-pack-1-white-blue/feed
+1	0	0	1	0	0	26495578	0	0	26495578	0	0	/payment/9
+1	0	0	0	1	0	0	26491666	0	0	26491666	0	/deal/set-wet-vertical-hold-gel-100ml-pack-of-3/feed
+1	0	0	1	0	0	26495495	0	0	26495495	0	0	/payment/8
+1	0	0	1	0	0	26495488	0	0	26495488	0	0	/payment/7
+1	0	0	0	1	0	0	26490570	0	0	26490570	0	/deal/adam-jones-gradient-blue-uv-protected-unisex-aviator-sunglasses
+1	0	0	0	1	0	0	26494472	0	0	26494472	0	/backups/backup-8.15.2019_21-09-06_telugutr.tar.gz
+1	0	0	1	0	0	26491380	0	0	26491380	0	0	/deal/wens-radhe-krishna-playful-mood-wall-art-mdf-29-5-cm-x-24-5-cm-wsp-4314/
+1	0	0	2	0	0	26494794	0	0	26491695	0	0	/deal/dr-morepen-bg-03-glucometer/
+1	0	0	1	0	0	26488618	0	0	26488618	0	0	/deal/skybags-29-ltrs-red-laptop-backpack-lpbprou4red/feed/
+1	0	0	1	0	0	26491988	0	0	26491988	0	0	/deal/flipkart-acer-predator-phw510-wired-headset-mic-80-off/
+1	1	0	0	0	26488955	0	0	26488955	0	0	2869	/index.php
+1	0	0	1	0	0	26494187	0	0	26494187	0	0	/deal/hot-water-bag/?54.36.148.168
+1	0	0	2	0	0	26494771	0	0	26490542	0	0	/deal/half-girlfriend-best-offer/
+1	0	0	0	1	0	0	26493742	0	0	26493742	0	/deal/dr-morepen-8904124006035-bpone-bp-monitor-white/feed
+1	0	0	1	0	0	26494619	0	0	26494619	0	0	/deal/amazon-lyddie-puffin-novel/
+1	0	0	0	1	0	0	26487297	0	0	26487297	0	/deal/lemor-premium-green-tea-with-mint-green-tea
+1	0	0	0	1	0	0	26492886	0	0	26492886	0	/tag/how-to-find-amazon-deals
+1	0	0	0	1	0	0	26492890	0	0	26492890	0	/tag/best-way-to-find-the-deals-in-amazon
+1	0	0	0	3	0	0	26487946	0	0	26487081	0	/wp-includes/js/wp-embed.min.js?ver=4.9.8
+1	0	0	0	2	0	0	26494429	0	0	26489458	0	/wp-includes/js/wp-embed.min.js?ver=4.9.6
+1	0	0	1	0	0	26495478	0	0	26495478	0	0	/deal/ghpc-solid-mens-hooded-blue-t-shirt/
+1	0	0	0	2	0	0	26493002	0	0	26491640	0	/deal/home-star-3-container-750ml-lunch-box-color-assorted
+1	0	0	0	1	0	0	26487608	0	0	26487608	0	/wp-includes/js/wp-embed.min.js?ver=4.9.4
+1	0	0	1	0	0	26487075	0	0	26487075	0	0	/deal/fila-mens-liner-sandals-floaters/feed/
+1	0	0	0	4	0	0	26487946	0	0	26487081	0	/wp-content/themes/Trickyhunt/style.css?b-modified=1523514504&ver=4.9.8
+1	0	0	1	0	0	26491040	0	0	26491040	0	0	/deal/buy-3-dettol-reenergize-liquid-hand-wash-200ml-with-dettol-liquid-soap-refill-175-ml/
+1	0	0	1	0	0	26488988	0	0	26488988	0	0	/deal/flipkart-backpacks/
+1	0	0	0	2	0	0	26494428	0	0	26489458	0	/wp-content/themes/Trickyhunt/style.css?b-modified=1523514504&ver=4.9.6
+1	0	0	0	1	0	0	26493288	0	0	26493288	0	/deal/kanvas-katha-women-handbag-multi-colour/feed
+1	0	0	1	0	0	26491842	0	0	26491842	0	0	/deal/mivi-smart-charge-3-4a-dual-port-car-charger/
+1	0	0	0	1	0	0	26488636	0	0	26488636	0	/wp-includes/js/wp-embed.min.js?ver=4.9.1
+1	0	0	0	3	0	0	26487268	0	0	26487267	0	/wp-admin/plugin-install.php?tab=upload
+1	0	0	1	0	0	26489370	0	0	26489370	0	0	/deal/cad-audio-epf-15a-pop-filter-6-inch-gooseneck-black/
+1	0	0	1	0	0	26491406	0	0	26491406	0	0	/deal/amazon-happilo-premium-100-natural-californian-inshell-walnut-kernels-1000g-free-rs-400-bookmyshow-voucher-600/
+1	0	0	1	0	0	26490561	0	0	26490561	0	0	/deal/drive-red-flip-flop/
+1	0	0	2	0	0	26489801	0	0	26487448	0	0	/deal/amazon-zebronics-happy-head-headphones-grey/
+1	0	0	0	1	0	0	26489367	0	0	26489367	0	/deal/faces-nail-enmel-transparent-01-30ml
+1	0	0	1	0	0	26490304	0	0	26490304	0	0	/deal/envent-boombud-et-bthd001-bk-wireless-bluetooth-headphone/feed/
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/media/wp-includes/wlwmanifest.xml
+1	0	0	1	0	0	26491202	0	0	26491202	0	0	/deal/bournvita-pro-health-750-g-pouch-chocolate/
+1	0	0	0	1	0	0	26494066	0	0	26494066	0	/deal/syska-led-lights-straight-linear-led-tube-light-white-pack-of-2/feed
+1	0	0	1	0	0	26489567	0	0	26489567	0	0	/deal/flipakrt-ivoltaa-ivpc-im-red1-sync-charge-cable/
+1	0	0	0	1	0	0	26490569	0	0	26490569	0	/deal/andride-8-in-1-multi-screwdriver-with-led-portable-torch
+1	0	0	0	1	0	0	26489370	0	0	26489370	0	/deal/taotronics-bh06-sweatproof-bluetooth-ear-headphones-mic-black
+1	0	0	1	0	0	26487295	0	0	26487295	0	0	/deal/weighing-scale/
+1	0	0	1	0	0	26492328	0	0	26492328	0	0	/deal/biggest-loot-flat-50-cashback-on-daily-needs-on-paytm-new-deals-added/
+1	0	0	1	0	0	26494204	0	0	26494204	0	0	/deal/excalibur-mens-solid-regular-fit-formal-shirt-pack-2/
+1	0	0	1	0	0	26490221	0	0	26490221	0	0	/deal/bombay-dyeing-bedsheets-buy-1-get-2/feed/
+1	0	0	0	1	0	0	26493467	0	0	26493467	0	/deal/coolnut-solar-power-bank-13000mah-cable-rs-1349/feed
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/website/wp-includes/wlwmanifest.xml
+1	0	0	1	0	0	26494194	0	0	26494194	0	0	/deal/flipkart-kenstar-10-l-storage-water-geyser/
+1	0	0	0	1	0	0	26489364	0	0	26489364	0	/deal/sharp-ig-dc2e-b-car-air-purifier-black
+1	0	0	0	3	0	0	26487946	0	0	26487081	0	/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8
+1	0	0	1	0	0	26492305	0	0	26492305	0	0	/deal/yellow-chimes-single-silver-metal-skull-stud-earrings-boys-men/
+1	0	0	1	0	0	26491235	0	0	26491235	0	0	/deal/kekemi-waterproof-shoulder-bag/
+1	0	0	1	0	0	26495501	0	0	26495501	0	0	/deal/silvers-sb220-g3-strung/
+1	0	0	1	0	0	26494504	0	0	26494504	0	0	/deal/nivea-men-dark-spot-reduction-facewash-100ml-active-clean-shower-gel-250ml/feed/
+1	0	0	1	0	0	26492758	0	0	26492758	0	0	/deal/lapguard-sailing-1530_10-4k-10400mah-lithium-ion-power-bank/
+1	0	0	1	0	0	26491382	0	0	26491382	0	0	/deal/ruuh-messenger-refer-10-friends-get-free-rs-100-amazon-voucher/feed/
+1	0	0	1	0	0	26487822	0	0	26487822	0	0	/deal/saco-keyboard-silicon-protector-cover-hp-pavilion-15-ab219tx-15-6-inch-laptop-black-clear/
+1	0	0	2	0	0	26494889	0	0	26490348	0	0	/deal/amazon-women-clothing-80-off/
+1	0	0	1	0	0	26493871	0	0	26493871	0	0	/deal/amazon-sft-almonds-gurbandi-whole-shelled-california-100-natural-badam-sabut-badam-gurbandi-rich-oil-grade-medium-size-500-gm/
+1	0	0	1	0	0	26493636	0	0	26493636	0	0	/category/categories/electronies/
+1	0	0	2	0	0	26492784	0	0	26490102	0	0	/type/best/page/4/
+1	0	0	1	0	0	26490976	0	0	26490976	0	0	/deal/amazon-escaro-black-mens-wallet/
+1	0	0	0	1	0	0	26495366	0	0	26495366	0	/deal/roadster-men-black-analogue-watch-rd17-2d
+1	0	0	0	1	0	0	26494766	0	0	26494766	0	/deal/amazon-50-off-on-pantry-items-new-items-added
+1	0	0	1	0	0	26489370	0	0	26489370	0	0	/type/best/page/3/
+1	0	0	0	1	0	0	26493553	0	0	26493553	0	/deal/godrej-7-kg-fully-automatic-front-load-washing-machine-white/feed
+1	0	0	1	0	0	26495179	0	0	26495179	0	0	/deal/avs-soft-heart-34-cm/
+1	0	0	1	0	0	26494750	0	0	26494750	0	0	/deal/apis-himalaya-honey-1kg-buy-1-get-1-free/
+1	0	0	1	0	0	26491776	0	0	26491776	0	0	/deal/kurtas-kurtis-best-price/
+1	0	0	1	0	0	26489365	0	0	26489365	0	0	/deal/cad-audio-as16-acoustic-enclosure/
+1	0	0	1	0	0	26495463	0	0	26495463	0	0	/deal/huggies-wonder-pants-large-size-diapers-l-96-pieces/feed/
+1	0	0	0	1	0	0	26489366	0	0	26489366	0	/deal/super-2801-led-cabin-light-switch-12v
+1	0	0	1	0	0	26491014	0	0	26491014	0	0	/deal/flipkart-99-store/
+1	0	0	0	1	0	0	26489079	0	0	26489079	0	/deal/logitech-hinge-ultra-thin-protective-case-cover-ipad-mini-4-black
+1	0	0	0	1	0	0	26493202	0	0	26493202	0	/deal/bosch-10-pieces-combination-screwdriver-set-pack-10
+1	0	0	1	0	0	26495530	0	0	26495530	0	0	/deal/matrix-analog-blue-dial-blue-leather-strap-womens-girls-watch-wn-14/
+1	0	0	1	0	0	26491424	0	0	26491424	0	0	/deal/amazon-ab-roller-evolution-roller-work-exerciser/
+1	0	0	1	0	0	26489368	0	0	26489368	0	0	/deal/sennheiser-px-80-ear-headphone-black-silver/
+1	0	0	2	0	0	26492060	0	0	26489367	0	0	/deal/genius-sp-925bt-bluetooth-speakers-mic-white/
+1	0	0	0	2	0	0	26493506	0	0	26491658	0	/deals/category/free-recharge/free-recharge-app
+1	0	0	1	0	0	26495577	0	0	26495577	0	0	/deal/google-home-mini/
+1	0	0	1	0	0	26495172	0	0	26495172	0	0	/deal/black-decker-pw1370-100-bar-pressure-washer-orange-black/feed/
+1	0	0	0	1	0	0	26492765	0	0	26492765	0	/deal/mastercook-container-food-storage-pack-of-17-pink
+1	0	0	1	0	0	26488369	0	0	26488369	0	0	/deal/american-tourister-backpack-at-70-off-10-coupon-cashback-extra/
+1	0	0	1	0	0	26491150	0	0	26491150	0	0	/deal/li-ning-xp-60-badminton-racket/
+1	0	0	1	0	0	26494503	0	0	26494503	0	0	/deal/flipkart-sparx-sf2023l-flip-flops/feed/
+1	0	0	0	1	0	0	26490566	0	0	26490566	0	/deal/wake-wood-black-dial-watch-for-men-with-free-wallet-ear-phone-aux-cable-otg
+1	0	0	1	0	0	26492503	0	0	26492503	0	0	/deal/philips-qt3310-15-trimmer-for-men/
+1	0	0	1	0	0	26493719	0	0	26493719	0	0	/deal/jbl-c100si-ear-headphones-mic-599/
+1	0	0	1	0	0	26490563	0	0	26490563	0	0	/deal/gas-lighter-knife-peeler-color/
+1	0	0	1	0	0	26491584	0	0	26491584	0	0	/author/sreemukhi/feed/
+1	0	0	1	0	0	26491981	0	0	26491981	0	0	/deal/amazon-safari-fabric-55-cms-black-soft-sided-carry-kayak-2w-55-ec-black/
+1	0	0	0	1	0	0	26490562	0	0	26490562	0	/deal/kaltron-computer-powerstrip
+1	0	0	1	0	0	26488713	0	0	26488713	0	0	/deal/1-bath-towels-4-face-towels/feed/
+1	1	0	0	0	26495575	0	0	26495575	0	0	12904	/moderator/payments
+1	0	0	3	0	0	26491038	0	0	26489592	0	0	/deal/flipkart-shrih-37-keys-melody-piano-dual-speakers-keyboard-microphone/
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/blog/wp-includes/wlwmanifest.xml
+1	0	0	1	0	0	26487878	0	0	26487878	0	0	/deal/jiofi-at-low-cost/feed/
+1	0	0	0	1	0	0	26490570	0	0	26490570	0	/deal/paytm-mall-david-martin-combo-hd-vision-drive-sunglassarc-eyeglass
+1	0	0	1	0	0	26492782	0	0	26492782	0	0	/deal/edifier-m1370bt-2-1-bluetooth-speaker/
+1	0	0	1	0	0	26493624	0	0	26493624	0	0	/deal/lenovo-10400-mah-power-bank/
+1	0	0	0	1	0	0	26490562	0	0	26490562	0	/deal/ironman-helmet-keychain
+1	0	0	0	1	0	0	26493190	0	0	26493190	0	/deal/10-g-go-grey-4gb/feed
+1	0	0	1	0	0	26494599	0	0	26494599	0	0	/deal/amazon-flat-80-off-gas-clothing-15-cashback/
+1	0	0	1	0	0	26488907	0	0	26488907	0	0	/category/uncategorized/
+1	0	0	1	0	0	26492106	0	0	26492106	0	0	/deal/flipkart-signoraware-food-storage-rs-1/
+1	0	0	1	0	0	26492748	0	0	26492748	0	0	/deal/mother-earth-womens-kurti-range-starts-165/
+1	0	0	0	1	0	0	26489077	0	0	26489077	0	/deal/tech-sense-labaustralia-iphone-7-plus-premium-tempered-glass-screen-protector-9h-full-hd-shatterproof-anti-scratch-screen-guard-for-iphone-7-plus
+1	0	0	1	0	0	26491492	0	0	26491492	0	0	/deal/people-mens-t-shirt-blue/
+1	1	1	0	0	26491609	0	0	26491609	0	0	2819	/?DA
+1	7	0	0	0	26495577	0	0	26495484	0	0	156305	/moderator/application/1
+1	0	0	0	1	0	0	26491005	0	0	26491005	0	/deal/time-plastics-cool-ice-cube-tray-set-set-2-green/feed
+1	0	0	1	0	0	26489257	0	0	26489257	0	0	/deal/panasonic-rp-hbd250-extra-bass-ear-headphones-tangle-free-cables/feed/
+1	0	0	1	0	0	26488434	0	0	26488434	0	0	/deal/eveready-ih402-1500-watt-immersion-rod-black/?52.90.167.89
+1	5	0	0	0	26495576	0	0	26490935	0	0	782850	/css/app.css
+1	0	0	0	1	0	0	26492393	0	0	26492393	0	/deal/flipkart-skore-new-adventure-pack-condom-set-8-80s/feed
+1	0	0	1	0	0	26491381	0	0	26491381	0	0	/deal/haqeeba-pink-leatherette-material-sling-bags-for-women/
+1	0	0	0	1	0	0	26489370	0	0	26489370	0	/deal/soundlogic-btc001s_wh-portable-bluetooth-mobile-tablet-speaker
+1	0	0	1	0	0	26493633	0	0	26493633	0	0	/deal/blackberrys-mens-formal-trousers/
+1	0	0	1	0	0	26488355	0	0	26488355	0	0	/deal/amazon-kenneth-cole-reaction-tshirts-80-off/
+1	0	0	0	1	0	0	26490479	0	0	26490479	0	/deal/rapoo-v110-wired-usb-gaming-keyboard
+1	1	1	0	0	26492745	0	0	26492745	0	0	2839	/?54.36.148.168
+1	0	0	1	0	0	26492141	0	0	26492141	0	0	/deal/makeup-academy-lipstick-shade-12-3-8g/
+1	0	0	2	0	0	26491330	0	0	26490570	0	0	/deal/paytm-mall-david-martin-combo-hd-vision-drive-sunglassarc-eyeglass/
+1	0	0	1	0	0	26487313	0	0	26487313	0	0	/deal/fipkart-min-50extra-10-off-best-price/
+1	0	0	1	0	0	26494625	0	0	26494625	0	0	/deal/logitech-b170-wireless-optical-mouse/
+1	0	0	0	1	0	0	26492448	0	0	26492448	0	/phpmyadmin/scripts/setup.php
+1	0	0	0	1	0	0	26490565	0	0	26490565	0	/deal/zebronics-headphone-with-mic
+1	0	0	1	0	0	26490119	0	0	26490119	0	0	/deal/lenovo-tab3-730x-tablet-7-inch-1gbram-16gb-wi-fi-4g-lte-voice-calling-black-blue/feed/
+1	0	0	0	1	0	0	26492412	0	0	26492412	0	/deal/skybags-cardiff-polyester-55-cms-red-travel-duffle-dfcar55red/feed
+1	0	0	1	0	0	26491083	0	0	26491083	0	0	/deal/micromax-l1160-11-6-inch-laptop/
+1	3	0	0	0	26495575	0	0	26495484	0	0	37515	/adminlte/plugins/icheck-bootstrap/icheck-bootstrap.min.css
+1	0	0	0	1	0	0	26492041	0	0	26492041	0	/deal/usha-prestige-offer-price/feed
+1	0	0	5	0	0	26493915	0	0	26488604	0	0	/comments/feed/
+1	0	0	1	0	0	26493828	0	0	26493828	0	0	/deal/amazon-puma-bagpacks-starts-414/
+1	0	0	0	1	0	0	26492654	0	0	26492654	0	/deal/vatika-anti-dandruff-shampoo-340-ml/feed
+1	0	0	0	1	0	0	26490475	0	0	26490475	0	/page/2
+1	0	0	1	0	0	26491961	0	0	26491961	0	0	/deal/ultra-angel-teddy-3-feet-brown/
+1	0	0	1	0	0	26490562	0	0	26490562	0	0	/deal/ironman-helmet-keychain/
+1	0	0	0	1	0	0	26493131	0	0	26493131	0	/deal/havit-hv-sk599-2-0-channel-pc-speakers-black-red
+1	0	0	0	1	0	0	26490564	0	0	26490564	0	/deal/dual-sided-compass-box-for-multi-purpose-with-free-gift-fidget-spinner
+1	4	0	0	0	26495575	0	0	26495484	0	0	42392	/moderator/applications
+1	0	0	0	1	0	0	26492575	0	0	26492575	0	/deal/amazon-desi-matryoshka-dolls-tumbler/feed
+1	0	0	1	0	0	26495423	0	0	26495423	0	0	/deal/yi-88012-action-camera-black/
+1	0	0	1	0	0	26494569	0	0	26494569	0	0	/deal/mobile-case-rs-99/feed/
+1	0	0	1	0	0	26492710	0	0	26492710	0	0	/deal/pepe-jeans-mens-casual-shirt/
+1	0	0	0	1	0	0	26489365	0	0	26489365	0	/deal/panasonic-battery
+1	0	0	0	1	0	0	26493724	0	0	26493724	0	/deal/amazon-magnetic-bluetooth-waterproof-headphone-noise-isolation-hands-free-mic
+1	0	0	1	0	0	26492313	0	0	26492313	0	0	/deal/for-hdfc-bank-debit-credit-cards-users-samsung-galaxy-c9-pro-64-gb-gold-6-gb-ramdual-sim-4g-2/
+1	0	0	1	0	0	26493395	0	0	26493395	0	0	/deal/flipkart-buy-inte-enterprises-amb1-expandable-travel-duffel-bag-purple-rs-509/
+1	0	0	0	1	0	0	26495187	0	0	26495187	0	/deal/kall-k3310-dark-blue/feed
+1	2	0	0	0	26495499	0	0	26495498	0	0	47461	/admin/application/2
+1	0	0	0	1	0	0	26489074	0	0	26489074	0	/deal/levis-mens-flip-flops-sandals-70-off-124
+1	2	2	0	0	26495590	0	0	26492593	0	0	5663	/?C=D;O=A
+1	0	0	0	1	0	0	26487350	0	0	26487350	0	/deal/pillsbury-cookie-cake-greeting-pack-276g-12-single-packs-inside
+1	0	0	1	0	0	26487296	0	0	26487296	0	0	/deal/birde-blue-canvas-casual-shoes-men/
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/test/wp-includes/wlwmanifest.xml
+1	0	0	2	0	0	26493431	0	0	26491275	0	0	/invest
+1	0	0	0	3	0	0	26487946	0	0	26487081	0	/wp-includes/css/dashicons.min.css?ver=4.9.8
+1	0	0	1	0	0	26487119	0	0	26487119	0	0	/deal/supreme-home-collective-kitchen-dining-linen/feed/
+1	0	0	1	0	0	26487417	0	0	26487417	0	0	/deal/sandisk-8gb-class-4-microsdhc-memory-card/
+1	0	0	1	0	0	26489364	0	0	26489364	0	0	/deal/rock-power-bank-499/
+1	0	0	0	1	0	0	26491487	0	0	26491487	0	/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3
+1	0	0	0	1	0	0	26493599	0	0	26493599	0	/deal/pinnaclz-selfie-stick-with-aux
+1	0	0	0	2	0	0	26494428	0	0	26489458	0	/wp-includes/css/dashicons.min.css?ver=4.9.6
+1	0	0	0	2	0	0	26487268	0	0	26487268	0	/administrator/index.php
+1	0	0	0	1	0	0	26492885	0	0	26492885	0	/find-biggest-discount-on-amazon
+1	0	0	0	1	0	0	26493331	0	0	26493331	0	/invest/?C=D;O=D
+1	0	0	0	1	0	0	26487607	0	0	26487607	0	/wp-includes/css/dashicons.min.css?ver=4.9.4
+1	0	0	0	2	0	0	26495299	0	0	26495216	0	/deal/nova-prime-series-nht-1085-cordless-trimmer-men
+1	0	0	0	1	0	0	26488636	0	0	26488636	0	/wp-includes/css/dashicons.min.css?ver=4.9.1
+1	0	0	1	0	0	26489856	0	0	26489856	0	0	/deal/powereye-13000mah-power-bank/feed/
+1	101	101	0	88	26495617	0	26495628	26487126	0	26489767	292740	/
+1	0	0	2	0	0	26493395	0	0	26491635	0	0	/deal/drive-black-flip-flop/
+1	0	0	1	0	0	26487414	0	0	26487414	0	0	/deal/mosquito-racket/
+1	0	0	1	0	0	26490570	0	0	26490570	0	0	/deal/adam-jones-gradient-blue-uv-protected-unisex-aviator-sunglasses/
+1	0	0	1	0	0	26495499	0	0	26495499	0	0	/deal/syska-ht100-cordless-trimmer/
+1	0	0	0	1	0	0	26491258	0	0	26491258	0	/deal/boat-stone-1000-portable-bluetooth-mobile-tablet-speaker/feed
+1	0	0	2	0	0	26492177	0	0	26489074	0	0	/deal/backpack-on-filpkart/
+1	0	0	0	1	0	0	26492428	0	0	26492428	0	/deal/amazon-pantene-hair-fall-control-conditioner-175ml/feed
+1	0	0	1	0	0	26491215	0	0	26491215	0	0	/deal/panasonic-p90/
+1	0	0	1	0	0	26489369	0	0	26489369	0	0	/deal/mee-mee-caring-baby-wet-wipes-aloe-vera-72-pieces-pack-3/
+1	0	0	0	1	0	0	26490565	0	0	26490565	0	/deal/jackly-32-1-interchangeable-precise-screwdriver-tool-set-magnetic-holder
+1	0	0	1	0	0	26491033	0	0	26491033	0	0	/deal/fitkit-fkymp05-g-yoga-mat-6mm-green/
+1	0	0	0	1	0	0	26491687	0	0	26491687	0	/deal/vimal-cotton-blended-shorts-men
+1	0	0	1	0	0	26487412	0	0	26487412	0	0	/deal/urban-living-3-layer-stainless-steel/
+1	0	0	0	1	0	0	26493494	0	0	26493494	0	/deal/amazon-duke-mens-printed-slim-fit-t-shirt/feed
+1	0	0	1	0	0	26494171	0	0	26494171	0	0	/deal/minar-shahi-jeera-100gms-pack-2/
+1	3	0	0	0	26495575	0	0	26495484	0	0	59172	/adminlte/plugins/overlayScrollbars/css/OverlayScrollbars.min.css
+1	0	0	0	1	0	0	26490568	0	0	26490568	0	/deal/in-junkyard-usb-wall-charger-for-smart-phones
+1	0	0	2	0	0	26495475	0	0	26495303	0	0	/deal/flipkart-ked-1500-yellow/
+1	0	0	0	1	0	0	26487296	0	0	26487296	0	/deal/philips-she1505bk-in-ear-earphone-black
+1	12	0	6	0	26495608	26495607	0	26488744	26489592	0	70474	/register
+1	0	0	0	1	0	0	26490478	0	0	26490478	0	/deal/mi-vr-play
+1	0	0	1	0	0	26494075	0	0	26494075	0	0	/deal/cadbury-dairy-milk-silk-pralines-collection-240g-2/
+1	3	0	0	0	26495575	0	0	26495484	0	0	159972	/adminlte/plugins/moment/moment.min.js
+1	0	0	1	0	0	26491087	0	0	26491087	0	0	/deal/basement-bazaar-plastic-table-diya-set/
+1	0	0	0	1	0	0	26495284	0	0	26495284	0	/wp-content/uploads/2018/05/914ToXU7pRL._SL1500_.jpg
+1	0	0	0	1	0	0	26495617	0	0	26495617	0	/2018/wp-includes/wlwmanifest.xml
+1	0	0	0	1	0	0	26491488	0	0	26491488	0	/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.11.4
+1	0	0	0	2	0	0	26495608	0	0	26495607	0	/2020/02/15/hello-world?unapproved=99&moderation-hash=1b72bfa917004bee250c8a901b0d5c3e
+1	0	0	1	0	0	26489458	0	0	26489458	0	0	/deal/park-avenue-shiny-bouncy-beer-shampoo-180ml-men/
+1	0	0	1	0	0	26489336	0	0	26489336	0	0	/deal/jiofi-jmr815-wireless-data-card/
+1	0	0	0	5	0	0	26494428	0	0	26487081	0	/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.11.2
+1	10	0	5	0	26495580	26493802	0	26495488	26486996	0	44481	/home
+1	5	0	0	0	26495576	0	0	26490935	0	0	1666815	/js/app.js
+1	0	0	1	0	0	26494076	0	0	26494076	0	0	/deal/amazon-adata-sp580-premier-120gb-internal-solid-state-drive/
+1	0	0	1	0	0	26490268	0	0	26490268	0	0	/deal/aristocrat-juke-cabin-luggage-22-inch/
+1	0	0	0	2	0	0	26487268	0	0	26487267	0	/wp-admin/post-new.php
+1	3	0	0	0	26495575	0	0	26495484	0	0	175734	/adminlte/plugins/fontawesome-free/css/all.min.css
+1	0	0	0	1	0	0	26489368	0	0	26489368	0	/deal/sennheiser-px-80-ear-headphone-black-silver
+1	0	0	0	2	0	0	26493700	0	0	26489367	0	/deal/genius-sp-925bt-bluetooth-speakers-mic-white
+1	0	0	1	0	0	26495059	0	0	26495059	0	0	/deal/amazon-pears-pure-gentle-shower-gel-250ml-pack-2/feed/
+1	0	0	0	1	0	0	26492655	0	0	26492655	0	/deal/transcend-2-tb-external-hard-disk-drive
+1	0	0	1	0	0	26491674	0	0	26491674	0	0	/deal/aurion-whg-wood-hand-grip-set-pack-2-brown/
+1	0	0	1	0	0	26487371	0	0	26487371	0	0	/deal/amazon-jbl-go-portable-wireless-bluetooth-speaker-mic-teal/feed/
+1	0	0	0	1	0	0	26491381	0	0	26491381	0	/deal/haqeeba-pink-leatherette-material-sling-bags-for-women
+1	0	0	0	1	0	0	26492744	0	0	26492744	0	/deal/lenovo-tab3-730x-tablet-7-inch-1gbram-16gb-wi-fi-4g-lte-voice-calling-black-blue/feed
+1	0	0	1	0	0	26489077	0	0	26489077	0	0	/deal/tech-sense-labaustralia-iphone-7-plus-premium-tempered-glass-screen-protector-9h-full-hd-shatterproof-anti-scratch-screen-guard-for-iphone-7-plus/
+1	0	0	1	0	0	26489081	0	0	26489081	0	0	/deal/mini-microphone-3-5mm-table-top-microphone-stand-laptop-pc-desktopblack/
+1	0	0	1	0	0	26488935	0	0	26488935	0	0	/deal/amazon-nivea-men-fresh-active-original-deodorant-spray/feed/
+1	0	0	0	1	0	0	26491512	0	0	26491512	0	/deal/for-hdfc-bank-debit-credit-cards-users-samsung-galaxy-c9-pro-64-gb-gold-6-gb-ramdual-sim-4g-2
+1	0	0	0	1	0	0	26491259	0	0	26491259	0	/deal/supreme-home-collective-kitchen-dining-linen/feed
+1	0	0	0	1	0	0	26489364	0	0	26489364	0	/deal/rock-power-bank-499
+1	0	0	0	1	0	0	26487417	0	0	26487417	0	/deal/sandisk-8gb-class-4-microsdhc-memory-card
+1	0	0	0	1	0	0	26491488	0	0	26491488	0	/wp-content/plugins/table-of-contents-plus/front.min.js?ver=1509
+3	4	0	4	0	26495569	26495569	0	26495496	26495496	0	29164	https://trickyhunt.com/admin/login
+3	9	0	6	0	26495608	26495607	0	26489592	26489592	0	54157	https://trickyhunt.com/register
+3	0	0	0	2	0	0	26495608	0	0	26495607	0	https://trickyhunt.com/2020/02/15/hello-world?unapproved=99&moderation-hash=1b72bfa917004bee250c8a901b0d5c3e
+3	7	6	0	16	26495254	0	26488636	26488850	0	26488636	19903	https://www.trickyhunt.com/
+3	0	0	0	19	0	0	26489459	0	0	26489458	0	https://www.trickyhunt.com/deal/flipkart-nivia-pro-grip-basketball-size-7pack-1-white-blue/
+3	1	0	0	0	26495575	0	0	26495575	0	0	10598	https://trickyhunt.com/moderator/payments
+3	0	0	0	1	0	0	26492653	0	0	26492653	0	http://go.mail.ru/search_images
+3	0	0	0	17	0	0	26494429	0	0	26494428	0	https://www.trickyhunt.com/deal/amazon-fd-anchor-e310-plus-professional-stero-earphone-black/
+3	0	0	0	1	0	0	26494496	0	0	26494496	0	https://trickyhunt.com/deal/timewear-analogue-beige-dial-watch-men-women/
+3	1	0	0	0	26495498	0	0	26495498	0	0	23489	https://trickyhunt.com/admin/applications
+3	4	0	2	0	26495498	26495498	0	26495496	26495496	0	102194	https://trickyhunt.com/manage-installments
+3	1	0	0	0	26495476	0	0	26495476	0	0	0	https://trickyhunt.com/logout
+3	0	0	0	1	0	0	26495476	0	0	26495476	0	http://trickyhunt.com/admin/application/1
+3	7	0	7	0	26495579	26495579	0	26495487	26495487	0	33193	https://trickyhunt.com/login
+3	26	0	0	0	26495498	0	0	26495496	0	0	1994796	https://trickyhunt.com/dashboard
+3	0	0	0	19	0	0	26487298	0	0	26487298	0	https://trickyhunt.com/deal/amazon-krishna-emporia-party-wear-cotton-silk-georgette-multi-colour-saree-blouse/
+3	0	0	0	5	0	0	26491038	0	0	26489592	0	https://trickyhunt.com/deal/flipkart-shrih-37-keys-melody-piano-dual-speakers-keyboard-microphone
+3	0	0	1	0	0	26495607	0	0	26495607	0	0	https://trickyhunt.com/2020/02/15/hello-world/?unapproved=99&moderation-hash=1b72bfa917004bee250c8a901b0d5c3e
+3	0	0	0	23	0	0	26487081	0	0	26487081	0	https://trickyhunt.com/deal/amazon-kenneth-cole-reaction-tshirts-80-off/
+3	8	0	4	0	26495578	26495578	0	26495484	26495489	0	179162	https://trickyhunt.com/moderator/application/1
+3	0	0	3	0	0	26491038	0	0	26489592	0	0	https://trickyhunt.com/deal/flipkart-shrih-37-keys-melody-piano-dual-speakers-keyboard-microphone/
+3	4	0	0	0	26495576	0	0	26495484	0	0	65221	https://trickyhunt.com/moderator/applications
+3	2	0	0	0	26495575	0	0	26495496	0	0	158888	https://trickyhunt.com/adminlte/plugins/fontawesome-free/css/all.min.css
+3	0	0	0	9	0	0	26487946	0	0	26487946	0	https://www.trickyhunt.com/deal/autofy-micro-polyester-complete-rain-suit-rain-wear-carry-bag-black-freesize/
+3	0	0	0	12	0	0	26487608	0	0	26487607	0	https://www.trickyhunt.com/deal/boat-bassheads-900-wired-headphone-mic/
+3	4	0	2	0	26495499	26495499	0	26495498	26495499	0	62625	https://trickyhunt.com/admin/application/2
+3	0	0	0	1	0	0	26489801	0	0	26489801	0	https://trickyhunt.com/deal/amazon-zebronics-happy-head-headphones-grey/
+3	1	1	41	41	26490935	26495260	26495260	26490935	26487022	26487022	2819	https://www.google.com/
+3	24	0	6	0	26495580	26495580	0	26495477	26495488	0	541620	https://trickyhunt.com/make-payment
+3	17	0	0	0	26495580	0	0	26495490	0	0	127486	https://trickyhunt.com/home
+3	0	0	0	2	0	0	26489621	0	0	26489592	0	https://trickyhunt.com/flipkart-shrih-37-keys-melody-piano-dual-speakers-keyboard-microphone
+3	25	11	2	20	26495607	26495569	26491488	26488851	26495486	26491487	2011253	https://trickyhunt.com/
+3	1	0	0	0	26495477	0	0	26495477	0	0	8453	http://trickyhunt.com/make-payment
+3	14	0	12	0	26495575	26495575	0	26495484	26495484	0	50250	https://trickyhunt.com/moderator/login
+3	51	0	0	0	26495575	0	0	26495484	0	0	3990634	https://trickyhunt.com/moderator/dashboard
+3	0	0	0	1	0	0	26495608	0	0	26495608	0	https://trickyhunt.com/02/15/hello-world?unapproved=99&moderation-hash=1b72bfa917004bee250c8a901b0d5c3e
+4	1	0	0	0	26493236	0	0	26493236	0	0	24	Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)
+4	4	1	3	3	26489621	26489621	26489621	26489621	26489621	26489621	20868	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.2952.54
+4	0	0	1	1	0	26489837	26489837	0	26489837	26489837	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+4	3	0	0	0	26495513	0	0	26495507	0	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+4	0	0	1	1	0	26488686	26488686	0	26488686	26488686	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15
+4	1	0	0	1	26492653	0	26492653	26492653	0	26492653	24	Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Img/2.0; +http://go.mail.ru/help/robots)
+4	0	0	0	1	0	0	26487268	0	0	26487268	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:25.0) Gecko/20100101 Firefox/25.0
+4	1	0	0	2	26495493	0	26495624	26495493	0	26495562	37479	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+4	4	1	3	3	26495608	26495607	26495608	26495607	26495607	26495607	20866	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 Kinza/4.8.2
+4	1	1	0	0	26492260	0	0	26492260	0	0	2819	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+4	2	2	0	1	26494121	0	26490871	26490653	0	26490871	5663	Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+4	13	3	1	21	26495454	26495216	26495365	26487217	26495216	26487892	8696	Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	0	1	0	0	26495284	0	0	26495284	0	Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+4	1	1	0	0	26492452	0	0	26492452	0	0	2819	Go-http-client/1.1
+4	97	6	24	1	26495580	26495580	26495476	26490935	26495486	26495476	3890002	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+4	0	0	1	1	0	26489801	26489801	0	26489801	26489801	0	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.2717.400 QQBrowser/9.6.11133.400
+4	4	0	0	1	26495454	0	26494270	26495248	0	26494270	0	Googlebot-Image/1.0
+4	1	1	0	0	26492879	0	0	26492879	0	0	2819	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0 SeaMonkey/2.49.3
+4	1	1	0	0	26488763	0	0	26488763	0	0	2819	SEMrushBot
+4	1	1	1	1	26491038	26491038	26491038	26491038	26491038	26491038	2819	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+4	2	2	2	20	26495617	26494417	26495617	26495617	26487607	26487607	5638	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+4	0	0	1	1	0	26494438	26494438	0	26494438	26494438	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+4	13	1	1	5	26495205	26491085	26495009	26488744	26491085	26489020	17597	Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+4	4	1	3	3	26489592	26489592	26489592	26489592	26489592	26489592	20880	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 Kinza/4.9.1
+4	0	0	0	2	0	0	26487268	0	0	26487268	0	Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+4	0	0	2	2	0	26491091	26491091	0	26488673	26488673	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+4	0	0	1	1	0	26490130	26490130	0	26490130	26490130	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+4	0	0	0	1	0	0	26488796	0	0	26488796	0	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
+4	2	1	0	0	26489269	0	0	26489269	0	0	2843	Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+4	0	0	1	1	0	26489480	26489480	0	26489480	26489480	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+4	0	0	1	1	0	26487866	26487866	0	26487866	26487866	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36 OPR/67.0.3575.79
+4	3	3	0	0	26493128	0	0	26492017	0	0	8457	Mozilla/5.0 zgrab/0.x
+4	1	1	0	5	26487268	0	26487268	26487268	0	26487268	2798	Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1467.0 Safari/537.36
+4	0	0	1	1	0	26490982	26490982	0	26490982	26490982	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+4	4	4	128	129	26490054	26495366	26495396	26487599	26487295	26487295	11300	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	2	2	0	26494021	26494021	0	26491783	26491783	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:74.0) Gecko/20100101 Firefox/74.0
+4	0	0	0	2	0	0	26491792	0	0	26491535	0	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+4	1	0	0	1	26491923	0	26491922	26491923	0	26491922	24	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+4	64	0	12	0	26495568	26495499	0	26495477	26495488	0	2878144	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+4	0	0	1	1	0	26495260	26495260	0	26495260	26495260	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15
+4	2	1	0	4	26492447	0	26492448	26492447	0	26492447	7714	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+4	0	0	1	1	0	26490342	26490342	0	26490342	26490342	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:73.0) Gecko/20100101 Firefox/73.0
+4	37	17	358	161	26495519	26495614	26495501	26487409	26486984	26490916	67298	Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+4	0	0	1	1	0	26493638	26493638	0	26493638	26493638	0	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+4	1	0	0	0	26488955	0	0	26488955	0	0	2869	Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+4	0	0	1	1	0	26491146	26491146	0	26491146	26491146	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+4	0	0	2	2	0	26492589	26492589	0	26490657	26490657	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36 OPR/67.0.3575.53
+4	0	0	3	3	0	26495110	26495110	0	26487892	26487892	0	Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+4	36	23	21	11	26495198	26495334	26495334	26487248	26486996	26488604	70126	Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+4	0	0	1	1	0	26489268	26489268	0	26489268	26489268	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+4	5	3	0	0	26495590	0	0	26490930	0	0	8505	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebot/0.1; +http://www.apple.com/go/applebot)
+4	0	0	1	1	0	26491511	26491511	0	26491511	26491511	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+4	0	0	2	2	0	26493968	26493968	0	26493968	26493968	0	facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+4	1	1	0	0	26492791	0	0	26492791	0	0	2819	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+4	0	0	1	1	0	26488226	26488226	0	26488226	26488226	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+4	0	0	3	3	0	26493616	26493616	0	26487373	26487373	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0
+4	1	1	0	2	26487268	0	26487268	26487268	0	26487268	2798	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36
+4	0	0	1	1	0	26490282	26490282	0	26490282	26490282	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+4	0	0	1	1	0	26492776	26492776	0	26492776	26492776	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+4	4	4	0	0	26495407	0	0	26488211	0	0	11276	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+4	0	0	1	1	0	26493405	26493405	0	26493405	26493405	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+4	1	1	0	0	26491502	0	0	26491502	0	0	2819	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0
+4	0	0	2	2	0	26494258	26494258	0	26489047	26489047	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+4	1	1	0	0	26489138	0	0	26489138	0	0	2839	Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t13rl; +http://researchscan.comsys.rwth-aachen.de)
+4	0	0	3	3	0	26489505	26489505	0	26487022	26487022	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0 Waterfox/56.2.14
+4	4	0	3	1	26492822	26492822	26492479	26488907	26488907	26492479	96	Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+4	0	0	1	1	0	26491959	26491959	0	26491959	26491959	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+4	12	12	0	0	26495254	0	0	26488850	0	0	33948	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.4.2661.102 Safari/537.36; 360Spider
+4	1	0	1	1	26494496	26494496	26494496	26494496	26494496	26494496	24	Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+4	0	0	0	4	0	0	26487267	0	0	26487267	0	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+4	2	2	1	2	26495377	26495299	26495299	26495248	26495299	26494549	5658	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	0	84	0	0	26495628	0	0	26495495	0	Razorpay-Webhook/v1
+4	37	1	3	0	26495489	26495489	0	26495483	26495484	0	2669247	Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 Safari/604.1
+4	0	0	2	2	0	26494835	26494835	0	26487026	26487026	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+4	0	0	0	135	0	0	26494429	0	0	26487081	0	Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/81.0.4044.108 Safari/537.36
+4	5	5	0	1	26492871	0	26489767	26488408	0	26489767	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+4	0	0	2	2	0	26493199	26493199	0	26492822	26492822	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+5	0	0	1	0	0	26488698	0	0	26488698	0	0	54.36.148.166
+5	0	0	0	1	0	0	26491097	0	0	26491097	0	54.36.148.163
+5	0	0	1	0	0	26495336	0	0	26495336	0	0	54.36.148.162
+5	0	0	0	1	0	0	26491836	0	0	26491836	0	54.36.148.161
+5	1	1	0	0	26487820	0	0	26487820	0	0	2803	54.36.148.159
+5	0	0	1	1	0	26489505	26489505	0	26489505	26489505	0	54.82.223.191
+5	0	0	3	0	0	26492691	0	0	26486988	0	0	54.36.148.158
+5	0	0	0	1	0	0	26494355	0	0	26494355	0	207.46.13.76
+5	0	0	1	0	0	26491242	0	0	26491242	0	0	54.36.148.157
+5	1	1	0	0	26495254	0	0	26495254	0	0	2819	42.236.12.130
+5	1	0	0	0	26487890	0	0	26487890	0	0	24	54.36.148.153
+5	0	0	1	0	0	26494150	0	0	26494150	0	0	54.36.148.152
+5	1	1	0	0	26492791	0	0	26492791	0	0	2819	143.215.247.118
+5	0	0	1	1	0	26487373	26487373	0	26487373	26487373	0	54.164.196.191
+5	0	0	2	0	0	26494727	0	0	26491612	0	0	54.36.148.151
+5	0	0	1	0	0	26492098	0	0	26492098	0	0	54.36.148.149
+5	0	0	0	1	0	0	26495187	0	0	26495187	0	54.36.148.148
+5	0	0	2	0	0	26494075	0	0	26492328	0	0	54.36.148.147
+5	2	1	7	12	26495063	26493418	26494766	26489924	26487524	26487607	2863	66.249.79.87
+5	0	0	0	1	0	0	26493501	0	0	26493501	0	54.36.148.145
+5	4	2	3	29	26495278	26490478	26495063	26493417	26490475	26487081	5702	66.249.79.85
+5	5	1	4	53	26495248	26494766	26494429	26487599	26491151	26487081	2895	66.249.79.83
+5	2	0	0	0	26490935	0	0	26489404	0	0	48	54.36.148.140
+5	3	3	0	0	26495590	0	0	26490930	0	0	8457	17.58.101.200
+5	0	0	1	0	0	26493833	0	0	26493833	0	0	54.36.148.136
+5	0	0	1	0	0	26495488	0	0	26495488	0	0	54.36.148.135
+5	0	0	0	1	0	0	26490997	0	0	26490997	0	54.36.148.133
+5	2	2	0	0	26491322	0	0	26491221	0	0	5658	207.46.13.50
+5	0	0	0	1	0	0	26491682	0	0	26491682	0	54.36.148.131
+5	0	0	1	0	0	26494794	0	0	26494794	0	0	207.46.13.138
+5	1	0	0	0	26490084	0	0	26490084	0	0	4895	54.36.148.128
+5	1	0	3	1	26490128	26494495	26492492	26490128	26488839	26492492	5439	54.36.148.126
+5	5	5	2	1	26495198	26495334	26495334	26491760	26491778	26495334	14135	207.46.13.133
+5	0	0	1	0	0	26487905	0	0	26487905	0	0	54.36.148.121
+5	0	0	1	1	0	26487459	26492041	0	26487459	26492041	0	54.36.148.120
+5	0	0	1	0	0	26493872	0	0	26493872	0	0	54.36.148.119
+5	0	0	1	1	0	26493353	26493442	0	26493353	26493442	0	54.36.148.118
+5	0	0	1	1	0	26489268	26489268	0	26489268	26489268	0	35.175.228.34
+5	1	1	0	0	26489870	0	0	26489870	0	0	2819	54.36.148.98
+5	0	0	1	0	0	26493395	0	0	26493395	0	0	54.36.148.115
+5	0	0	1	0	0	26490013	0	0	26490013	0	0	54.36.148.96
+5	0	0	0	1	0	0	26494591	0	0	26494591	0	54.36.148.114
+5	0	0	0	2	0	0	26493747	0	0	26493332	0	54.36.148.113
+5	0	0	1	1	0	26492231	26491687	0	26492231	26491687	0	54.36.148.93
+5	0	0	1	1	0	26491202	26492074	0	26491202	26492074	0	54.36.148.112
+5	3	3	0	0	26490414	0	0	26490313	0	0	8477	207.46.13.31
+5	1	1	0	0	26487969	0	0	26487969	0	0	2823	207.46.13.119
+5	0	0	1	0	0	26492396	0	0	26492396	0	0	54.36.148.92
+5	1	0	0	0	26492386	0	0	26492386	0	0	24	54.36.148.90
+5	0	0	1	0	0	26491218	0	0	26491218	0	0	54.36.148.89
+5	0	0	1	1	0	26493409	26492798	0	26493409	26492798	0	54.36.148.107
+5	0	0	1	0	0	26494669	0	0	26494669	0	0	54.36.148.105
+5	0	0	1	0	0	26490174	0	0	26490174	0	0	54.36.148.86
+5	1	1	0	0	26493940	0	0	26493940	0	0	2819	54.36.148.85
+5	0	0	2	0	0	26493446	0	0	26493395	0	0	54.36.148.104
+5	1	0	1	0	26494472	26495318	0	26494472	26495318	0	24	54.36.148.103
+5	0	0	1	1	0	26488673	26488673	0	26488673	26488673	0	34.226.204.183
+5	0	0	1	1	0	26488392	26493091	0	26488392	26493091	0	54.36.148.84
+5	2	1	1	0	26493828	26490478	0	26490304	26490478	0	2843	54.36.148.83
+5	0	0	1	0	0	26491014	0	0	26491014	0	0	54.36.148.101
+5	0	0	2	2	0	26493616	26493616	0	26487607	26487607	0	3.90.223.104
+5	0	0	1	0	0	26494024	0	0	26494024	0	0	54.36.148.79
+5	0	0	2	2	0	26491783	26491783	0	26487026	26487026	0	52.90.167.89
+5	0	0	2	0	0	26491318	0	0	26491033	0	0	54.36.148.78
+5	0	0	1	0	0	26488341	0	0	26488341	0	0	54.36.148.77
+5	1	1	3	0	26494398	26494794	0	26494398	26494794	0	2819	207.46.13.104
+5	0	0	1	1	0	26490982	26490982	0	26490982	26490982	0	54.91.17.1
+5	2	2	0	18	26495617	0	26495617	26495617	0	26495617	5638	200.61.208.215
+5	1	0	0	0	26492537	0	0	26492537	0	0	24	54.36.148.75
+5	0	0	0	2	0	0	26487268	0	0	26487268	0	149.202.75.227
+5	1	1	0	0	26487409	0	0	26487409	0	0	2798	54.36.148.72
+5	0	0	1	1	0	26491146	26491146	0	26491146	26491146	0	54.175.233.243
+5	0	0	0	1	0	0	26492248	0	0	26492248	0	54.36.148.69
+5	0	0	2	0	0	26494231	0	0	26489856	0	0	54.36.148.70
+5	0	0	1	0	0	26493523	0	0	26493523	0	0	54.36.148.68
+5	0	0	1	0	0	26491988	0	0	26491988	0	0	54.36.148.67
+5	0	0	1	0	0	26494481	0	0	26494481	0	0	54.36.150.191
+5	0	0	2	0	0	26494088	0	0	26488340	0	0	54.36.148.66
+5	0	0	1	1	0	26487866	26487866	0	26487866	26487866	0	3.81.148.18
+5	0	0	1	1	0	26493130	26492537	0	26493130	26492537	0	54.36.150.189
+5	0	0	0	40	0	0	26495619	0	0	26495495	0	52.66.76.63
+5	0	0	1	1	0	26495207	26491005	0	26495207	26491005	0	54.36.148.62
+5	0	0	0	1	0	0	26492747	0	0	26492747	0	54.36.150.186
+5	0	0	1	0	0	26492318	0	0	26492318	0	0	54.36.150.185
+5	0	0	2	0	0	26492758	0	0	26489826	0	0	54.36.148.59
+5	0	0	1	1	0	26492313	26491156	0	26492313	26491156	0	54.36.150.184
+5	6	0	1	4	26495009	26491085	26495284	26488744	26491085	26489863	5559	77.88.5.90
+5	1	0	0	1	26491923	0	26491922	26491923	0	26491922	24	192.99.34.142
+5	0	0	1	1	0	26494149	26493288	0	26494149	26493288	0	54.36.150.183
+5	0	0	1	0	0	26494889	0	0	26494889	0	0	54.36.150.182
+5	0	0	1	0	0	26493733	0	0	26493733	0	0	54.36.150.181
+5	0	0	0	1	0	0	26492632	0	0	26492632	0	54.36.150.179
+5	0	0	1	1	0	26494258	26494258	0	26494258	26494258	0	54.84.181.78
+5	0	0	3	0	0	26493636	0	0	26489993	0	0	54.36.150.176
+5	2	0	0	0	26495590	0	0	26490930	0	0	48	17.58.101.124
+5	131	6	27	1	26495580	26495580	26495476	26495476	26495484	26495476	6066497	106.200.153.137
+5	0	0	4	0	0	26494736	0	0	26489381	0	0	54.36.150.175
+5	0	0	1	0	0	26491961	0	0	26491961	0	0	54.36.150.174
+5	0	0	2	1	0	26493551	26491246	0	26493263	26491246	0	54.36.148.49
+5	0	0	1	0	0	26492847	0	0	26492847	0	0	54.36.148.50
+5	5	1	0	0	26495205	0	0	26489929	0	0	11990	77.88.5.79
+5	0	0	3	2	0	26494619	26493235	0	26487075	26492393	0	54.36.150.173
+5	4	1	3	3	26495608	26495607	26495608	26495607	26495607	26495607	20866	80.95.44.40
+5	2	1	0	0	26488955	0	0	26488955	0	0	5688	165.227.183.159
+5	0	0	0	1	0	0	26493654	0	0	26493654	0	54.36.148.47
+5	0	0	1	0	0	26494501	0	0	26494501	0	0	54.36.150.171
+5	0	0	0	1	0	0	26491258	0	0	26491258	0	54.36.148.46
+5	0	0	3	0	0	26495074	0	0	26488349	0	0	54.36.150.169
+5	0	0	2	2	0	26489480	26489480	0	26489047	26489047	0	3.85.106.89
+5	0	0	0	1	0	0	26491758	0	0	26491758	0	54.36.150.170
+5	0	0	1	0	0	26487335	0	0	26487335	0	0	54.36.150.168
+5	0	0	1	0	0	26491434	0	0	26491434	0	0	54.36.148.44
+5	0	0	1	1	0	26489490	26493246	0	26489490	26493246	0	54.36.150.167
+5	0	0	0	1	0	0	26492094	0	0	26492094	0	77.88.5.73
+5	0	0	2	1	0	26493729	26493115	0	26491784	26493115	0	54.36.148.42
+5	0	0	1	1	0	26493719	26492843	0	26493719	26492843	0	54.36.150.166
+5	0	0	1	0	0	26491330	0	0	26491330	0	0	54.36.148.41
+5	0	0	0	2	0	0	26492553	0	0	26491798	0	54.36.150.165
+5	0	0	1	0	0	26488226	0	0	26488226	0	0	54.36.148.39
+5	0	0	1	1	0	26491511	26491511	0	26491511	26491511	0	54.91.117.106
+5	0	0	2	1	0	26493615	26491512	0	26491903	26491512	0	54.36.150.164
+5	0	0	2	0	0	26495463	0	0	26488812	0	0	54.36.150.163
+5	0	0	1	1	0	26492589	26492589	0	26492589	26492589	0	54.89.93.21
+5	0	0	1	0	0	26491994	0	0	26491994	0	0	54.36.150.9
+5	0	0	1	0	0	26490295	0	0	26490295	0	0	54.36.149.9
+5	0	0	1	0	0	26491215	0	0	26491215	0	0	54.36.150.162
+5	0	0	1	0	0	26491241	0	0	26491241	0	0	54.36.148.37
+5	0	0	1	0	0	26494194	0	0	26494194	0	0	54.36.150.8
+5	0	0	2	2	0	26491964	26491964	0	26487892	26487892	0	54.147.228.160
+5	0	0	1	1	0	26488935	26491197	0	26488935	26491197	0	54.36.150.161
+5	0	0	1	1	0	26493968	26493968	0	26493968	26493968	0	66.220.149.20
+5	0	0	0	2	0	0	26493359	0	0	26492403	0	54.36.150.160
+5	1	1	3	1	26493080	26494222	26491857	26493080	26489257	26491857	2819	54.36.148.35
+5	0	0	1	1	0	26490130	26490130	0	26490130	26490130	0	3.90.169.21
+5	0	0	1	2	0	26492718	26491247	0	26492718	26491018	0	54.36.150.159
+5	0	0	1	0	0	26493968	0	0	26493968	0	0	54.36.150.7
+5	1	0	0	0	26492593	0	0	26492593	0	0	24	54.36.149.6
+5	0	0	2	0	0	26490658	0	0	26489164	0	0	54.36.150.6
+5	0	0	2	0	0	26489336	0	0	26487432	0	0	54.36.150.5
+5	5	2	4	4	26491038	26491038	26491038	26489621	26489621	26489621	23687	185.246.208.45
+5	0	0	1	1	0	26489801	26489801	0	26489801	26489801	0	45.87.212.62
+5	0	0	0	1	0	0	26490953	0	0	26490953	0	54.36.150.157
+5	0	0	1	0	0	26495501	0	0	26495501	0	0	54.36.150.4
+5	0	0	0	1	0	0	26491296	0	0	26491296	0	54.36.150.156
+5	0	0	1	1	0	26493638	26493638	0	26493638	26493638	0	34.230.15.217
+5	0	0	1	0	0	26494580	0	0	26494580	0	0	54.36.150.155
+5	0	0	1	0	0	26492305	0	0	26492305	0	0	54.36.148.31
+5	0	0	1	0	0	26491075	0	0	26491075	0	0	54.36.150.3
+5	0	0	2	0	0	26493171	0	0	26488618	0	0	54.36.150.154
+5	0	0	1	1	0	26493968	26493968	0	26493968	26493968	0	66.220.149.13
+5	0	0	1	1	0	26489426	26494909	0	26489426	26494909	0	54.36.150.1
+5	0	0	5	2	0	26495499	26494472	0	26487333	26492375	0	54.36.150.153
+5	0	0	1	2	0	26490019	26493629	0	26490019	26492704	0	54.36.150.152
+5	0	0	0	1	0	0	26491067	0	0	26491067	0	54.36.148.26
+5	0	0	1	1	0	26495255	26492739	0	26495255	26492739	0	54.36.150.151
+5	0	0	0	1	0	0	26493494	0	0	26493494	0	54.36.150.150
+5	0	0	1	0	0	26492688	0	0	26492688	0	0	54.36.150.149
+5	0	0	3	0	0	26495396	0	0	26487493	0	0	54.36.150.147
+5	0	0	2	1	0	26495519	26491907	0	26491084	26491907	0	54.36.150.146
+5	1	0	0	0	26493236	0	0	26493236	0	0	24	46.229.168.130
+5	0	0	0	1	0	0	26493200	0	0	26493200	0	54.36.148.21
+5	1	1	0	0	26489138	0	0	26489138	0	0	2839	137.226.113.26
+5	1	0	0	2	26495493	0	26495624	26495493	0	26495562	37479	45.56.76.224
+5	0	0	1	1	0	26494438	26494438	0	26494438	26494438	0	3.81.7.222
+5	1	0	1	0	26492822	26492822	0	26492822	26492822	0	24	77.75.77.36
+5	0	0	2	0	0	26491382	0	0	26490264	0	0	54.36.150.144
+5	0	0	1	1	0	26489767	26493194	0	26489767	26493194	0	54.36.150.143
+5	0	0	1	1	0	26494504	26491451	0	26494504	26491451	0	54.36.150.142
+5	2	1	0	0	26492593	0	0	26488865	0	0	2868	54.36.148.16
+5	0	0	1	0	0	26489640	0	0	26489640	0	0	54.36.150.141
+5	0	0	0	1	0	0	26493553	0	0	26493553	0	54.36.150.140
+5	0	0	3	1	0	26494876	26493386	0	26490608	26493386	0	54.36.150.139
+5	0	0	1	0	0	26494650	0	0	26494650	0	0	54.36.150.138
+5	0	0	0	1	0	0	26491219	0	0	26491219	0	54.36.148.14
+5	1	1	0	0	26494492	0	0	26494492	0	0	2819	54.36.148.13
+5	0	0	1	0	0	26494468	0	0	26494468	0	0	54.36.150.136
+5	0	0	0	2	0	0	26493416	0	0	26492471	0	54.36.148.12
+5	0	0	1	0	0	26493935	0	0	26493935	0	0	54.36.150.135
+5	0	0	1	0	0	26493659	0	0	26493659	0	0	54.36.148.11
+5	0	0	2	1	0	26491847	26493321	0	26487848	26493321	0	54.36.150.134
+5	0	0	2	1	0	26490661	26490646	0	26490646	26490646	0	157.55.39.57
+5	0	0	1	1	0	26491753	26493467	0	26491753	26493467	0	54.36.150.132
+5	0	0	0	1	0	0	26488796	0	0	26488796	0	195.181.166.143
+5	0	0	3	1	0	26494195	26493614	0	26490542	26493614	0	54.36.150.130
+5	0	0	2	0	0	26489770	0	0	26488921	0	0	54.36.150.129
+5	0	0	3	0	0	26492203	0	0	26486984	0	0	54.36.150.128
+5	0	0	1	0	0	26489408	0	0	26489408	0	0	54.36.150.127
+5	0	0	4	0	0	26493579	0	0	26487335	0	0	54.36.150.126
+5	0	0	2	0	0	26495530	0	0	26490906	0	0	54.36.150.124
+5	0	0	2	0	0	26492591	0	0	26492134	0	0	54.36.150.119
+5	0	0	2	0	0	26491965	0	0	26491842	0	0	54.36.150.120
+5	0	0	0	1	0	0	26493573	0	0	26493573	0	54.36.150.118
+5	0	0	0	3	0	0	26493534	0	0	26491666	0	54.36.150.117
+5	0	0	1	1	0	26493125	26492176	0	26493125	26492176	0	54.36.150.116
+5	0	0	1	3	0	26493321	26493655	0	26493321	26491558	0	54.36.150.115
+5	0	0	1	1	0	26492470	26492641	0	26492470	26492641	0	54.36.150.114
+5	0	0	1	0	0	26488519	0	0	26488519	0	0	54.36.150.113
+5	0	0	1	0	0	26491699	0	0	26491699	0	0	54.36.150.112
+5	0	0	0	2	0	0	26492208	0	0	26491523	0	54.36.150.111
+5	0	0	2	0	0	26491981	0	0	26488225	0	0	54.36.150.110
+5	0	0	1	1	0	26487371	26493131	0	26487371	26493131	0	54.36.150.109
+5	0	0	2	0	0	26495439	0	0	26489732	0	0	54.36.150.108
+5	0	0	0	1	0	0	26493190	0	0	26493190	0	54.36.150.107
+5	0	0	0	1	0	0	26492815	0	0	26492815	0	54.36.149.106
+5	0	0	1	0	0	26488528	0	0	26488528	0	0	54.36.150.106
+5	0	0	1	0	0	26492259	0	0	26492259	0	0	54.36.149.105
+5	0	0	4	1	0	26494750	26495210	0	26489984	26495210	0	54.36.150.105
+5	0	0	1	0	0	26493871	0	0	26493871	0	0	54.36.150.104
+5	0	0	0	1	0	0	26492653	0	0	26492653	0	95.163.255.81
+5	0	0	0	1	0	0	26493506	0	0	26493506	0	54.36.149.103
+5	0	0	2	0	0	26494653	0	0	26490221	0	0	54.36.150.103
+5	12	0	0	0	26493540	0	0	26487969	0	0	288	157.55.39.27
+5	0	0	1	0	0	26494111	0	0	26494111	0	0	54.36.149.102
+5	0	0	1	2	0	26489662	26493753	0	26489662	26493724	0	54.36.150.102
+5	0	0	0	1	0	0	26493708	0	0	26493708	0	54.36.149.101
+5	0	0	0	1	0	0	26492203	0	0	26492203	0	54.36.150.101
+5	0	0	1	0	0	26491536	0	0	26491536	0	0	54.36.150.100
+5	1	1	0	0	26495248	0	0	26495248	0	0	2819	42.236.99.65
+5	5	5	0	1	26492871	0	26489767	26488408	0	26489767	0	138.246.253.15
+5	0	0	2	1	0	26494187	26491175	0	26491800	26491175	0	54.36.148.8
+5	0	0	1	1	0	26495423	26490916	0	26495423	26490916	0	54.36.148.4
+5	0	0	0	1	0	0	26493208	0	0	26493208	0	54.36.148.3
+5	7	3	26	41	26495454	26495366	26495366	26487892	26487297	26487081	8505	66.249.68.30
+5	0	0	0	1	0	0	26487268	0	0	26487268	0	179.43.167.229
+5	2	0	68	118	26494270	26495299	26495216	26492513	26487295	26487081	48	66.249.68.28
+5	1	0	0	1	26492479	0	26492479	26492479	0	26492479	24	77.75.77.101
+5	1	1	0	0	26494121	0	0	26494121	0	0	2819	209.17.96.250
+5	0	0	1	1	0	26488686	26488686	0	26488686	26488686	0	18.234.153.60
+5	0	0	0	1	0	0	26491635	0	0	26491635	0	66.249.68.24
+5	0	0	1	1	0	26494021	26494021	0	26494021	26494021	0	54.86.176.58
+5	4	1	3	3	26489592	26489592	26489592	26489592	26489592	26489592	20880	212.102.38.171
+5	2	2	0	0	26495249	0	0	26495249	0	0	5658	42.236.102.23
+5	1	0	1	0	26488907	26488907	0	26488907	26488907	0	24	77.75.78.170
+5	0	0	1	1	0	26487022	26487022	0	26487022	26487022	0	107.21.21.64
+5	1	1	0	0	26492452	0	0	26492452	0	0	2819	34.107.21.245
+5	1	0	1	0	26489037	26489037	0	26489037	26489037	0	24	77.75.78.162
+5	0	0	1	1	0	26491091	26491091	0	26491091	26491091	0	18.212.121.24
+5	1	1	0	0	26487126	0	0	26487126	0	0	2798	165.227.98.99
+5	0	0	1	1	0	26490342	26490342	0	26490342	26490342	0	54.145.246.127
+5	0	0	0	1	0	0	26494496	0	0	26494496	0	95.163.255.8
+5	1	0	1	0	26494496	26494496	0	26494496	26494496	0	24	95.163.255.3
+5	0	0	1	1	0	26494417	26494417	0	26494417	26494417	0	54.197.6.195
+5	1	1	0	0	26492260	0	0	26492260	0	0	2819	193.30.121.226
+5	2	2	0	7	26487268	0	26487268	26487268	0	26487268	5596	185.82.216.14
+5	0	0	1	1	0	26494835	26494835	0	26494835	26494835	0	54.162.123.29
+5	1	1	0	0	26488763	0	0	26488763	0	0	2819	192.243.53.51
+5	1	1	0	0	26488850	0	0	26488850	0	0	2839	42.236.99.206
+5	1	1	0	0	26495248	0	0	26495248	0	0	2839	42.236.99.194
+5	0	0	1	1	0	26492776	26492776	0	26492776	26492776	0	3.94.96.4
+5	1	1	0	0	26491502	0	0	26491502	0	0	2819	50.30.38.143
+5	1	1	0	0	26489425	0	0	26489425	0	0	2839	40.77.167.170
+5	1	0	0	0	26492094	0	0	26492094	0	0	24	77.88.5.112
+5	0	0	1	1	0	26493199	26493199	0	26493199	26493199	0	34.229.112.125
+5	1	1	0	0	26495249	0	0	26495249	0	0	2819	42.236.10.88
+5	0	0	1	2	0	26493802	26494065	0	26493802	26493899	0	40.77.167.149
+5	1	1	0	0	26492781	0	0	26492781	0	0	2819	42.236.10.83
+5	0	0	1	1	0	26495260	26495260	0	26495260	26495260	0	18.209.36.241
+5	1	1	0	0	26495254	0	0	26495254	0	0	2839	42.236.10.79
+5	0	0	1	1	0	26491959	26491959	0	26491959	26491959	0	52.203.84.190
+5	1	1	0	0	26488851	0	0	26488851	0	0	2819	42.236.10.73
+5	0	0	1	1	0	26493405	26493405	0	26493405	26493405	0	54.174.34.229
+5	0	0	2	1	0	26492646	26494066	0	26491087	26494066	0	54.36.150.99
+5	0	0	2	0	0	26493731	0	0	26487448	0	0	54.36.149.99
+5	3	3	0	0	26487432	0	0	26487248	0	0	8419	157.55.39.241
+5	0	0	0	1	0	0	26491172	0	0	26491172	0	54.36.149.98
+5	0	0	3	0	0	26494567	0	0	26489615	0	0	54.36.150.98
+5	0	0	1	1	0	26488604	26493496	0	26488604	26493496	0	54.36.150.97
+5	0	0	0	1	0	0	26492566	0	0	26492566	0	54.36.150.96
+5	0	0	1	0	0	26490211	0	0	26490211	0	0	54.36.149.96
+5	0	0	0	1	0	0	26491508	0	0	26491508	0	54.36.149.95
+5	0	0	1	0	0	26491379	0	0	26491379	0	0	54.36.150.94
+5	0	0	1	0	0	26491458	0	0	26491458	0	0	54.36.149.94
+5	0	0	0	1	0	0	26493187	0	0	26493187	0	54.36.150.93
+5	0	0	1	0	0	26493501	0	0	26493501	0	0	54.36.149.91
+5	0	0	2	1	0	26492092	26493423	0	26489502	26493423	0	54.36.150.91
+5	0	0	1	1	0	26492076	26492697	0	26492076	26492697	0	54.36.150.90
+5	0	0	1	0	0	26489868	0	0	26489868	0	0	54.36.149.89
+5	0	0	2	1	0	26492106	26491332	0	26490436	26491332	0	54.36.150.89
+5	0	0	0	2	0	0	26492687	0	0	26492448	0	54.36.150.88
+5	1	1	0	0	26493441	0	0	26493441	0	0	2839	40.77.167.115
+5	1	1	0	0	26492779	0	0	26492779	0	0	2839	42.236.10.113
+5	0	0	1	0	0	26492328	0	0	26492328	0	0	54.36.149.87
+5	0	0	1	0	0	26491815	0	0	26491815	0	0	54.36.150.87
+5	0	0	1	0	0	26492177	0	0	26492177	0	0	54.36.149.86
+5	0	0	1	1	0	26491380	26492575	0	26491380	26492575	0	54.36.150.86
+5	0	0	1	1	0	26489333	26493420	0	26489333	26493420	0	54.36.150.85
+5	0	0	1	1	0	26495535	26492466	0	26495535	26492466	0	54.36.149.84
+5	0	0	0	1	0	0	26491568	0	0	26491568	0	54.36.150.84
+5	1	1	0	0	26495057	0	0	26495057	0	0	2839	40.77.167.111
+5	0	0	1	0	0	26493140	0	0	26493140	0	0	54.36.150.83
+5	0	0	1	0	0	26495320	0	0	26495320	0	0	54.36.150.80
+5	0	0	1	0	0	26494616	0	0	26494616	0	0	54.36.150.79
+5	0	0	1	0	0	26494021	0	0	26494021	0	0	54.36.149.79
+5	0	0	1	0	0	26487816	0	0	26487816	0	0	54.36.149.80
+5	0	0	0	1	0	0	26492167	0	0	26492167	0	54.36.150.78
+5	0	0	2	0	0	26495614	0	0	26491424	0	0	54.36.149.78
+5	64	0	12	0	26495568	26495499	0	26495477	26495488	0	2878144	223.238.121.114
+5	0	0	0	1	0	0	26492443	0	0	26492443	0	54.36.150.77
+5	1	0	0	0	26492653	0	0	26492653	0	0	24	95.163.255.110
+5	2	2	0	0	26493128	0	0	26493113	0	0	5638	198.108.66.240
+5	0	0	3	0	0	26494476	0	0	26487853	0	0	54.36.150.75
+5	0	0	2	0	0	26487942	0	0	26487313	0	0	54.36.149.75
+5	0	0	1	0	0	26493432	0	0	26493432	0	0	54.36.150.74
+5	1	1	0	0	26495248	0	0	26495248	0	0	2839	42.236.54.62
+5	0	0	1	0	0	26491235	0	0	26491235	0	0	54.36.149.73
+5	0	0	2	1	0	26492809	26493202	0	26491345	26493202	0	54.36.150.72
+5	0	0	1	0	0	26495314	0	0	26495314	0	0	54.36.150.70
+5	2	1	0	0	26490935	0	0	26487959	0	0	2843	54.36.149.70
+5	0	0	2	0	0	26494349	0	0	26494102	0	0	54.36.150.69
+5	0	0	1	0	0	26494598	0	0	26494598	0	0	54.36.149.68
+5	0	0	1	0	0	26490976	0	0	26490976	0	0	54.36.150.68
+5	1	1	1	0	26489008	26490624	0	26489008	26490624	0	2819	54.36.149.67
+5	0	0	2	0	0	26491970	0	0	26488192	0	0	54.36.150.67
+5	0	0	2	0	0	26492805	0	0	26488802	0	0	54.36.150.66
+5	0	0	2	0	0	26493454	0	0	26493278	0	0	54.36.149.66
+5	0	0	1	0	0	26495478	0	0	26495478	0	0	54.36.149.65
+5	0	0	0	1	0	0	26492773	0	0	26492773	0	54.36.150.65
+5	0	0	0	1	0	0	26492765	0	0	26492765	0	54.36.150.64
+5	0	0	0	1	0	0	26493633	0	0	26493633	0	54.36.149.64
+5	0	0	1	0	0	26493736	0	0	26493736	0	0	157.55.39.195
+5	0	0	1	1	0	26490657	26490657	0	26490657	26490657	0	54.165.58.159
+5	0	0	2	1	0	26493250	26492654	0	26490654	26492654	0	54.36.150.63
+5	1	0	1	1	26491116	26491776	26493301	26491116	26491776	26493301	24	54.36.149.62
+5	0	0	1	1	0	26489822	26492520	0	26489822	26492520	0	54.36.150.62
+5	1	0	0	0	26495274	0	0	26495274	0	0	24	54.36.149.61
+5	0	0	1	0	0	26490519	0	0	26490519	0	0	157.55.39.192
+5	0	0	1	0	0	26488988	0	0	26488988	0	0	54.36.150.61
+5	0	0	1	0	0	26491492	0	0	26491492	0	0	54.36.149.59
+5	0	0	1	1	0	26493949	26493599	0	26493949	26493599	0	54.36.150.59
+5	0	0	1	0	0	26492503	0	0	26492503	0	0	54.36.150.58
+5	1	1	0	0	26493558	0	0	26493558	0	0	2819	142.93.70.155
+5	0	0	1	0	0	26488140	0	0	26488140	0	0	54.36.149.57
+5	0	0	1	0	0	26487704	0	0	26487704	0	0	54.36.150.56
+5	0	0	1	0	0	26492171	0	0	26492171	0	0	54.36.149.56
+5	0	0	1	2	0	26494771	26493385	0	26494771	26491387	0	54.36.150.53
+5	0	0	3	1	0	26494437	26495301	0	26491584	26495301	0	54.36.150.52
+5	0	0	1	1	0	26494625	26491896	0	26494625	26491896	0	54.36.149.52
+5	0	0	2	0	0	26494076	0	0	26491678	0	0	54.36.150.51
+5	0	0	0	1	0	0	26491535	0	0	26491535	0	185.234.218.174
+5	0	0	1	0	0	26491742	0	0	26491742	0	0	54.36.149.49
+5	0	0	3	0	0	26495577	0	0	26489190	0	0	54.36.150.49
+5	1	0	0	0	26491893	0	0	26491893	0	0	4930	54.36.150.50
+5	0	0	0	1	0	0	26492428	0	0	26492428	0	54.36.149.50
+5	0	0	2	1	0	26495365	26492693	0	26491366	26492693	0	54.36.150.48
+5	0	0	2	1	0	26495303	26495315	0	26494794	26495315	0	157.55.39.178
+5	0	0	2	0	0	26495305	0	0	26492784	0	0	54.36.150.47
+5	0	0	1	0	0	26489567	0	0	26489567	0	0	54.36.150.46
+5	1	1	0	0	26492017	0	0	26492017	0	0	2819	198.108.66.199
+5	0	0	1	0	0	26491566	0	0	26491566	0	0	54.36.150.45
+5	0	0	0	1	0	0	26493491	0	0	26493491	0	54.36.149.45
+5	0	0	0	1	0	0	26495501	0	0	26495501	0	54.36.150.44
+5	0	0	2	1	0	26489404	26491098	0	26487698	26491098	0	54.36.150.43
+5	0	0	2	1	0	26491584	26494472	0	26488126	26494472	0	54.36.150.42
+5	0	0	1	0	0	26487120	0	0	26487120	0	0	54.36.149.42
+5	0	0	0	1	0	0	26490871	0	0	26490871	0	209.17.97.74
+5	0	0	2	0	0	26491559	0	0	26491275	0	0	54.36.150.41
+5	0	0	3	0	0	26494171	0	0	26487890	0	0	54.36.150.39
+5	0	0	1	0	0	26493784	0	0	26493784	0	0	54.36.150.40
+5	0	0	1	0	0	26488297	0	0	26488297	0	0	54.36.150.38
+5	0	0	2	0	0	26495274	0	0	26491731	0	0	54.36.150.36
+5	1	0	0	1	26489019	0	26489020	26489019	0	26489020	24	178.154.200.148
+5	0	0	1	1	0	26488226	26488226	0	26488226	26488226	0	3.81.234.237
+5	0	0	1	0	0	26494713	0	0	26494713	0	0	54.36.149.35
+5	0	0	1	0	0	26490043	0	0	26490043	0	0	54.36.150.35
+5	0	0	1	0	0	26487822	0	0	26487822	0	0	54.36.149.34
+5	0	0	0	1	0	0	26493332	0	0	26493332	0	54.36.150.34
+5	0	0	3	0	0	26492766	0	0	26490935	0	0	54.36.150.33
+5	0	0	0	1	0	0	26492590	0	0	26492590	0	54.36.149.33
+5	2	0	0	0	26495513	0	0	26495508	0	0	0	64.233.172.180
+5	0	0	1	0	0	26494599	0	0	26494599	0	0	54.36.150.32
+5	1	0	0	0	26495507	0	0	26495507	0	0	0	64.233.172.178
+5	0	0	1	0	0	26489517	0	0	26489517	0	0	54.36.149.31
+5	0	0	0	1	0	0	26493164	0	0	26493164	0	54.36.150.31
+5	0	0	0	44	0	0	26495628	0	0	26495496	0	52.66.75.174
+5	0	0	1	0	0	26494610	0	0	26494610	0	0	54.36.150.30
+5	0	0	1	0	0	26491040	0	0	26491040	0	0	54.36.149.29
+5	0	0	2	2	0	26491170	26495167	0	26490119	26491658	0	54.36.150.29
+5	0	0	1	1	0	26488420	26488420	0	26488420	26488420	0	54.82.154.95
+5	0	0	0	1	0	0	26491259	0	0	26491259	0	54.36.149.28
+5	0	0	1	0	0	26491647	0	0	26491647	0	0	157.55.39.160
+5	0	0	1	1	0	26494204	26493519	0	26494204	26493519	0	54.36.150.28
+5	0	0	2	1	0	26492141	26491793	0	26490348	26491793	0	54.36.150.27
+5	0	0	0	1	0	0	26493183	0	0	26493183	0	54.36.149.27
+5	0	0	1	0	0	26494569	0	0	26494569	0	0	54.36.150.26
+5	0	0	1	1	0	26493259	26492744	0	26493259	26492744	0	54.36.149.26
+5	2	1	0	4	26492447	0	26492448	26492447	0	26492447	7714	124.205.141.245
+5	0	0	1	0	0	26488713	0	0	26488713	0	0	54.36.149.23
+5	0	0	1	1	0	26488941	26492031	0	26488941	26492031	0	54.36.150.22
+5	0	0	0	2	0	0	26492589	0	0	26492412	0	54.36.150.21
+5	0	0	1	0	0	26494210	0	0	26494210	0	0	54.36.149.19
+5	0	0	0	3	0	0	26493610	0	0	26491015	0	54.36.150.19
+5	0	0	1	0	0	26489974	0	0	26489974	0	0	54.36.149.20
+5	0	0	1	0	0	26492790	0	0	26492790	0	0	54.36.150.20
+5	0	0	1	2	0	26490344	26493144	0	26490344	26492797	0	54.36.150.18
+5	0	0	1	0	0	26493602	0	0	26493602	0	0	54.36.149.18
+5	1	1	0	0	26490653	0	0	26490653	0	0	2844	209.17.97.50
+5	1	1	2	1	26488865	26494206	26493140	26488865	26491993	26493140	2844	54.36.150.17
+5	0	0	2	0	0	26491188	0	0	26491083	0	0	54.36.150.16
+5	0	0	3	1	0	26493633	26493441	0	26491695	26493441	0	54.36.150.15
+5	0	0	0	1	0	0	26492748	0	0	26492748	0	54.36.150.14
+5	0	0	0	1	0	0	26495099	0	0	26495099	0	54.36.149.13
+5	0	0	0	1	0	0	26492283	0	0	26492283	0	54.36.150.13
+5	0	0	1	0	0	26493431	0	0	26493431	0	0	54.36.150.12
+5	0	0	0	1	0	0	26493697	0	0	26493697	0	54.36.149.12
+5	0	0	1	0	0	26495424	0	0	26495424	0	0	54.36.150.11
+5	1	1	2	3	26493540	26493919	26493951	26493540	26493915	26493915	2819	157.55.39.142
+5	0	0	2	1	0	26489565	26493114	0	26488369	26493114	0	54.36.150.10
+5	0	0	1	0	0	26493287	0	0	26493287	0	0	54.36.149.10
+5	2	1	0	0	26489269	0	0	26489269	0	0	2843	204.12.226.26
+5	4	4	0	0	26495407	0	0	26488211	0	0	11276	131.220.6.152
+5	1	1	0	0	26492879	0	0	26492879	0	0	2819	194.104.9.234
+5	0	0	0	1	0	0	26491792	0	0	26491792	0	185.234.219.231
+5	0	0	2	0	0	26495310	0	0	26487959	0	0	54.36.148.252
+5	1	0	1	0	26488453	26488453	0	26488453	26488453	0	4895	157.55.39.112
+5	0	0	1	0	0	26489094	0	0	26489094	0	0	54.36.148.251
+5	0	0	1	0	0	26495172	0	0	26495172	0	0	54.36.148.249
+5	0	0	0	1	0	0	26492441	0	0	26492441	0	54.36.148.250
+5	2	1	0	0	26490935	0	0	26490935	0	0	159389	160.238.72.197
+5	0	0	2	0	0	26493111	0	0	26492710	0	0	54.36.148.245
+5	0	0	1	0	0	26493224	0	0	26493224	0	0	54.36.148.243
+5	0	0	1	0	0	26491975	0	0	26491975	0	0	54.36.148.241
+5	1	1	2	0	26492390	26491406	0	26492390	26490976	0	2819	54.36.148.239
+5	1	0	2	0	26490906	26494503	0	26490906	26487816	0	24	54.36.148.240
+5	0	0	1	0	0	26491720	0	0	26491720	0	0	54.36.148.238
+5	0	0	1	0	0	26493828	0	0	26493828	0	0	54.36.148.237
+5	0	0	2	0	0	26495263	0	0	26492264	0	0	54.36.148.236
+5	0	0	1	1	0	26489837	26489837	0	26489837	26489837	0	3.81.131.34
+5	0	0	1	0	0	26494098	0	0	26494098	0	0	54.36.148.234
+5	0	0	0	1	0	0	26493747	0	0	26493747	0	54.36.148.233
+5	0	0	1	1	0	26494534	26492437	0	26494534	26492437	0	54.36.148.232
+5	1	1	0	0	26495335	0	0	26495335	0	0	2819	54.36.148.231
+5	0	0	1	1	0	26492812	26492705	0	26492812	26492705	0	54.36.148.230
+5	1	0	0	0	26490935	0	0	26490935	0	0	333363	160.238.72.175
+5	0	0	1	0	0	26495059	0	0	26495059	0	0	54.36.148.226
+5	0	0	1	0	0	26493528	0	0	26493528	0	0	54.36.148.224
+5	0	0	1	0	0	26488951	0	0	26488951	0	0	54.36.148.221
+5	0	0	1	0	0	26495301	0	0	26495301	0	0	54.36.148.219
+5	0	0	2	0	0	26495594	0	0	26493574	0	0	54.36.148.216
+5	0	0	0	2	0	0	26494571	0	0	26492748	0	54.36.148.213
+5	3	2	22	34	26495377	26495179	26495396	26487217	26487296	26487081	5641	66.249.68.2
+5	0	0	0	1	0	0	26491820	0	0	26491820	0	54.36.148.211
+5	1	0	2	0	26491084	26495479	0	26491084	26492845	0	24	54.36.148.199
+5	0	0	0	1	0	0	26493700	0	0	26493700	0	54.36.148.210
+5	0	0	0	1	0	0	26493331	0	0	26493331	0	54.36.148.197
+5	0	0	1	0	0	26487506	0	0	26487506	0	0	54.36.148.196
+5	0	0	2	0	0	26490304	0	0	26488671	0	0	54.36.148.195
+5	1	0	0	0	26495519	0	0	26495519	0	0	24	54.36.148.194
+5	0	0	1	0	0	26491813	0	0	26491813	0	0	54.36.148.204
+5	0	0	2	0	0	26490422	0	0	26490276	0	0	40.77.167.22
+5	0	0	1	0	0	26492782	0	0	26492782	0	0	54.36.148.203
+5	0	0	1	1	0	26492352	26492352	0	26492352	26492352	0	3.93.22.215
+5	0	0	0	4	0	0	26487267	0	0	26487267	0	45.128.133.242
+5	0	0	2	2	0	26495110	26495110	0	26492822	26492822	0	34.226.215.200
+5	0	0	1	0	0	26493175	0	0	26493175	0	0	54.36.148.192
+5	0	0	1	2	0	26495343	26493999	0	26495343	26493308	0	54.36.148.202
+5	1	0	1	0	26491116	26492027	0	26491116	26492027	0	3714	54.36.148.189
+5	0	0	1	0	0	26488434	0	0	26488434	0	0	54.36.148.200
+5	1	1	0	1	26493535	0	26493137	26493535	0	26493137	2819	54.36.148.190
+5	1	0	0	0	26489381	0	0	26489381	0	0	24	54.36.148.187
+5	1	1	0	0	26489708	0	0	26489708	0	0	2819	207.46.13.196
+5	0	0	1	1	0	26490282	26490282	0	26490282	26490282	0	34.229.242.2
+5	1	1	0	0	26489434	0	0	26489434	0	0	2819	54.36.148.186
+5	0	0	1	0	0	26494343	0	0	26494343	0	0	54.36.148.185
+5	0	0	1	0	0	26490268	0	0	26490268	0	0	54.36.148.184
+5	0	0	1	0	0	26486996	0	0	26486996	0	0	207.46.13.191
+5	0	0	1	0	0	26493624	0	0	26493624	0	0	54.36.148.182
+5	1	1	0	1	26492845	0	26492992	26492845	0	26492992	2819	207.46.13.190
+5	0	0	1	0	0	26492031	0	0	26492031	0	0	54.36.148.178
+5	1	1	0	1	26491382	0	26492655	26491382	0	26492655	2819	54.36.148.177
+5	0	0	1	0	0	26493863	0	0	26493863	0	0	54.36.148.174
+5	0	0	1	0	0	26487119	0	0	26487119	0	0	54.36.148.173
+5	0	0	0	1	0	0	26493742	0	0	26493742	0	54.36.148.172
+5	2	2	1	1	26488874	26488604	26488604	26488792	26488604	26488604	5638	207.46.13.89
+5	0	0	4	0	0	26494575	0	0	26491178	0	0	54.36.148.170
+5	1	1	1	0	26491875	26491078	0	26491875	26491078	0	2819	54.36.148.169
+5	0	0	0	1	0	0	26491159	0	0	26491159	0	54.36.148.168
+z	0	24	5	26495577	0
+z	2	58	0	26495590	1392
+z	3	3	0	26495575	1839
+z	4	198	99	26495617	787316
+z	5	77	2	26495577	2815862
+z	6	22	0	26495576	6235461
+c	200	380	26495617
+c	301	557	26495614
+c	302	50	26495607
+c	304	2	26495454
+c	401	6	26495624
+c	403	1	26488796
+c	404	560	26495617
+c	405	85	26495628

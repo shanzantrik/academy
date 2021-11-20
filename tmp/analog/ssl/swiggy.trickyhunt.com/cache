@@ -1,0 +1,8 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	0	0	0	2	0
+D	26493169	26493171
+1	0	0	0	1	0	0	26493171	0	0	26493171	0	/robots.txt
+1	0	0	0	1	0	0	26493169	0	0	26493169	0	/wp-login.php
+4	0	0	0	2	0	0	26493171	0	0	26493169	0	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+5	0	0	0	2	0	0	26493171	0	0	26493169	0	198.27.80.123
+c	500	2	26493171

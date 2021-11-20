@@ -1,0 +1,556 @@
+# Webalizer V2.23-08 Incremental Data - 11/15/2021 21:46:28
+2021 11 15 21 46 28
+320 232 89 41 17 28 14799364 137 80 0
+1 1 91 1 15
+69 57 1901996 26 41 18
+190 128 11286497 31 55 25
+22 19 417287 17 13 13
+8 5 89915 8 8 8
+25 18 1081594 12 14 10
+1 1 4408 1 1 1
+0 0 0 0 0 0
+1 0 35 1 1 1
+1 1 4408 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 4408 1 1 1
+1 1 4408 1 1 1
+1 1 4408 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+24 19 53308 14
+19 10 850847 9
+21 20 89595 21
+8 7 28064 6
+20 3 38248 3
+4 0 362685 3
+92 82 7129264 17
+4 4 8812 2
+2 0 362632 1
+1 1 4408 1
+14 13 1002141 6
+8 6 53287 6
+23 10 484175 11
+10 10 848889 3
+2 2 4432 1
+8 5 41558 3
+20 12 775943 10
+19 13 1047745 9
+4 2 367074 2
+6 4 861458 3
+5 5 4504 1
+4 2 371439 3
+1 1 4448 1
+1 1 4408 1
+0
+0
+0
+232
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+4
+0
+0
+0
+42
+0
+0
+27
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/app.css
+0 6 0 939420 0 0
+/adminlte/dist/css/adminlte.min.css
+0 5 0 3433535 0 0
+/admin/login
+0 3 0 7527 0 0
+/register
+0 1 0 6111 1 1
+/adminlte/plugins/jquery/jquery.min.js
+0 1 0 88145 0 0
+/adminlte/plugins/moment/moment.min.js
+0 1 0 53324 0 0
+/adminlte/plugins/jqvmap/jqvmap.min.css
+0 5 0 2452 0 0
+/adminlte/plugins/summernote/summernote-bs4.min.js
+0 1 0 148744 0 0
+/adminlte/plugins/icheck-bootstrap/icheck-bootstrap.min.css
+0 5 0 62525 0 0
+/password/reset
+0 2 0 8748 2 1
+/adminlte/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js
+0 1 0 42383 0 0
+/adminlte/plugins/chart.js/Chart.min.js
+0 1 0 172812 0 0
+/adminlte/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js
+0 1 0 56879 0 0
+/favicon.ico
+0 18 0 12603 0 0
+/js/app.js
+0 12 0 4000356 0 0
+/.env
+0 6 0 73731 0 0
+/adminlte/plugins/fontawesome-free/css/all.min.css
+0 5 0 292890 0 0
+/adminlte/plugins/sparklines/sparkline.js
+0 2 0 7219 0 0
+/adminlte/dist/js/adminlte.js
+0 1 0 57530 0 0
+/dashboard
+0 4 0 48129 0 0
+/adminlte/plugins/summernote/summernote-bs4.css
+0 5 0 100235 0 0
+/login
+0 1 0 5578 0 0
+/wp-login.php
+0 1 0 12297 0 0
+/adminlte/plugins/overlayScrollbars/css/OverlayScrollbars.min.css
+0 5 0 98620 0 0
+/adminlte/plugins/jqvmap/maps/jquery.vmap.usa.js
+0 1 0 47712 0 0
+/adminlte/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+0 1 0 79444 0 0
+/adminlte/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css
+0 5 0 45355 0 0
+/admin/applications
+0 1 0 222125 0 0
+/adminlte/plugins/jquery-knob/jquery.knob.min.js
+0 1 0 10804 0 0
+/adminlte/plugins/jqvmap/jquery.vmap.min.js
+0 1 0 21150 0 0
+/
+0 89 0 567763 77 15
+/adminlte/dist/js/pages/dashboard.js
+0 2 0 7577 0 0
+/adminlte/plugins/jquery-ui/jquery-ui.min.js
+0 1 0 253669 0 0
+/adminlte/dist/js/demo.js
+0 1 0 12616 0 0
+/adminlte/plugins/bootstrap/js/bootstrap.bundle.min.js
+0 1 0 80698 0 0
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+0 6 0 73907 0 0
+/robots.txt
+0 25 0 600 0 0
+/adminlte/plugins/daterangepicker/daterangepicker.css
+0 5 0 32276 0 0
+/adminlte/plugins/daterangepicker/daterangepicker.js
+0 1 0 67268 0 0
+/admin/approved-applications
+0 1 0 202769 0 0
+/images/logofinal-2.png
+0 1 0 47113 0 0
+# End Of Table - urls
+# -sites- (monthly)
+103.114.158.1
+0 7 4 354667 2 1636132725
+/
+92.118.160.61.netsystemsresearch.com
+0 1 0 35 1 1635766885
+/
+ec2-34-222-236-201.us-west-2.compute.amazonaws.com
+0 1 1 0 0 0
+-
+141-8-142-75.spider.yandex.com
+0 4 4 8864 2 1635797559
+/
+2.130.96.34.bc.googleusercontent.com
+0 1 1 4408 1 1636082926
+/
+msnbot-157-55-39-177.search.msn.com
+0 2 2 48 0 0
+-
+92.118.160.5.netsystemsresearch.com
+0 2 1 4443 2 1636365885
+/
+185.88.177.220
+0 1 1 4488 1 1635779753
+/
+petalbot-114-119-138-202.petalsearch.com
+0 1 1 24 0 0
+-
+30.130.96.34.bc.googleusercontent.com
+0 1 1 4408 1 1636775085
+/
+petalbot-114-119-152-32.petalsearch.com
+0 1 1 24 0 0
+-
+ip3.ip-51-222-253.net
+0 1 1 24 0 0
+-
+5-45-207-101.spider.yandex.com
+0 1 1 24 0 0
+-
+205.185.116.25
+0 2 1 12655 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-u13fb675e3d5511ec9eb0a23f838d6ab1u-digitalocean
+0 1 1 4448 1 1636022564
+/
+petalbot-114-119-136-184.petalsearch.com
+0 1 1 24 0 0
+-
+ec2-18-237-215-163.us-west-2.compute.amazonaws.com
+0 1 1 0 0 0
+-
+104.223.92.170.static.quadranet.com
+0 2 0 362623 1 1635889042
+/
+petalbot-114-119-150-9.petalsearch.com
+0 1 1 24 0 0
+-
+ec2-35-86-89-132.us-west-2.compute.amazonaws.com
+0 1 1 4408 1 1635898726
+/
+ip7.ip-51-222-253.net
+0 2 2 8856 2 1635882707
+/
+msnbot-207-46-13-123.search.msn.com
+0 3 3 1000089 0 0
+-
+crawl-66-249-70-116.googlebot.com
+0 2 2 8816 2 1635912438
+/
+petalbot-114-119-134-148.petalsearch.com
+0 1 1 24 0 0
+-
+182.0.231.36
+0 2 0 362615 1 1635917865
+/
+kodisummers.tempurl.host
+0 1 1 4458 1 1636027891
+/
+12.162.77.34.bc.googleusercontent.com
+0 1 1 4408 1 1636449083
+/
+crawl-66-249-64-50.googlebot.com
+0 3 3 8840 2 1635823694
+/
+16.35.86.34.bc.googleusercontent.com
+0 1 1 4408 1 1635911752
+/
+23.146.241.20
+0 1 1 4488 1 1635762183
+/
+ip18.ip-51-222-253.net
+0 1 1 4408 1 1635973260
+/
+ec2-52-12-147-121.us-west-2.compute.amazonaws.com
+0 1 1 0 0 0
+-
+92.118.160.37.netsystemsresearch.com
+0 2 2 42662 2 1635815805
+/
+143.110.218.233
+0 1 1 4488 1 1635880747
+/
+ec2-34-219-34-174.us-west-2.compute.amazonaws.com
+0 1 1 4408 1 1635898755
+/
+ip16.ip-51-222-253.net
+0 1 1 4408 1 1635785824
+/
+117.198.71.214
+0 89 79 6305968 1 1635833963
+/dashboard
+crawl-66-249-64-52.googlebot.com
+0 7 7 690417 4 1635862449
+/
+sports.earacheevince.com
+0 17 17 76216 1 1635735550
+/
+ip19.ip-51-222-253.net
+0 1 1 24 0 0
+-
+216.244.66.194
+0 2 2 4432 1 1635936971
+/
+balance.nici.io
+0 3 2 346012 1 1636132204
+/
+timoduizha.gq
+0 1 1 4458 1 1636131503
+/
+ec2-18-237-128-103.us-west-2.compute.amazonaws.com
+0 1 1 0 0 0
+-
+crawl-66-249-64-48.googlebot.com
+0 8 8 507613 3 1635859749
+/
+msnbot-207-46-13-45.search.msn.com
+0 2 2 48 0 0
+-
+vmi707755.contaboserver.net
+0 54 21 1324116 3 1635855892
+/
+petalbot-114-119-137-123.petalsearch.com
+0 1 1 24 0 0
+-
+ip-72-167-42-45.ip.secureserver.net
+0 1 1 4528 1 1635905769
+/
+jobqueue-listener.jobqueue.netcraft.com-u137771b03d5511ec9eb0a23f838d6ab1u-digitalocean
+0 1 1 38242 1 1636025274
+/
+lw55087.windscribe.com
+0 2 0 362642 1 1635878382
+/
+ec2-34-210-63-191.us-west-2.compute.amazonaws.com
+0 1 1 4408 1 1635812879
+/
+209.141.33.65
+0 1 0 52 1 1636131832
+/
+31.162.77.34.bc.googleusercontent.com
+0 1 1 4408 1 1637012788
+/
+serverapps3.las01.shana.sg
+0 3 3 8866 1 1636131844
+/
+jobqueue-listener.jobqueue.netcraft.com-u17803e223d5511ec9eb0a23f838d6ab1u-digitalocean
+0 1 1 4408 1 1636024650
+/
+lithium010.a.ahrefs.com
+0 2 2 489933 0 0
+-
+ip6.ip-51-222-253.net
+0 2 2 8896 2 1635898041
+/
+209.141.36.112
+0 1 1 4448 1 1636132726
+/
+msnbot-157-55-39-146.search.msn.com
+0 1 1 4392 1 1635761335
+/password/reset
+msnbot-207-46-13-69.search.msn.com
+0 3 3 469710 0 0
+-
+205.185.116.89
+0 2 2 333363 0 0
+-
+28.162.77.34.bc.googleusercontent.com
+0 1 0 35 1 1635819099
+/
+6.130.96.34.bc.googleusercontent.com
+0 1 0 35 1 1636088810
+/
+hwsrv-902978.hostwindsdns.com
+0 1 0 1472 0 0
+-
+msnbot-157-55-39-159.search.msn.com
+0 1 1 4408 1 1635859282
+/
+ec2-34-220-147-6.us-west-2.compute.amazonaws.com
+0 1 1 4408 1 1635813076
+/
+ip-54-36-149-102.a.ahrefs.com
+0 1 1 24 0 0
+-
+188.166.187.188
+0 3 3 4456 1 1635923638
+/
+jobqueue-listener.jobqueue.netcraft.com-u126b378e3d5511ec9eb0a23f838d6ab1u-digitalocean
+0 1 0 35 1 1636025890
+/
+157.245.122.84
+0 1 0 35 1 1636028345
+/
+planetlab24.gino-research.net.in.tum.de
+0 1 1 24 0 0
+-
+rostage.com
+0 2 1 12349 0 0
+-
+crawl-66-249-70-112.googlebot.com
+0 1 1 4408 1 1635902988
+/
+static.202.179.34.188.clients.your-server.de
+0 2 2 337771 1 1635875392
+/
+ip11.ip-51-222-253.net
+0 1 1 24 0 0
+-
+167.172.246.87
+0 1 0 35 1 1636027822
+/
+ec2-52-13-55-92.us-west-2.compute.amazonaws.com
+0 1 1 4408 1 1635812687
+/
+ip-54-36-148-120.a.ahrefs.com
+0 1 1 24 0 0
+-
+165.22.100.187
+0 19 2 33840 1 1635828926
+/
+20.113.63.85
+0 2 0 362629 1 1635881120
+/
+uslv-1.easyinfinite.com
+0 2 2 12606 1 1636129008
+/
+ec2-54-187-221-68.us-west-2.compute.amazonaws.com
+0 1 1 4408 1 1635898883
+/
+92.118.160.1.netsystemsresearch.com
+0 2 1 4443 2 1636857390
+/
+qa-nyc3.qencode-master-33b0c94e3e0a11ecbe35aa13353ea7cc
+0 1 1 38254 1 1636027997
+/
+209.58.142.236
+0 4 0 725250 2 1635841902
+/
+23.29.80.56.bbc.net
+0 1 1 4528 1 1635737439
+/
+ec2-34-221-38-255.us-west-2.compute.amazonaws.com
+0 1 1 4408 1 1635726519
+/
+ec2-34-222-0-155.us-west-2.compute.amazonaws.com
+0 1 1 4408 1 1635812641
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+31.162.77.34.bc.googleusercontent.com
+0 1 1 4408 1 1637012788
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://reimalieacademycollege.in/
+0 13
+https://reimalieacademycollege.in/dashboard
+0 47
+binance.com
+0 1
+- (Direct Request)
+0 209
+https://mail.reimalieacademycollege.in/
+0 1
+http://reimalieacademycollege.in/wp-login.php
+0 2
+https://reimalieacademycollege.in/admin/applications
+0 9
+https://www.reimalieacademycollege.com/
+0 1
+http://162.241.120.83:80/
+0 3
+https://reimalieacademycollege.in/admin/approved-applications
+0 9
+https://www.reimalieacademycollege.in/
+0 1
+http://reimalieacademycollege.in/favicon.ico
+0 2
+https://reimalieacademycollege.in/login
+0 4
+http://www.reimalieacademycollege.in/wp-login.php
+0 2
+http://reimalieacademycollege.in
+0 2
+https://reimalieacademycollege.in/admin/login
+0 13
+https://reimalieacademycollege.in/adminlte/plugins/fontawesome-free/css/all.min.css
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Mobile S
+0 2
+Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 8
+Go http package
+0 3
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 8
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 12
+Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 13
+page-preview-tool Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safar
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36/Nutc
+0 3
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Mobile S
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36
+0 19
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 7
+Chrome/54.0 (Windows NT 10.0)
+0 15
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 48
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/95.0.46
+0 1
+python-requests/2.25.1
+0 18
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 5
+Mozilla/5.0 (compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 4
+Mozilla/5.0 (Linux; Android 10; Redmi Note 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/5
+0 89
+Expanse indexes the network perimeters of our customers. If you have any questions or concerns, please reach out to: scaninfo
+0 7
+Mozilla/5.0 (Macintosh;                 Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML,                 like Gecko) Chrome
+0 17
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

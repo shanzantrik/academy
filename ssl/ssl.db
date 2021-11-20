@@ -1,0 +1,74 @@
+--- 
+files: 
+  certificate: 
+    reimalieacademycollege_in_f7210_84833_1635638399_6f60df802c5ac9c204464ed9b0779daf: 
+      created: '1627841914'
+      domains: 
+        - reimalieacademycollege.in
+        - www.reimalieacademycollege.in
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: reimalieacademycollege.in and www.reimalieacademycollege.in
+      id: reimalieacademycollege_in_f7210_84833_1635638399_6f60df802c5ac9c204464ed9b0779daf
+      is_self_signed: 0
+      issuer.commonName: ZeroSSL RSA Domain Secure Site CA
+      issuer.organizationName: ZeroSSL
+      key_algorithm: rsaEncryption
+      modulus: f7210a43f4c07b7f2bf1069169c55260541c21c67d4d05d20594ba4bb9821569930e9cbceb8f1352dcd1893c93805f21227c66079937e9c17e6fdc1066b76296239414b5a2023252f2c2da8efbe54659df8d4467588d9ca24ac451408d89357eb161682cbd33f8069e82a3f086cf3df7be2d1536322560eb2d83c8be205bbf2ff985ecde8b4c7d83e44cb473a15927695cdf452ef53d60dc0701042a92ec53ba3f1ecb328d803a779038b3cf3c7e4b4402fa82d7cdbfc58193ab3ecc64a57f159332676039de383b56a192d382562da5995be88cbbfa338243c29f93d4e1bd832724a254ba6ba932e80ae088d9238efffb7c82e520d4d6d351ce15017fd84833
+      modulus_length: 2048
+      not_after: '1635638399'
+      not_before: '1627776000'
+      serial: eb1b1a5a29efe0cda34eeea9a8bc0508
+      signature_algorithm: sha384WithRSAEncryption
+      subject.commonName: reimalieacademycollege.in
+      validation_type: dv
+  csr: 
+    reimalieacademycollege_in_f7210_84833_9347a37d02a61857dffb0e4be49a4ae0: 
+      commonName: reimalieacademycollege.in
+      created: '1627841476'
+      domains: 
+        - reimalieacademycollege.in
+        - www.reimalieacademycollege.in
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: reimalieacademycollege.in and www.reimalieacademycollege.in
+      id: reimalieacademycollege_in_f7210_84833_9347a37d02a61857dffb0e4be49a4ae0
+      key_algorithm: rsaEncryption
+      modulus: f7210a43f4c07b7f2bf1069169c55260541c21c67d4d05d20594ba4bb9821569930e9cbceb8f1352dcd1893c93805f21227c66079937e9c17e6fdc1066b76296239414b5a2023252f2c2da8efbe54659df8d4467588d9ca24ac451408d89357eb161682cbd33f8069e82a3f086cf3df7be2d1536322560eb2d83c8be205bbf2ff985ecde8b4c7d83e44cb473a15927695cdf452ef53d60dc0701042a92ec53ba3f1ecb328d803a779038b3cf3c7e4b4402fa82d7cdbfc58193ab3ecc64a57f159332676039de383b56a192d382562da5995be88cbbfa338243c29f93d4e1bd832724a254ba6ba932e80ae088d9238efffb7c82e520d4d6d351ce15017fd84833
+  key: 
+    f7210_84833_ec9546b0b309fc197c77d1f9e548bf13: 
+      created: '1627841476'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: reimalieacademycollege.in and www.reimalieacademycollege.in
+      id: f7210_84833_ec9546b0b309fc197c77d1f9e548bf13
+      key_algorithm: rsaEncryption
+      modulus: f7210a43f4c07b7f2bf1069169c55260541c21c67d4d05d20594ba4bb9821569930e9cbceb8f1352dcd1893c93805f21227c66079937e9c17e6fdc1066b76296239414b5a2023252f2c2da8efbe54659df8d4467588d9ca24ac451408d89357eb161682cbd33f8069e82a3f086cf3df7be2d1536322560eb2d83c8be205bbf2ff985ecde8b4c7d83e44cb473a15927695cdf452ef53d60dc0701042a92ec53ba3f1ecb328d803a779038b3cf3c7e4b4402fa82d7cdbfc58193ab3ecc64a57f159332676039de383b56a192d382562da5995be88cbbfa338243c29f93d4e1bd832724a254ba6ba932e80ae088d9238efffb7c82e520d4d6d351ce15017fd84833
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      f7210a43f4c07b7f2bf1069169c55260541c21c67d4d05d20594ba4bb9821569930e9cbceb8f1352dcd1893c93805f21227c66079937e9c17e6fdc1066b76296239414b5a2023252f2c2da8efbe54659df8d4467588d9ca24ac451408d89357eb161682cbd33f8069e82a3f086cf3df7be2d1536322560eb2d83c8be205bbf2ff985ecde8b4c7d83e44cb473a15927695cdf452ef53d60dc0701042a92ec53ba3f1ecb328d803a779038b3cf3c7e4b4402fa82d7cdbfc58193ab3ecc64a57f159332676039de383b56a192d382562da5995be88cbbfa338243c29f93d4e1bd832724a254ba6ba932e80ae088d9238efffb7c82e520d4d6d351ce15017fd84833: 
+        reimalieacademycollege_in_f7210_84833_1635638399_6f60df802c5ac9c204464ed9b0779daf: ~
+    subject.commonName: 
+      reimalieacademycollege.in: 
+        reimalieacademycollege_in_f7210_84833_1635638399_6f60df802c5ac9c204464ed9b0779daf: ~
+  csr: 
+    commonName: 
+      reimalieacademycollege.in: 
+        reimalieacademycollege_in_f7210_84833_9347a37d02a61857dffb0e4be49a4ae0: ~
+    modulus: 
+      f7210a43f4c07b7f2bf1069169c55260541c21c67d4d05d20594ba4bb9821569930e9cbceb8f1352dcd1893c93805f21227c66079937e9c17e6fdc1066b76296239414b5a2023252f2c2da8efbe54659df8d4467588d9ca24ac451408d89357eb161682cbd33f8069e82a3f086cf3df7be2d1536322560eb2d83c8be205bbf2ff985ecde8b4c7d83e44cb473a15927695cdf452ef53d60dc0701042a92ec53ba3f1ecb328d803a779038b3cf3c7e4b4402fa82d7cdbfc58193ab3ecc64a57f159332676039de383b56a192d382562da5995be88cbbfa338243c29f93d4e1bd832724a254ba6ba932e80ae088d9238efffb7c82e520d4d6d351ce15017fd84833: 
+        reimalieacademycollege_in_f7210_84833_9347a37d02a61857dffb0e4be49a4ae0: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      reimalieacademycollege.in and www.reimalieacademycollege.in: reimalieacademycollege_in_f7210_84833_1635638399_6f60df802c5ac9c204464ed9b0779daf
+  csr: 
+    friendly_name: 
+      reimalieacademycollege.in and www.reimalieacademycollege.in: reimalieacademycollege_in_f7210_84833_9347a37d02a61857dffb0e4be49a4ae0
+  key: 
+    friendly_name: 
+      reimalieacademycollege.in and www.reimalieacademycollege.in: f7210_84833_ec9546b0b309fc197c77d1f9e548bf13
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      f7210a43f4c07b7f2bf1069169c55260541c21c67d4d05d20594ba4bb9821569930e9cbceb8f1352dcd1893c93805f21227c66079937e9c17e6fdc1066b76296239414b5a2023252f2c2da8efbe54659df8d4467588d9ca24ac451408d89357eb161682cbd33f8069e82a3f086cf3df7be2d1536322560eb2d83c8be205bbf2ff985ecde8b4c7d83e44cb473a15927695cdf452ef53d60dc0701042a92ec53ba3f1ecb328d803a779038b3cf3c7e4b4402fa82d7cdbfc58193ab3ecc64a57f159332676039de383b56a192d382562da5995be88cbbfa338243c29f93d4e1bd832724a254ba6ba932e80ae088d9238efffb7c82e520d4d6d351ce15017fd84833: f7210_84833_ec9546b0b309fc197c77d1f9e548bf13

@@ -1,0 +1,702 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202005 will be lost/reset.
+# Last config file used to build this data file was /home/trickyhunt/tmp/awstats/ssl/awstats.trickyhunt.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2700                
+POS_VISITOR 29053               
+POS_DAY 30122               
+POS_DOMAIN 3397                
+POS_LOGIN 3755                
+POS_ROBOT 3910                
+POS_WORMS 4511                
+POS_EMAILSENDER 4642                
+POS_EMAILRECEIVER 4785                
+POS_SESSION 30333               
+POS_SIDER 30492               
+POS_FILETYPES 4920                
+POS_DOWNLOADS 5145                
+POS_OS 5193                
+POS_BROWSER 5378                
+POS_SCREENSIZE 5870                
+POS_UNKNOWNREFERER 5944                
+POS_UNKNOWNREFERERBROWSER 6242                
+POS_ORIGIN 6384                
+POS_SEREFERRALS 6519                
+POS_PAGEREFS 6682                
+POS_SEARCHWORDS 6830                
+POS_KEYWORDS 6982                
+POS_MISC 2363                
+POS_ERRORS 7041                
+POS_CLUSTER 3611                
+POS_SIDER_404 7197                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200516174804 541 118571 5181648047822
+FirstTime 20200510222840
+LastTime 20200516173705
+LastUpdate 20200516174936 541 0 541 0 0
+TotalVisits 32                  
+TotalUnique 22                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 23                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+AddToFavourites 0 19 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 2819 49 49 39085
+1 0 0 0 43 46 46220
+2 1 1 2869 32 34 23760
+3 0 0 0 45 47 47442
+4 0 0 0 45 59 54097
+5 2 2 5658 89 89 76600
+6 0 0 0 31 32 30633
+7 0 0 0 24 28 25372
+8 0 0 0 40 53 45935
+9 1 1 2819 87 103 90908
+10 0 0 0 36 61 65984
+11 1 3 492752 42 50 56923
+12 5 5 10533 44 47 41468
+13 9 9 44567 44 54 48154
+14 4 4 11276 34 41 32252
+15 66 124 6196837 102 117 12343141
+16 32 59 2775716 85 90 12858161
+17 9 9 36071 88 92 8885799
+18 1 1 2819 39 39 43928
+19 2 2 2819 31 57 57565
+20 0 0 0 31 51 54965
+21 1 1 2819 25 58 76744
+22 2 2 5596 57 79 91434
+23 2 2 5638 38 39 40363
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+in 98 183 8944641
+de 11 11 16934
+ru 9 9 44553
+us 8 8 57262
+it 4 4 20880
+bg 2 2 5596
+ar 2 2 5638
+cn 2 2 7714
+dm 1 1 2819
+nl 1 1 2819
+jp 1 3 492752
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+AhrefsBot/ 37 67298 20200516155947 16
+bingbot/ 36 70126 20200516103818 12
+Googlebot/ 19 25654 20200516145428 10
+YandexBot/ 13 17597 20200516104534 9
+360Spider 12 33948 20200516113420 0
+Applebot/ 5 8505 20200516171009 2
+SeznamBot/ 4 96 20200514190253 4
+no_user_agent 3 8436 20200515071823 0
+Mail\.RU_Bot/ 2 48 20200515225650 2
+MJ12bot/ 2 2843 20200512074948 1
+bot[\s_+:,\.\;\/\\-] 2 5663 20200515164112 0
+unknown 1 24 20200514040313 1
+SemrushBot/ 1 24 20200515015626 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+jpeg 2 83150 0 0
+woff2 3 238332 0 0
+php 2 40348 0 0
+html 35 106445 0 0
+js 54 5109935 0 0
+Unknown 99 761314 0 0
+png 1 29966 0 0
+css 29 3228792 0 0
+jpg 1 3326 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+macosx 61 32
+win8.1 1 1
+linux 5 5
+macosx12 1 1
+macosx9 1 1
+win7 18 18
+ios_iphone 36 9
+Unknown 6 6
+win10 96 65
+win8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+chrome36.0.1944.0 1 1
+chrome68.0.3440.106 4 4
+chrome65.0.3325.181 1 1
+chrome73.0.3683.103 1 1
+netscape5.0 3 3
+chrome67.0.3396.79 1 1
+chrome28.0.1467.0 1 1
+opera54.0.2952.54 4 4
+chrome80.0.3987.163 60 31
+safari13.1 36 9
+firefox57.0 2 2
+Unknown 2 2
+chrome80.0.3987.149 2 2
+chrome67.0.3396.99 4 4
+chrome81.0.4044.138 90 59
+chrome58.0.3029.110 1 1
+firefox52.0 2 2
+chrome70.0.3538.77 1 1
+chrome40.0.2214.85 5 5
+chrome79.0.3945.79 4 4
+mozilla 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Go-http-client/1.1 20200514125214
+SEMrushBot 20200511232321
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20200512053814
+Mozilla/5.0_zgrab/0.x 20200515000806
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+SEMrushBot 20200511232321
+Go-http-client/1.1 20200514125214
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 39 39
+From1 0 0
+From2 1 1
+From3 0 0
+From4 99 186
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+401 6 209
+404 560 824320
+301 557 154310
+302 50 18856
+403 1 2869
+405 85 33936107
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 357
+//sito/wp-includes/wlwmanifest.xml 1 -
+/deal/boat-stone-1000-portable-bluetooth-mobile-tablet-speaker/feed 1 -
+/wp-admin/post-new.php 2 -
+/deal/havit-hv-sk599-2-0-channel-pc-speakers-black-red 1 -
+/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/socicon.css 2 https://www.trickyhunt.com/
+//web/wp-includes/wlwmanifest.xml 1 -
+/deal/cello-amaze-500-watt-mixer-grinder-with-2-jars-marron 1 -
+/deal/vimal-cotton-blended-shorts-men 1 -
+/deal/amazon-cadbury-rich-dry-fruit-collection-120g-pack-2/feed 1 -
+/phpmyadmin/scripts/setup.php 1 -
+/deal/mobile-case-rs-99/feed 1 -
+/deal/pillsbury-cookie-cake-greeting-pack-276g-12-single-packs-inside 1 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+/deal/nova-prime-series-nht-1085-cordless-trimmer-men 2 -
+/deal/amazon-50-off-on-pantry-items-new-items-added 1 -
+/deal/jbl-go-portable-wireless-bluetooth-speaker-with-mic-black 1 -
+/deal/feed 10 https://www.google.com/
+/deal/amazon-chromozome-mens-polo/feed 1 -
+/deal/10-g-go-grey-4gb/feed 1 -
+/deal/aristocrat-juke-cabin-luggage-22-inch 1 -
+/deal/eveready-ih402-1500-watt-immersion-rod-black/feed 1 -
+/deal/amazon-ab-roller-evolution-roller-work-exerciser 1 -
+/deal/timewear-analogue-beige-dial-watch-men-women 1 https://trickyhunt.com/deal/timewear-analogue-beige-dial-watch-men-women/
+/type/hot-offer/feed 10 https://www.google.com/
+/ads.txt 12 -
+/deal/bikenwear-indicator-cover 1 -
+/wp-includes/js/jquery/jquery.js 8 https://trickyhunt.com/deal/amazon-krishna-emporia-party-wear-cotton-silk-georgette-multi-colour-saree-blouse/
+/deals/category/free-recharge/free-recharge-app 2 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/deal/pigeon-flat-tawa-250-tawa-23-cm-diameter 1 -
+/deal/genius-hs-m225-in-ear-headphones-with-mic-red 1 -
+/deal/sinew-nutrition-elevate-mass-gainer-300gms-coffee/feed 1 -
+/deal/amazon-flat-80-off-gas-clothing-15-cashback 1 -
+/deal/paytm-mall-x5-fusion-mens-watch-new-w0234 1 -
+/wp-content/plugins/meks-flexible-shortcodes/css/font-awesome/css/font-awesome.min.css 1 https://trickyhunt.com/
+/deal/philips-she1505bk-in-ear-earphone-black 1 -
+/deal/faces-100-mineral-loose-powder-02-ivory-beige-7g 1 -
+/deal/core-i3-laptops-upto-50-off-rs-21990 1 -
+/wp-includes/js/comment-reply.min.js 6 https://www.trickyhunt.com/deal/autofy-micro-polyester-complete-rain-suit-rain-wear-carry-bag-black-freesize/
+/deal/paytm-mall-wipro-tejas-9w-led-bulb-cool-day-light-6500k-pack-3 1 -
+/wp-content/plugins/meks-flexible-shortcodes/js/main.js 1 https://trickyhunt.com/
+/deal/kall-k3310-dark-blue 1 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/deal/swimming-combo-kit-1-silicone-swim-cap-1-goggle-1-pair-ear-plugs-combomulticolor 1 -
+/deal/safari-xcross-antiscratch-cabin-luggage-21-inch 1 -
+/wp-content/plugins/meks-flexible-shortcodes/css/style.css 1 https://trickyhunt.com/
+/deal/amazon-nivea-men-fresh-active-original-deodorant-spray/feed 1 -
+/wp-content/plugins/meks-flexible-shortcodes/css/simple-line/simple-line-icons.css 1 https://trickyhunt.com/
+/wp-content/plugins/bubble-menu/asset/font-awesome/css/font-awesome.min.css 1 https://trickyhunt.com/
+/deal/avs-soft-heart-34-cm 1 -
+/deal/in-junkyard-usb-wall-charger-for-smart-phones 1 -
+/deal/povos-pw309-nose-ear-trimmer-black 1 -
+/deal/lention-mini-smart-ear-hook-bluetooth-headset-black 1 -
+//2018/wp-includes/wlwmanifest.xml 1 -
+/deal/nivia-pro-grip-basketball-size-7-pack-1-white-blue/feed 1 -
+/deal/amazon-laurels-aspire-ivory-dial-mens-watch-lo-asp-101/feed 1 -
+/deal/coolnut-solar-power-bank-13000mah-cable-rs-1349/feed 1 -
+/deal/amazon-women-clothing-80-off/feed 1 -
+/wp-content/plugins/page-loading-effects/assets/css/style.css 5 https://www.trickyhunt.com/deal/autofy-micro-polyester-complete-rain-suit-rain-wear-carry-bag-black-freesize/
+/deal/fantosy-womens-handbag-yellow-black-fnb-290 1 -
+//wp2/wp-includes/wlwmanifest.xml 1 -
+/deal/amazon-opta-bluetooth-headsets/feed 1 -
+/deal/soundlogic-btc001s_wh-portable-bluetooth-mobile-tablet-speaker 1 -
+/deal/faces-nail-enmel-transparent-01-30ml 1 -
+/deal/touchwood-mens-sports-running-shoe-upto-74-off/feed 1 -
+/deal/gear-polyester-20-ltrs-blue-casual-backpack-mdbkpeco50504 1 -
+/deal/gas-macho-tennis-ball 1 -
+/deal/kaltron-magnetic-hex-screwdriver-bit-professional-tool-kit 1 -
+/deal/philips-qt3310-15-trimmer-for-men/feed 1 -
+/deal/adidas-men-women-solid-ankle-length-socks-pack-9/feed 1 -
+/2020/02/15/hello-world 2 https://trickyhunt.com/2020/02/15/hello-world
+/deal/steelseries-siberia-p300-headset-mic 1 -
+/deal/vatika-anti-dandruff-shampoo-340-ml/feed 1 -
+/deal/pickadda-gyming-gym-fitness-gloves-free-size-black/feed 1 -
+/deal/amazon-desi-matryoshka-dolls-tumbler/feed 1 -
+/type/best/page/3 1 -
+/deal/3-digit-combination-padlock-set-of-2-assorted-color-model 1 -
+/swiggy/ 4 -
+/wp-content/plugins/table-of-contents-plus/front.min.js 1 https://trickyhunt.com/
+/deal/karbonn-k9-staar-black 1 -
+/wp-content/themes/outreach-pro/js/responsive-menu.js 1 https://trickyhunt.com/
+/deal/jockey-ankle-length-socks-combo-pack-of-12 1 -
+/deal/amkette-evo-gamepad-wired-otg-supported-android-phones-tablets 1 -
+/deal/amazon-magnetic-bluetooth-waterproof-headphone-noise-isolation-hands-free-mic 1 -
+/deal/aloe-vera-eye-cool-mask 1 -
+/deal/69gal-full-sleeve-printed-womens-sweatshirt 1 -
+/wp-content/plugins/jetpack/css/jetpack.css 8 https://www.trickyhunt.com/deal/boat-bassheads-900-wired-headphone-mic/
+/deal/pickadda-gyming-gym-fitness-gloves-free-size-black 1 -
+/deal/amazon-duke-mens-printed-slim-fit-t-shirt/feed 1 -
+/deal/lg-v20a-titan-64-gb/feed 1 -
+/deal/puma-womens-solid-crew-length-socks/feed 1 -
+/deal/birde-blue-canvas-casual-shoes-men 1 -
+/comments/feed 5 -
+/deal/rock-power-bank-499 1 -
+//xmlrpc.php 1 -
+/category/categories/electronies 1 -
+/deal/blue-microphones-icicle-xlr-usb-mic-converter-mic-preamp/feed 1 -
+/deal/amazon-happilo-premium-international-queen-kalmi-dates-200g-pack-5 1 -
+//news/wp-includes/wlwmanifest.xml 1 -
+/deal/skybags-cardiff-polyester-52-cms-red-travel-duffle 1 -
+/deal/redmi-note-5/feed 1 -
+/wp-content/plugins/akismet/_inc/form.js 5 https://trickyhunt.com/deal/amazon-krishna-emporia-party-wear-cotton-silk-georgette-multi-colour-saree-blouse/
+/wp-content/plugins/page-loading-effects/assets/js/ple.preloader.min.js 6 https://www.trickyhunt.com/deal/autofy-micro-polyester-complete-rain-suit-rain-wear-carry-bag-black-freesize/
+/deal/prestige-hard-anodised-plus-cookware-induction-base-roti-tawa/feed 1 -
+/wp-includes/js/jquery/jquery-migrate.min.js 7 https://www.trickyhunt.com/deal/boat-bassheads-900-wired-headphone-mic/
+/hello-world-6 1 -
+/deal/appliance-bazar-tp-cordless-trimmer 1 -
+/deal/t-rock-mens-black-sneaker-casual-shoes-6-black 1 -
+/deal/amazon-dettol-liquid-hand-wash-refill-original-1500-ml 1 -
+/deal/dragonwar-storm-gaming-keyboard-led-mouse-combo-wired 1 -
+/deal/kurtas-kurtis-best-price 1 -
+/deal/ironman-helmet-keychain 1 -
+/deal/maybelline-new-york-fit-matte-poreless-powder-235-pure-beige-8-5g 1 -
+/deal/syska-led-lights-straight-linear-led-tube-light-white-pack-of-2/feed 1 -
+/type/loot/feed 10 https://www.google.com/
+/deal/dragon-war-ele-g11-wired-laser-gaming-mouse 1 -
+/wp-includes/js/wp-emoji-release.min.js 4 https://www.trickyhunt.com/deal/autofy-micro-polyester-complete-rain-suit-rain-wear-carry-bag-black-freesize/
+/wp-content/plugins/jetpack/modules/wpgroho.js 8 https://www.trickyhunt.com/deal/boat-bassheads-900-wired-headphone-mic/
+/deal/adam-jones-gradient-blue-uv-protected-unisex-aviator-sunglasses 1 -
+//wp/wp-includes/wlwmanifest.xml 1 -
+/wp-content/uploads/2018/05/dj-fav.png 6 -
+/deal/coolnut-solar-power-bank-13000mah-cable-rs-1349 1 -
+/deal/flipkart-nanki-trades-candles-candle 1 -
+/deal/weighing-scale 2 -
+/deal/home-star-3-container-750ml-lunch-box-color-assorted 2 -
+/deal/mee-mee-caring-baby-wet-wipes-aloe-vera-72-pieces-pack-3 1 -
+/deal/hindware-60-cm-700-m3-h-chimney-clarissa-black-60black 1 -
+/deal/smartron-t-phone-p-32-gb3gb-ram/feed 1 -
+/tag/how-to-find-amazon-deals 1 -
+/deal/sale-on-redmi-5a 1 -
+/deal/mini-microphone-3-5mm-table-top-microphone-stand-laptop-pc-desktopblack 1 -
+/deal/kaltron-sturdy-steel-combination-20-32-cm-8-inch-plier 1 -
+/deal/catbird-women-red-flip-flops 1 -
+/wp-content/plugins/table-of-contents-plus/screen.min.css 2 https://trickyhunt.com/
+//website/wp-includes/wlwmanifest.xml 1 -
+/deal/backpack-on-filpkart 1 -
+/exam/ 3 -
+/deal/watch-box-men-women-wrist-watcheswristwatch-case-giftboxtotal-5-boxes 1 -
+/deal/1-bath-towels-4-face-towels 1 -
+/deal/lavie-rosetta-1-womens-sling-bag-black/feed 1 -
+/deal/fogg-analog-black-dial-mens-watch-2004-bk 1 -
+/wp-content/uploads/2018/05/914ToXU7pRL._SL1500_.jpg 1 -
+/deal/ratan-3000-ml-1800-ml-1020-ml-620-ml-350-ml-200-ml-plastic-grocery-container-pack-6-violet 1 -
+/wp-content/uploads/2018/05/61-Fs82gC1L._SL1350_.jpg 1 http://go.mail.ru/search_images
+/deal/time-plastics-cool-ice-cube-tray-set-set-2-green/feed 1 -
+/airtel-free-internet-uc-handler-trick 2 -
+/backups/backup-8.15.2019_21-09-06_telugutr.tar.gz 1 -
+/deal/amazon-happilo-premium-seedless-raisins-250g-pack-2 1 -
+/deal/prestige-teon-750-w-mixer-grinder 1 -
+/type/best/page/4 2 -
+/deal/laurels-ranger-tan-mens-walet-lw-rgr-0603/feed 1 -
+/deal/american-tourister-polyester-21-ltrs-black-laptop-backpack-amt-bop2017-laptop-bkpk3-black 2 -
+/deal/skybags-29-ltrs-red-laptop-backpack-lpbprou4red/feed 1 -
+/deal/samsung-galaxy-s7-edge-32-gb4-gb-ram 1 -
+/wp-admin/plugin-install.php 3 -
+/deal/tech-sense-labaustralia-iphone-7-plus-premium-tempered-glass-screen-protector-9h-full-hd-shatterproof-anti-scratch-screen-guard-for-iphone-7-plus 1 -
+/deal/appliance-bazar-tp-cordless-trimmer/feed 1 -
+/deal/earton-sneakers-men 1 -
+/deal/mosquito-racket 1 -
+/deal/lotto-black-yellow-gym-bag/feed 1 -
+/deal/lenovo-pa-10400-mah-power-bank 1 -
+/deal/amazon-zebronics-happy-head-headphones-grey 2 https://trickyhunt.com/deal/amazon-zebronics-happy-head-headphones-grey/
+/wp-content/themes/Trickyhunt/js/skip-link-focus-fix.js 7 https://www.trickyhunt.com/deal/boat-bassheads-900-wired-headphone-mic/
+/wp-includes/css/dist/block-library/style.min.css 1 https://trickyhunt.com/
+/deal/amazon-lapguard-lg515-11k-power-bank-11000-mah-make-india-portable-charger-powerbank-white-red/feed 1 -
+/hello-world-5 1 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+/deal/4-tier-black-stackable-shoe-rack 1 -
+//2019/wp-includes/wlwmanifest.xml 1 -
+/deal/dual-sided-compass-box-for-multi-purpose-with-free-gift-fidget-spinner 1 -
+/deal/little-india-earthenware-table-diya-setheight-1-inch-pack-4 1 -
+/deal/park-avenue-shiny-bouncy-beer-shampoo-180ml-men 1 -
+/deal/sennheiser-hd-180-wired-headphone 1 -
+/deal/panasonic-battery 1 -
+/deal/skybags-brat-8-25-l-backpack/feed 1 -
+/deal/myntra-check-description-get-rs-125-off-tshirt-no-min-purchase 1 -
+/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome.min.css 2 https://www.trickyhunt.com/
+/deal/storyhome-white-100-cotton-6-pc-face-towel 1 -
+/deal/skybags-cardiff-polyester-55-cms-red-travel-duffle-dfcar55red/feed 1 -
+/02/15/hello-world 1 https://trickyhunt.com/02/15/hello-world
+/deal/rapoo-v110-wired-usb-gaming-keyboard 1 -
+/deal/square-bluetooth-earphone-cable-storage-box 1 -
+/deal/nap-premium-quality-kishmish-raisin-250gms/feed 1 -
+/deal/storyhome-traditional-style-eco-series-cotton-blend-3-piece-door-mat/feed 1 -
+/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js 5 https://www.trickyhunt.com/deal/boat-bassheads-900-wired-headphone-mic/
+/type/loot/page/2 1 -
+/deal/5plus-lightning-to-usb-for-smart-phones 1 -
+/deal/combo-2-sunglass/feed 1 -
+/deal/cosmic-flash-mountain-bikes-26-inch-black-green 1 -
+/deal/mastercook-container-food-storage-pack-of-17-pink 1 -
+/deal/philips-shl5000-00-ear-headphone-deep-bass-black 1 -
+/wp-content/themes/Trickyhunt/style.css 8 https://www.trickyhunt.com/deal/autofy-micro-polyester-complete-rain-suit-rain-wear-carry-bag-black-freesize/
+/deal/face-towel-set-20 1 -
+/deal/6-1-electric-soldering-iron-complete-set 1 -
+/deal/micro-usb-cable-1-2-mtr-nylon-braided-premium-sync-and-charging-data-cables-super-high-speed-usb-2-0-android-charger 1 -
+/category/uncategorized 1 -
+/deal/branded-water-pump-plier 1 -
+/deal/for-hdfc-bank-debit-credit-cards-users-samsung-galaxy-c9-pro-64-gb-gold-6-gb-ramdual-sim-4g-2 1 -
+/wp-content/plugins/bubble-menu/public/css/style.css 1 https://trickyhunt.com/
+/feed 3 -
+/deal/panasonic-p90/feed 1 -
+/deal/pinnaclz-selfie-stick-with-aux 1 -
+/deal/urban-living-3-layer-stainless-steel 1 -
+/deal/69gal-full-sleeve-printed-womens-sweatshirt/feed 1 -
+/deal/fitkit-fkymp05-g-yoga-mat-6mm-green 1 -
+/deal/prestige-pic-1-0-mini-induction-cooktop 1 -
+/deal/set-wet-vertical-hold-gel-100ml-pack-of-3/feed 1 -
+/wp-includes/js/wp-embed.min.js 8 https://www.trickyhunt.com/deal/autofy-micro-polyester-complete-rain-suit-rain-wear-carry-bag-black-freesize/
+/deal/flipkart-wipro-garnet-plus-4-feet-22watt-led-tube-batten-straight-linear-led-tube-light 1 -
+/deal/amazon-prestige-pkoss-1-2-litre-1200w-electric-kettle/feed 1 -
+/deal/dp-9093-0-5-watt-led-torch-multicolour 1 -
+/deal/prestige-teon-750-w-mixer-grinder/feed 1 -
+/deal/amazonbasics-ballpoint-pens-1-0mm-pack-100/feed 1 -
+/find-biggest-discount-on-amazon 1 -
+/deal/sandisk-cruzer-blade-pack-2-16-gb-pen-drive-red-black 1 -
+/deal/samsung-galaxy-j8 2 -
+/deal/puma-womens-solid-crew-length-socks 1 -
+/deal/indian-beauty-poly-cotton-saree-blouse 1 -
+/deal/amazon-vissco-neoprene-back-support-xxl-6-inch/feed 1 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/deal/amazon-krishna-emporia-party-wear-cotton-silk-georgette-multi-colour-saree-blouse 1 -
+/tag/amazon-offer 2 -
+/deal/haqeeba-pink-leatherette-material-sling-bags-for-women 1 -
+/deal/panasonic-er-gy10-k44b-cordless-trimmer 1 -
+/deal/genius-sp-925bt-bluetooth-speakers-mic-white 2 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/deal/body-cupid-shower-gel-grapefruit-blush-400ml 1 -
+/deal/godrej-7-kg-fully-automatic-front-load-washing-machine-white/feed 1 -
+/cgi-bin/test-cgi 1 -
+/author/abdhesh 1 -
+/deal/jiofi-jmr815-wireless-data-card/feed 1 -
+/deal/samsung-24-inch-curved-full-hd-led-backlit-gaming-monitor 1 -
+//wp-includes/wlwmanifest.xml 1 -
+/deal/filpkart-ant-vr-designed-lenovo-smart-glasses 1 -
+/deal/prestige-pdi-03-750-watt-dry-iron 1 -
+/deal/philips-gc-1011-steam-iron/feed 1 -
+/deal/flair-pop-gel-pen-blue-pack-of-20-pen 1 -
+/deal/69-off-metronaut-mens-tees 1 -
+/deal/blanket-pack-starting-228/feed 1 -
+/deal/aristocrat-volt-polyester-55-cms-blue-travel-duffle-dftvol55blu 1 -
+/deal/krapal-casual-solid-womens-kurti/feed 1 -
+/deal/storyhome-navy-100-cotton-6-pc-face-towel 1 -
+/deal/logitech-hinge-ultra-thin-protective-case-cover-ipad-mini-4-black 1 -
+/deal/lg-v20a-titan-64-gb 1 -
+/category/exclusive 1 -
+/deal/pigeon-blackline-smart-stainless-steel-4-burner-gas-stove-black 1 -
+/deal/andride-8-in-1-multi-screwdriver-with-led-portable-torch 1 -
+/deal/truck-accident-app-get-rs-5-per-referral-redeem-via-paytm-freecharge 1 -
+/.well-known/assetlinks.json 1 -
+/type/best/feed 11 https://www.google.com/
+/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css 1 https://www.trickyhunt.com/
+/deal/bingo-m2-black-smart-fitness-band 1 -
+/deal/perfect-vapouriser-steamer 1 -
+/deal/taotronics-bh06-sweatproof-bluetooth-ear-headphones-mic-black 1 -
+/deal/top-ramen-curry-veg-280g 1 -
+/deal/matrix-analog-blue-dial-blue-leather-strap-womens-girls-watch-wn-14/feed 1 -
+/deal/lenovo-tab3-730x-tablet-7-inch-1gbram-16gb-wi-fi-4g-lte-voice-calling-black-blue 1 -
+/deal/tp-link-tl-wn725n-150mbps-wireless-n-nano-usb-adapter-black 1 -
+/wp-content/plugins/menu-icons/css/extra.min.css 6 https://www.trickyhunt.com/deal/boat-bassheads-900-wired-headphone-mic/
+/deal/amazon-exclusive-brands-flat-40-off-extra-20-off-coupon/feed 1 -
+/deal/ruuh-messenger-refer-10-friends-get-free-rs-100-amazon-voucher/feed 1 -
+/deal/amazon-puma-bagpacks-starts-414 1 -
+/wp-login.php 6 -
+/invest/ 4 -
+/deal/zebronics-headphone-with-mic 1 -
+/deal/people-mens-t-shirt-blue/feed 1 -
+/deal/world-wear-footwear-multicolor-combo 1 -
+/horde/imp/test.php 1 -
+/deal/ivoltaa-ivfk1-sync-charge-cable-black 1 -
+/deal/silvers-sb-414-gutted-badminton-racketsmulticolor/feed 1 -
+/deal/urban-eagle-pantaloons-printed-mens-round-neck-light-blue-t-shirt 1 -
+/deal/sony-mdr-ex14ap-headset-mic 1 -
+/deal/levis-mens-flip-flops-sandals-70-off-124 1 -
+/deal/cad-audio-epf-15a-pop-filter-6-inch-gooseneck-black 1 -
+/deal/amazonbasics-ear-headphones-white/feed 1 -
+/administrator/index.php 3 -
+/deal/lenovo-tab3-730x-tablet-7-inch-1gbram-16gb-wi-fi-4g-lte-voice-calling-black-blue/feed 1 -
+/wp-admin/theme-editor.php 3 -
+/deal/flipkart-wallstickers-starts-19 1 -
+/deal/aristocrat-juke-cabin-luggage-22-inch/feed 1 -
+/deal/envent-truewood-210-portable-laptop-desktop-speaker 1 -
+/deal/cad-audio-as16-acoustic-enclosure 1 -
+/deal/6-1-electric-soldering-iron-complete-set/feed 1 -
+/deal/parachute-advansed-body-lotion-deep-nourish-250ml-parachute-advansed-coconut-hair-oil-175ml-free-worth-rs-80 1 -
+/deal/adidas-mens-womens-ankle-length-socks 1 -
+/deal/oshotto-premium-high-quality-yty-universal-door-guard-set-4-white 1 -
+/wp-content/plugins/mango-buttons/public/style/mb-button.css 5 https://www.trickyhunt.com/deal/boat-bassheads-900-wired-headphone-mic/
+/deal/amazon-kenneth-cole-reaction-tshirts-80-off 1 -
+/flipkart-shrih-37-keys-melody-piano-dual-speakers-keyboard-microphone 2 https://trickyhunt.com/flipkart-shrih-37-keys-melody-piano-dual-speakers-keyboard-microphone
+/deal/amazon-kohinoor-platinum-authentic-basmati-rice-1kg/feed 1 -
+/deal/amazon-universal-mini-tripod-digital-camera-android-iphone 1 -
+/author/trickyhunt 1 -
+/deal/tejdeep-strong-ctc-tea-combo-of-4-for-indian-strong-beverage-drinkers 1 -
+/deal/yi-88012-action-camera-black/feed 1 -
+/type/loot 1 -
+/deal/prestige-delight-prwo-1-0-electric-rice-cooker 1 -
+/deal/reebok-riot-red-casual-backpack-bc4148/feed 1 -
+/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js 1 https://www.trickyhunt.com/
+/deal/portable-cordless-mini-hand-held-clothes-fabrics-sewing-machine 1 -
+/deal/kvg-plastic-cloth-clipsmulticolor-pack-29 1 -
+//shop/wp-includes/wlwmanifest.xml 1 -
+/deal/honor-10-phantom-blue-128-gb-6-gb-ram 1 -
+/deal/shopos-380-ml-notebook-water-cup-bottle-for-travel-and-office-use-assorted-color 1 -
+/deal/sharp-ig-dc2e-b-car-air-purifier-black 1 -
+/deal/excalibur-mens-formal-shirt-pack-2-400 2 -
+/deal/flipkart-shrih-37-keys-melody-piano-dual-speakers-keyboard-microphone 5 https://trickyhunt.com/deal/flipkart-shrih-37-keys-melody-piano-dual-speakers-keyboard-microphone
+/deal/amazon-aristocrat-27-ltrs-black-casual-backpack-sbzen1blk/feed 1 -
+/deal/bel-casa-lock-store-leak-proof-locking-lid-square 2 -
+/deal/sandisk-16gb-class-4-sdhc-memory-card/feed 1 -
+/deal/kall-k3310-dark-blue/feed 1 -
+/deal/drive-red-flip-flop 1 -
+/phpMyAdmin/scripts/setup.php 1 -
+/deal/new-stock-added-american-crew-mens-t-shirt/feed 1 -
+/deal/kanvas-katha-women-handbag-multi-colour/feed 1 -
+/deal/transcend-2-tb-external-hard-disk-drive 1 -
+/deal/drive-black-flip-flop 1 -
+/deal/kaltron-computer-powerstrip 1 -
+/deal/lemor-premium-green-tea-with-mint-green-tea 1 -
+/deal/dr-morepen-8904124006035-bpone-bp-monitor-white/feed 1 -
+/deal/klick2style-womens-crepe-yellow-dress 1 -
+/deal/gas-lighter-knife-peeler-color 1 -
+/deal/skullcandy-s5lhz-j576-anti-headphone/headp 1 -
+/deal/yonex-gr-303-saina-nehwal-special-edition-badminton-racquet-g3-strung-black-weight-95-g 1 -
+/deal/livpure-liv-pep-pro-plus-7-l-ro-uv-uf-water-purifierwhite 1 -
+/wp-content/uploads/2018/07/71CbCSf2hiL._UL1500_.jpg 1 -
+/deal/flipkart-skore-new-adventure-pack-condom-set-8-80s/feed 1 -
+/wp-content/plugins/content-egg/res/js/price_alert.js 6 https://www.trickyhunt.com/deal/autofy-micro-polyester-complete-rain-suit-rain-wear-carry-bag-black-freesize/
+/deal/usha-prestige-offer-price/feed 1 -
+/deal/boat-rugby-portable-bluetooth-speaker-blue/feed 1 -
+/wp-content/plugins/menu-icons/vendor/codeinwp/icon-picker/css/types/font-awesome.min.css 1 https://trickyhunt.com/
+/deal/paytm-mall-david-martin-combo-hd-vision-drive-sunglassarc-eyeglass 1 -
+/deal/amazon-pantene-hair-fall-control-conditioner-175ml/feed 1 -
+/deal/supreme-home-collective-kitchen-dining-linen/feed 1 -
+/deal/flipkart-steelseries-rival-95-wired-optical-gaming-mouse-usb-black 1 -
+/deal/super-2801-led-cabin-light-switch-12v 1 -
+/tag/best-way-to-find-the-deals-in-amazon 1 -
+/wp-includes/css/dashicons.min.css 8 https://www.trickyhunt.com/deal/autofy-micro-polyester-complete-rain-suit-rain-wear-carry-bag-black-freesize/
+/deal/sennheiser-px-80-ear-headphone-black-silver 1 -
+/deal/amazon-havit-hv-2198d-headphones-black 1 -
+/deal/nap-premium-quality-kishmish-raisin-250gms 1 -
+/deal/amazonbasics-gopro-head-strap-mount-black/feed 1 -
+/deal/google-home-mini/feed 1 -
+/deal/mi-vr-play 1 -
+/wp-content/themes/Trickyhunt/js/navigation.js 7 https://www.trickyhunt.com/deal/boat-bassheads-900-wired-headphone-mic/
+/deal/american-tourister-polyester-21-ltrs-black-laptop-backpack-amt-bop2017-laptop-bkpk3-black/feed 1 -
+/deal/sandisk-16-gb-ultra-dual-m3-0-pen-drive-black/feed 2 -
+/deal/wake-wood-black-dial-watch-for-men-with-free-wallet-ear-phone-aux-cable-otg 1 -
+//media/wp-includes/wlwmanifest.xml 1 -
+/deal/amazon-harpic-powerplus-original-1-l-lizol-disinfectant-floor-cleaner-975-ml-citrus-dettol-hygiene-regular-500-ml/feed 1 -
+/deal/bosch-10-pieces-combination-screwdriver-set-pack-10 1 -
+/deal/bombay-dyeing-bedsheets-buy-1-get-2/feed 1 -
+/deal/jackly-32-1-interchangeable-precise-screwdriver-tool-set-magnetic-holder 1 -
+/deal/sandisk-8gb-class-4-microsdhc-memory-card 1 -
+/tag/amazon-best-deals 3 -
+/deal/philips-gc-1011-steam-iron 1 -
+/page/2 1 -
+/deal/roadster-men-black-analogue-watch-rd17-2d 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 23
+106.200.153.137 67 123 6066497 20200516170032 20200516164939 /payment-history
+223.238.121.114 31 60 2878144 20200516164840 20200516151746 /make-payment
+138.246.253.15 5 5 0 20200514195125
+185.246.208.45 5 5 23687 20200513131811
+131.220.6.152 4 4 11276 20200516140705
+212.102.38.171 4 4 20880 20200512131244
+80.95.44.40 4 4 20866 20200516172801 20200516172749 /register
+198.108.66.240 2 2 5638 20200515000806
+124.205.141.245 2 2 7714 20200514124756
+185.82.216.14 2 2 5596 20200510222845
+200.61.208.215 2 2 5638 20200516173705 20200516173703 /
+137.226.113.26 1 1 2839 20200512053814
+192.243.53.51 1 1 2819 20200511232321
+165.227.183.159 1 1 2869 20200512023550
+50.30.38.143 1 1 2819 20200513210240
+45.56.76.224 1 1 37479 20200516153324
+34.107.21.245 1 1 2819 20200514125214
+193.30.121.226 1 1 2819 20200514094056
+160.238.72.197 1 2 159389 20200513113511
+198.108.66.199 1 1 2819 20200514053735
+194.104.9.234 1 1 2819 20200514195910
+143.215.247.118 1 1 2819 20200514183127
+160.238.72.175 0 1 333363 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20200510 2 2 5596 1
+20200511 3 3 5638 3
+20200512 12 12 50275 6
+20200513 5 7 501209 5
+20200514 10 10 24628 9
+20200515 1 1 2819 1
+20200516 106 191 9011443 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+15mn-30mn 1
+0s-30s 27
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/ 35 106445 29 22
+/make-payment 23 140677 1 0
+/moderator/login 14 35448 0 0
+/login 12 62918 0 1
+/home 10 44481 0 0
+/register 9 54157 0 2
+/moderator/application/1 7 156305 0 0
+/admin/login 6 14424 0 0
+/moderator/applications 4 42392 0 0
+/adminlte/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 3 238332 0 0
+/manage-installments 3 78623 0 0
+/payment-history 3 14233 0 1
+/moderator/dashboard 2 21723 0 0
+/dashboard 2 23936 0 0
+/admin/application/2 2 47461 0 0
+/adminer/index.php 1 37479 1 1
+/index.php 1 2869 1 1
+/admin/applications 1 11632 0 0
+/moderator/payments 1 12904 0 0
+END_SIDER

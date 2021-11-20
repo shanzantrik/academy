@@ -1,0 +1,657 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202010 will be lost/reset.
+# Last config file used to build this data file was /home/reimalieacademy/tmp/awstats/ssl/awstats.reimalieacademycollege.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2033                
+POS_TIME 2705                
+POS_VISITOR 12578               
+POS_DAY 19366               
+POS_DOMAIN 3487                
+POS_LOGIN 4042                
+POS_ROBOT 4197                
+POS_WORMS 4823                
+POS_EMAILSENDER 4954                
+POS_EMAILRECEIVER 5097                
+POS_SESSION 20109               
+POS_SIDER 20299               
+POS_FILETYPES 5232                
+POS_DOWNLOADS 5452                
+POS_OS 5519                
+POS_BROWSER 5745                
+POS_SCREENSIZE 7016                
+POS_UNKNOWNREFERER 7090                
+POS_UNKNOWNREFERERBROWSER 7443                
+POS_ORIGIN 7597                
+POS_SEREFERRALS 7740                
+POS_PAGEREFS 7905                
+POS_SEARCHWORDS 9457                
+POS_KEYWORDS 9609                
+POS_MISC 2368                
+POS_ERRORS 9668                
+POS_CLUSTER 3898                
+POS_SIDER_404 9843                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201205131033 1 0 9522568180086
+FirstTime 20201001015555
+LastTime 20201031215831
+LastUpdate 20201205165304 1 0 0 0 0
+TotalVisits 176                 
+TotalUnique 169                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 174                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 84 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 25 47 888114 72 79 86448
+1 26 53 1884741 7 15 22285
+2 11 21 154788 6 9 15827
+3 13 15 546070 22 30 104825
+4 2 2 16744 12 15 26553
+5 12 12 37004 6 12 22538
+6 2 2 9076 2 8 8864
+7 11 11 81229 9 14 183053
+8 11 20 1674998 10 15 14168
+9 35 76 2845533 17 25 405423
+10 30 74 1622448 8 11 18339
+11 8 13 1065807 18 31 210703
+12 28 73 1611747 29 39 122881
+13 16 34 2086052 11 23 35826
+14 8 14 1118540 25 35 1163732
+15 12 14 526678 14 27 369821
+16 5 7 515509 15 29 558342
+17 4 7 554838 26 32 485598
+18 10 10 47357 12 18 47620
+19 3 6 550430 9 23 33920
+20 12 26 2790968 21 29 54919
+21 6 9 565317 15 27 383284
+22 6 9 563624 17 35 883806
+23 59 142 2700344 34 48 1156170
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 25
+us 121 271 5763470
+ca 69 113 8558020
+cl 37 127 1633452
+gb 32 49 3418293
+in 28 48 4263727
+de 9 10 371738
+id 9 9 22581
+it 9 19 144111
+se 6 6 26768
+nl 5 5 22040
+fr 5 5 22450
+ar 4 14 121702
+au 3 3 13464
+eu 2 2 8976
+za 2 2 9066
+ua 2 2 8816
+gr 2 2 4488
+ru 2 2 8816
+no 2 2 9026
+ro 1 1 4488
+bz 1 1 4408
+hk 1 1 4488
+ch 1 1 4488
+tz 1 1 4528
+vn 1 1 4528
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Googlebot/ 114 2336183 20201031163006 28
+AhrefsBot/ 65 164068 20201031185152 25
+YandexBot/ 44 587170 20201029234157 20
+Python\-urllib/ 26 113224 20201017225037 1
+curl 25 112270 20201013110923 0
+crawl 24 90654 20201031171423 2
+bot[\s_+:,\.\;\/\\-] 15 54574 20201018181430 2
+unknown 13 312 20201028125110 13
+no_user_agent 2 8816 20201012150606 0
+[\s_+:,\.\;\/\\-]bot 1 4408 20201003004336 0
+YandexImages/ 1 47113 20201018035711 0
+Googlebot\-Image/ 1 0 20201019114601 0
+java 1 0 20201008203036 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+html 108 648085 0 0
+css 89 6777485 0 0
+png 176 1297675 0 0
+js 39 13001157 0 0
+php 61 305717 0 0
+svg 38 74704 0 0
+Unknown 111 653085 0 0
+woff 75 1700000 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 0 1 24
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+linux 76 72
+win10 62 37
+win8.1 6 4
+Unknown 42 35
+macosx12 1 1
+winvista 1 1
+linuxandroid 131 81
+winxp 2 2
+ios_iphone 354 104
+macosx9 2 2
+win7 19 14
+macosx10 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 56
+chrome51.0.2704.106 7 7
+chrome41.0.2225.0 3 3
+chrome86.0.4240.99 3 3
+opera51.0.2254.150807 5 3
+chrome80.0.3987 1 1
+chrome78.0.3904.108 1 1
+chrome73.0.3683.90 2 2
+chrome84.0.4147.105 2 2
+edge14 1 1
+firefox62.0 48 48
+chrome78.0.3904.96 5 3
+chrome41.0.2227.0 3 3
+firefox28.0 3 3
+chrome70.0.3538.110 6 3
+chrome74.0.3729.136 6 1
+Unknown 9 8
+chrome79.0.3945.116 16 10
+chrome84.0.4147.125 3 1
+chrome41.0.2224.3 1 1
+chrome45.0.2454.94 2 2
+chrome35.0.1916.47 2 2
+safari13.1.2 354 104
+firefox72.0 2 2
+chrome56.0.2924.87 8 5
+chrome67.0.3396.87 1 1
+chrome50.0.2661.89 3 3
+chrome83.0.4103.96 5 2
+chrome80.0.3987.132 8 5
+chrome85.0.4183.83 10 3
+chrome85.0.4183.102 11 9
+mozilla 33 27
+chrome72.0.3626.121 6 6
+chrome74.0.3729.157 1 1
+chrome65.0.3325.183 8 6
+chrome59.0.3071.115 7 6
+chrome85.0.4183.121 8 5
+chrome42.0.2311.90 1 1
+chrome41.0.2228.0 1 1
+chrome83.0.4103.101 4 1
+chrome79.0 2 2
+chrome72.0.3626.105 4 1
+chrome84.0.4147.135 3 1
+chrome71.0.3578.98 1 1
+chrome70.0.3538.102 1 1
+firefox73.0 1 1
+firefox63.0 6 3
+chrome78.26.10.1974 1 1
+chrome71.0.3578.141 5 2
+chrome5.0.375.99 1 1
+firefox57.0 2 2
+chrome85.0.4183.127 15 6
+chrome81.0.4044.111 3 1
+edge17 14 6
+chrome52.0.2743.116 2 2
+chrome86.0.4240.75 34 25
+chrome81.0.4044.138 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_Dataprovider.com) 20201028125640
+python-requests/2.23.0 20201031021320
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20201031215831
+Go-http-client/1.1 20201011040139
+Mozilla/5.0_(compatible;_ips-agent) 20201015180724
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-requests/2.23.0 20201031021320
+Go-http-client/1.1 20201011040139
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 146 148
+From1 1 1
+From2 11 11
+From3 90 328
+From4 107 210
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 11 11
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 19
+https://cpanel.reimalieacademycollege.in/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 39 39
+https://webmail.reimalieacademycollege.in/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 36 36
+http://mail.reimalieacademycollege.in/wp-login.php 7 7
+http://mail.reimalieacademycollege.in/admin 3 3
+http://cpanel.reimalieacademycollege.in/wp-login.php 2 2
+http://webmail.reimalieacademycollege.in/wp-login.php 2 2
+http://cpanel.reimalieacademycollege.in/.git/config 1 1
+https://webmail.reimalieacademycollege.in/well/loginmobile 0 15
+https://cpanel.reimalieacademycollege.in/cPanel_magic_revision_1592921074/unprotected/cpanel/style_v2_optimized.css 0 91
+https://webmail.reimalieacademycollege.in/app/account/ 0 6
+https://webmail.reimalieacademycollege.in/chase/spx/ 0 6
+https://cpanel.reimalieacademycollege.in/wp-content/app/account/ 0 6
+https://webmail.reimalieacademycollege.in/cPanel_magic_revision_1592921074/unprotected/cpanel/style_v2_optimized.css 0 72
+https://cpanel.reimalieacademycollege.in/app/account/ 0 6
+https://cpanel.reimalieacademycollege.in/chase/spx/login 0 3
+https://cpanel.reimalieacademycollege.in/chase/spx/ 0 3
+https://webmail.reimalieacademycollege.in/wp-content/app/account/ 0 3
+https://cpanel.reimalieacademycollege.in/well/loginmobile 0 21
+https://webmail.reimalieacademycollege.in/chase/spx/login 0 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+401 18 851
+400 1 0
+404 114 147200
+405 5 1855454
+301 33 8171
+500 1 718721
+302 37 14654
+206 4 151102
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 61
+/app-ads.txt 7 -
+/chase/spx/login 1 -
+//xmlrpc.php 1 -
+/app/account 1 -
+//wp/wp-includes/wlwmanifest.xml 1 -
+/dev 1 https://reimalieacademycollege.in/dev/
+/bak 1 https://reimalieacademycollege.in/bak/
+//test/wp-includes/wlwmanifest.xml 1 -
+/wp2 1 https://reimalieacademycollege.in/wp2/
+/main 1 https://reimalieacademycollege.in/main/
+/////nette.micro 2 -
+/backup 1 https://reimalieacademycollege.in/backup/
+/temp 1 https://reimalieacademycollege.in/temp/
+////nette.micro 1 -
+/old-wp 1 https://reimalieacademycollege.in/old-wp/
+/wordpress 1 https://reimalieacademycollege.in/wordpress/
+/well/loginmobile 3 -
+//wp2/wp-includes/wlwmanifest.xml 1 -
+/2020 1 https://reimalieacademycollege.in/2020/
+//site/wp-includes/wlwmanifest.xml 1 -
+/bk 1 https://reimalieacademycollege.in/bk/
+/.git/config 1 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+/.env 12 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/new-site 1 https://reimalieacademycollege.in/new-site/
+/tmp 1 https://reimalieacademycollege.in/tmp/
+/site 1 https://reimalieacademycollege.in/site/
+/new 1 https://reimalieacademycollege.in/new/
+/apple-touch-icon.png 4 -
+/download-application-pdf 2 https://reimalieacademycollege.in/verify
+//website/wp-includes/wlwmanifest.xml 1 -
+//wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/.well-known/assetlinks.json 11 -
+/wp 1 https://reimalieacademycollege.in/wp/
+/2019 1 https://reimalieacademycollege.in/2019/
+/cms 1 https://reimalieacademycollege.in/cms/
+/v2 1 https://reimalieacademycollege.in/v2/
+//sito/wp-includes/wlwmanifest.xml 1 -
+/chase/spx 1 -
+//wp-includes/wlwmanifest.xml 1 -
+/blog 1 https://reimalieacademycollege.in/blog/
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/demo 1 https://reimalieacademycollege.in/demo/
+//blog/wp-includes/wlwmanifest.xml 1 -
+//web/wp-includes/wlwmanifest.xml 1 -
+/test 1 https://reimalieacademycollege.in/test/
+/wp1 1 https://reimalieacademycollege.in/wp1/
+/wp-content/app/account 1 -
+/old-site 1 https://reimalieacademycollege.in/old-site/
+/2018 1 https://reimalieacademycollege.in/2018/
+/old 1 https://reimalieacademycollege.in/old/
+/ads.txt 9 -
+/sitemap.xml 2 -
+/xmlrpc.php 8 -
+//news/wp-includes/wlwmanifest.xml 1 -
+/web 1 https://reimalieacademycollege.in/web/
+/install 1 https://reimalieacademycollege.in/install/
+/v1 1 https://reimalieacademycollege.in/v1/
+//wp-content/plugins/wp-file-manager/lib/files/badmin1.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 174
+47.29.135.146 12 14 409374 20201020100303
+18.217.161.54 9 11 528348 20201001015603
+51.161.119.105 9 20 2244601 20201008203026
+51.222.43.144 8 8 34107 20201028125117
+51.222.43.163 8 8 34107 20201002101929
+47.29.166.90 7 10 576844 20201005230415
+42.108.34.213 7 10 578643 20201019233241
+47.29.190.16 5 8 563238 20201028000830
+47.29.177.45 5 8 565140 20201002131846
+176.9.8.180 5 5 20703 20201015071838
+173.214.194.187 5 7 510636 20201020031529
+181.215.85.142 4 13 120568 20201028013515
+45.40.125.200 4 14 121706 20201028093154
+38.145.95.108 4 13 120582 20201028093953
+104.247.136.193 4 13 120568 20201027123029
+181.214.182.236 4 14 121701 20201028021706
+45.40.120.218 4 13 120568 20201027001558
+38.145.87.10 4 13 120570 20201026233746
+69.165.14.241 4 13 120576 20201028103451
+38.145.98.176 4 13 120570 20201027234024
+38.145.77.82 4 14 121703 20201027000134
+38.145.93.5 4 13 120568 20201028103811
+38.145.77.127 4 14 121703 20201027124434
+38.145.76.81 4 13 120572 20201027234024
+168.227.140.70 4 14 121702 20201027233455
+84.17.62.138 1 1 4408 20201008215602
+47.8.134.119 2 5 547565 20201013214614
+192.71.42.108 1 1 4408 20201009071450
+47.29.171.84 1 2 5578 20201020094817
+193.70.73.74 2 2 9026 20201027221526
+198.27.67.87 1 1 12266 20201008091544
+148.72.210.140 1 1 12262 20201017145908
+198.245.61.77 1 1 4488 20201012101839
+192.71.10.105 1 1 4488 20201001053631
+47.29.169.114 3 6 550510 20201012111009
+178.62.76.138 1 1 4488 20201017171507
+47.254.68.12 1 1 4408 20201015162230
+173.255.246.21 1 1 4448 20201003090152
+192.71.224.240 1 1 4488 20201001053632
+66.70.160.187 1 1 4488 20201006001545
+139.180.138.149 1 1 4488 20201013085903
+66.220.149.41 0 1 24 
+45.137.22.78 3 3 28916 20201015090205
+167.71.177.48 1 1 38086 20201007230706
+42.108.59.73 0 1 47113 
+209.95.172.78 1 4 541534 20201028093025
+62.210.92.175 1 1 4408 20201002035529
+196.41.122.94 1 1 4538 20201003000105
+14.200.1.238 1 1 4488 20201011052209
+178.128.227.116 1 1 0 20201018154551
+173.252.127.20 0 1 47113 
+47.29.192.100 1 3 495511 20201007232528
+178.62.30.190 1 1 4488 20201022184815
+68.183.68.148 1 1 4488 20201014215049
+47.29.156.15 1 4 541454 20201031135145
+185.156.73.64 2 2 8816 20201008035827
+140.213.13.197 3 3 7527 20201014023426
+182.79.253.7 1 3 494289 20201020095018
+35.165.18.199 2 2 8856 20201005150116
+103.147.10.222 1 1 4528 20201024073312
+192.71.2.171 1 1 4408 20201001053632
+198.245.60.211 1 1 4528 20201027122724
+103.144.49.223 2 2 4913 20201008205242
+151.80.212.71 2 2 8976 20201019135311
+160.153.251.217 1 1 12256 20201003024726
+104.198.189.67 1 1 4408 20201031155712
+159.203.27.71 1 1 0 20201020053757
+138.197.129.248 1 1 0 20201020053755
+142.93.146.97 2 2 0 20201020053756
+138.197.75.8 1 1 4458 20201007225900
+47.29.210.73 2 5 547032 20201005084852
+181.214.182.152 1 4 541534 20201027123718
+37.187.134.111 1 1 4488 20201019041902
+180.151.66.198 1 3 495511 20201020094843
+192.99.149.195 1 1 4528 20201030003500
+47.29.142.4 1 3 208091 20201015083514
+68.183.196.60 1 1 0 20201020053756
+65.255.137.188 1 1 4488 20201026054043
+199.249.230.123 1 1 12256 20201011040139
+51.178.227.58 1 1 4528 20201016095806
+95.211.211.232 2 2 8816 20201018035246
+92.119.159.43 1 1 4488 20201023195225
+104.131.119.133 1 1 4448 20201007232523
+47.29.168.149 1 4 541454 20201009170019
+146.59.172.42 1 1 4488 20201021141043
+216.19.217.73 1 4 541534 20201028103624
+47.29.182.153 3 6 551440 20201006142516
+195.154.242.34 1 1 4488 20201019153032
+146.196.65.49 1 1 4488 20201031175410
+194.44.61.241 1 1 4408 20201001181517
+154.30.164.97 1 4 541534 20201028013913
+47.29.132.189 3 3 13304 20201022231326
+192.99.35.113 1 1 4538 20201017163618
+198.12.227.104 1 1 4538 20201027105822
+173.252.127.18 0 1 333363 
+80.86.23.236 4 14 121701 20201028015436
+124.158.12.202 1 1 4528 20201027093456
+106.203.131.60 1 1 5578 20201028052426
+74.208.89.246 1 1 4488 20201005145730
+196.50.13.218 1 1 4528 20201008072922
+213.239.193.124 1 2 337771 20201017135426
+64.137.59.64 4 13 120572 20201027233852
+47.29.213.20 3 5 504518 20201006153213
+140.213.72.12 3 3 7527 20201025002258
+80.82.68.16 2 2 8816 20201004225050
+138.197.100.135 1 1 38074 20201008002002
+138.99.216.112 1 1 4408 20201005131239
+128.199.161.54 1 1 4488 20201028185316
+165.22.97.226 1 1 4488 20201012184632
+139.59.16.6 1 1 4488 20201007003928
+104.131.85.129 1 1 4408 20201007230334
+173.46.81.69 4 14 121703 20201028103144
+199.244.88.132 2 2 8816 20201022174856
+223.238.106.96 3 6 555299 20201017083858
+157.245.173.65 1 1 4488 20201013020242
+47.29.154.181 0 2 489933 
+192.71.126.175 1 1 4488 20201009071449
+193.27.229.26 1 1 4488 20201029090225
+142.93.158.9 1 1 0 20201018154551
+159.138.132.158 1 1 4488 20201007003924
+47.29.192.146 2 5 545942 20201011191425
+203.94.209.198 1 3 495511 20201002131730
+51.91.218.19 1 4 541494 20201002101951
+181.215.50.210 4 14 121702 20201027124438
+181.214.119.41 4 14 121703 20201027123438
+41.93.48.72 1 1 4528 20201003011339
+93.114.184.8 1 1 4538 20201019034752
+35.167.224.178 1 1 4408 20201031021320
+173.252.127.118 1 2 160978 20201030011958
+47.29.175.198 1 2 338941 20201015083518
+191.96.241.221 4 14 121704 20201027233455
+191.96.191.133 4 14 121698 20201026235510
+72.13.46.3 3 3 16213 20201015180724
+35.195.135.67 1 1 4488 20201025111055
+181.215.77.249 4 13 120571 20201027233852
+46.4.21.234 2 2 8856 20201015031922
+51.15.78.133 1 1 4408 20201026180521
+47.29.218.6 3 5 506281 20201017115845
+42.108.42.97 1 3 494341 20201009225754
+104.131.80.11 1 1 4448 20201006132920
+199.127.56.236 1 4 541454 20201008201008
+35.153.52.45 1 1 4538 20201011060326
+62.210.185.4 1 1 4538 20201024065212
+191.96.86.220 4 13 120575 20201027130732
+95.216.113.222 1 1 4408 20201004181427
+154.12.162.64 1 1 4408 20201020031515
+141.85.216.231 1 1 4488 20201030000612
+3.22.119.129 1 1 4408 20201016220219
+181.215.88.72 4 14 121696 20201028103659
+80.150.6.150 1 1 4408 20201022120126
+120.188.34.203 3 3 7527 20201027233412
+35.226.230.167 3 3 14394 20201029001156
+47.29.163.234 1 1 4408 20201020162730
+37.59.54.36 1 1 4528 20201013110954
+47.29.186.46 1 1 4484 20201020095319
+223.187.209.175 2 5 545862 20201027142947
+51.77.128.212 1 4 541494 20201028125640
+182.79.253.137 1 3 495511 20201020095302
+3.23.89.7 1 1 4408 20201016150947
+61.244.70.248 1 1 4488 20201005011030
+192.71.142.35 1 1 4488 20201009071450
+128.199.244.150 1 1 4528 20201019053811
+174.138.52.205 1 1 38086 20201006073600
+198.211.107.194 1 1 4488 20201027104557
+38.145.76.69 4 14 121705 20201028093527
+47.29.128.231 2 2 12222 20201020162744
+80.82.68.113 1 1 4408 20201004224744
+149.56.142.1 1 1 12257 20201017133340
+223.238.117.228 4 4 17712 20201015013908
+134.122.44.127 1 1 0 20201018154552
+209.250.224.76 1 1 4538 20201020235317
+69.163.197.8 1 1 4538 20201008050057
+146.59.166.160 1 1 4538 20201027235649
+165.22.40.63 1 1 4448 20201031215831
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20201001 13 15 546140 5
+20201002 16 24 1640660 5
+20201003 4 4 25770 4
+20201004 4 4 17632 4
+20201005 14 20 1146116 6
+20201006 9 14 1102980 5
+20201007 8 10 560295 8
+20201008 19 33 2863598 9
+20201009 5 11 1096292 5
+20201011 5 10 1057157 4
+20201012 5 8 559486 3
+20201013 5 8 561069 4
+20201014 4 4 12015 2
+20201015 20 23 643840 9
+20201016 5 5 22370 5
+20201017 11 17 1432896 7
+20201018 6 6 8816 5
+20201019 12 15 601173 6
+20201020 31 42 2440959 15
+20201021 1 1 4488 1
+20201022 6 6 26608 4
+20201023 1 1 4488 1
+20201024 2 2 9066 2
+20201025 4 4 12015 2
+20201026 10 29 251164 4
+20201027 64 193 2696244 22
+20201028 60 171 3990421 19
+20201029 3 3 14522 2
+20201030 3 6 550470 3
+20201031 5 8 559206 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+15mn-30mn 1
+30mn-1h 2
+2mn-5mn 4
+0s-30s 160
+30s-2mn 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 98 525426 73 62
+/index.php 57 256676 55 55
+/login 31 176921 11 11
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 25 560800 0 24
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 25 566500 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 25 572700 0 1
+/register 19 122802 1 5
+/admin/login 18 43587 4 5
+/well/loginmobile 12 147157 12 0
+/password/reset 10 47038 1 3
+/moderator/login 7 16149 0 1
+/home 5 22964 1 3
+/wp-login.php 4 49041 4 4
+/app/account/ 4 49053 4 0
+/verify 4 22207 0 1
+/chase/spx/ 3 36797 3 0
+/chase/spx/login 3 36792 3 0
+/wp-content/app/account/ 3 36809 3 0
+/payment-history 1 5212 0 0
+/.git/config 1 12256 1 1
+END_SIDER

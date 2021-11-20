@@ -1,0 +1,10 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	0	0	0	2	0
+D	26493904	26493904
+1	0	0	0	1	0	0	26491535	0	0	26491535	0	/
+1	0	0	0	1	0	0	26493904	0	0	26493904	0	/?185.234.216.58
+4	0	0	0	1	0	0	26491535	0	0	26491535	0	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+4	0	0	0	1	0	0	26493904	0	0	26493904	0	Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+5	0	0	0	1	0	0	26491535	0	0	26491535	0	185.234.216.58
+5	0	0	0	1	0	0	26493904	0	0	26493904	0	209.17.97.34
+c	500	2	26493904
