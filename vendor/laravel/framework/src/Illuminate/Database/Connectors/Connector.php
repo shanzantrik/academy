@@ -35,7 +35,7 @@ class Connector
      */
     public function createConnection($dsn, array $config, array $options)
     {
-        [$username, $password] = [
+        list($username, $password) = [
             $config['username'] ?? null, $config['password'] ?? null,
         ];
 

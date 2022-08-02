@@ -30,7 +30,7 @@ class DumpServer
 
     public function __construct(string $host, LoggerInterface $logger = null)
     {
-        if (false === strpos($host, '://')) {
+        if (!str_contains($host, '://')) {
             $host = 'tcp://'.$host;
         }
 
@@ -41,7 +41,7 @@ class DumpServer
     public function start(): void
     {
         if (!$this->socket = stream_socket_server($this->host, $errno, $errstr)) {
-            throw new \RuntimeException(sprintf('Server start failed on "%s": '.$errstr.' '.$errno, $this->host));
+            throw new \RuntimeException(sprintf('Server start failed on "%s": ', $this->host).$errstr.' '.$errno);
         }
     }
 
@@ -71,7 +71,7 @@ class DumpServer
                 continue;
             }
 
-            list($data, $context) = $payload;
+            [$data, $context] = $payload;
 
             $callback($data, $context, $clientId);
         }

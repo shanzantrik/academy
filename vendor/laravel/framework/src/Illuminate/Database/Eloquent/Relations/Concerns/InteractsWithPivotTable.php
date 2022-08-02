@@ -133,7 +133,7 @@ trait InteractsWithPivotTable
     {
         return collect($records)->mapWithKeys(function ($attributes, $id) {
             if (! is_array($attributes)) {
-                [$id, $attributes] = [$attributes, []];
+                list($id, $attributes) = [$attributes, []];
             }
 
             return [$id => $attributes];
@@ -258,7 +258,7 @@ trait InteractsWithPivotTable
      */
     protected function formatAttachRecord($key, $value, $attributes, $hasTimestamps)
     {
-        [$id, $attributes] = $this->extractAttachIdAndAttributes($key, $value, $attributes);
+        list($id, $attributes) = $this->extractAttachIdAndAttributes($key, $value, $attributes);
 
         return array_merge(
             $this->baseAttachRecord($id, $hasTimestamps), $this->castAttributes($attributes)

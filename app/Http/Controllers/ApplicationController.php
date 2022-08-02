@@ -11,18 +11,20 @@ use Redirect;
 
 class ApplicationController extends Controller
 {
+
     public function submit(Request $request){
-        $this->validate($request, [
-        'photo' => 'image|mimes:jpeg,png,jpg|max:2048',
-        'signature' => 'image|mimes:jpeg,png,jpg|max:2048',
-    ]);
-    
+
+	$this->validate($request, [
+	 'photo' => 'mimes:jpeg,png,jpg|max:2048',
+         'signature' => 'mimes:jpeg,png,jpg|max:2048',
+    	]);
+
         $ac = Application::count();
         if(Auth::check()){
          //Application 
          $application = Application::where('user_id',Auth::user()->id)->get();
          if(!$application->count()>0){
-             
+
              $application  = new Application();
              $application->user_id = Auth::user()->id;
              $application->course_name = $request->course_name;
@@ -53,7 +55,7 @@ class ApplicationController extends Controller
              if ($request->hasFile('photo')) {
                 $image = $request->file('photo');
                 $photo = time().'.'.$image->getClientOriginalExtension();
-                $destinationPath = base_path('/public_html/images/photo/');
+                $destinationPath = base_path('/public/images/photo/');
                 $image->move($destinationPath, $photo);
                 $application->photo = $photo;
                
@@ -62,7 +64,7 @@ class ApplicationController extends Controller
               if ($request->hasFile('signature')) {
                 $image = $request->file('signature');
                 $signature = time().'.'.$image->getClientOriginalExtension();
-                $destinationPath = base_path('/public_html/images/sign/');
+                $destinationPath = base_path('/public/images/sign/');
                 $image->move($destinationPath, $signature);
                 $application->signature = $signature;
              }
@@ -123,7 +125,7 @@ class ApplicationController extends Controller
              if ($request->hasFile('photo')) {
                 $image = $request->file('photo');
                 $photo = time().'.'.$image->getClientOriginalExtension();
-                $destinationPath = base_path('/public_html/images/photo/');
+                $destinationPath = base_path('/public/images/photo/');
                 $image->move($destinationPath, $photo);
                 $application->photo = $photo;
                
@@ -132,7 +134,7 @@ class ApplicationController extends Controller
               if ($request->hasFile('signature')) {
                 $image = $request->file('signature');
                 $signature = time().'.'.$image->getClientOriginalExtension();
-                $destinationPath = base_path('/public_html/images/sign/');
+                $destinationPath = base_path('/public/images/sign/');
                 $image->move($destinationPath, $signature);
                 $application->signature = $signature;
              }

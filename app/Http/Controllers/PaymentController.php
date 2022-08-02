@@ -58,6 +58,7 @@ class PaymentController extends Controller
                 return redirect()->back();
                 
             }
+
             $sem = Semester::find($id);
             $payment = new Payment();
             $payment->user_id = Auth::user()->id;
@@ -65,8 +66,8 @@ class PaymentController extends Controller
             $payment->amount = $sem->amount;
             $payment->trx_id = $input['razorpay_payment_id'];
             $payment->save();
-            
-            $msgtxt = "Payment%20of%20Rs%20".$payment->amount."received%20successfully";
+	    
+	    $msgtxt = "Payment%20of%20Rs%20".$payment->amount."received%20successfully";
             $msg = new Mesg();
             $msg->sendMessage(Auth::user()->mobile, $msgtxt);
             

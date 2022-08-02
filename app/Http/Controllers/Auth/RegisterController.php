@@ -63,10 +63,25 @@ class RegisterController extends Controller
      */
     protected function create(array $data)
     {
-        return User::create([
+	$otp = rand(1000, 9999);
+        $user = User::create([
             'name' => $data['name'],
             'email' => $data['email'],
             'password' => Hash::make($data['password']),
-        ]);
+            'otp' => $otp,
+	]);
+	$this->sendOtp($otp, $user->phone_number);
+	return $user;
+    }
+
+    private function sendOtp(string $otp, string $recipient)
+    {
+        $twilio_whatsapp_number = getenv("TWILIO_WHATSAPP_NUMBER");
+        $account_sid = getenv("TWILIO_ACCOUNT_SID");
+        $auth_token = getenv("TWILIO_AUTH_TOKEN");
+
+        $client = new Client($account_sid, $auth_token);
+        $message = "Your registration pin code is ".$otp;
+        return $client->messages->create("whatsapp:$recipient", array('from' => "whatsapp:$twilio_whatsapp_number", 'body' => $message));
     }
 }

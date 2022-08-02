@@ -194,6 +194,8 @@ class DatabaseQueue extends Queue implements QueueContract
             if ($job = $this->getNextAvailableJob($queue)) {
                 return $this->marshalJob($queue, $job);
             }
+
+            return null;
         });
     }
 

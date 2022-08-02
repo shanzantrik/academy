@@ -77,10 +77,11 @@ $payments = App\Payment::all();
                     <?php
                      $application = App\Application::where('user_id',$payment->user_id)->first();
                     ?>
-                    {{ $application->name }}
+		 
+                    {{ $application['name'] }}
                   </td>
                   <td>
-                    {{ $application->roll_no }}
+                    {{ $application['roll_no'] }}
                   </td>
                   <td>
                     <?php

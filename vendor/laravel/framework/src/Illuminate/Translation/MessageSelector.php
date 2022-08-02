@@ -69,7 +69,7 @@ class MessageSelector
         $value = $matches[2];
 
         if (Str::contains($condition, ',')) {
-            [$from, $to] = explode(',', $condition, 2);
+            list($from, $to) = explode(',', $condition, 2);
 
             if ($to == '*' && $number >= $from) {
                 return $value;

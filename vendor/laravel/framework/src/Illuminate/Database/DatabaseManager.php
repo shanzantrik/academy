@@ -62,7 +62,7 @@ class DatabaseManager implements ConnectionResolverInterface
      */
     public function connection($name = null)
     {
-        [$database, $type] = $this->parseConnectionName($name);
+        list($database, $type) = $this->parseConnectionName($name);
 
         $name = $name ?: $database;
 

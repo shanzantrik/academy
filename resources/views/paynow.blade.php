@@ -21,7 +21,7 @@
 <form action="/payment/{{$semester->id}}" method="post">
         {{ csrf_field() }}
     <script src="https://checkout.razorpay.com/v1/checkout.js"
-        data-key="rzp_live_gRLBUvHd4EH63E"// Your Api kEY
+	data-key="rzp_live_gRLBUvHd4EH63E"
         data-amount="{{ $amt*100 }}"
         data-buttontext="Pay Now"
         data-name="REIMALIE ACADEMY"

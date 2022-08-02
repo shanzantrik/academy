@@ -613,7 +613,7 @@ trait HasAttributes
      */
     public function fillJsonAttribute($key, $value)
     {
-        [$key, $path] = explode('->', $key, 2);
+        list($key, $path) = explode('->', $key, 2);
 
         $this->attributes[$key] = $this->asJson($this->getArrayAttributeWithValue(
             $path, $key, $value

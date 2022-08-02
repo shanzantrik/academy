@@ -8,6 +8,9 @@ use Redirect;
 use Carbon\Carbon;
 use App\Mesg;
 use Illuminate\Support\Facades\Hash;
+use Twilio\Rest\Client;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\SendOtp;
 
 class LoginController extends Controller
 {
@@ -27,7 +30,7 @@ class LoginController extends Controller
     {
 
         $this->validate($request, [
-         'mobile' => 'required|max:10|min:10|unique:users,mobile',
+         //'mobile' => 'required|max:10|min:10|unique:users,mobile',
          'email' => 'required|email|unique:users,email|max:190', 
          'name' => 'required|min:4|max:32', 
          'password' => 'required|confirmed|min:4|max:190', ]
@@ -37,22 +40,41 @@ class LoginController extends Controller
         $user->name = $request->name;
         $user->email = $request->email;
         $user->password = bcrypt($request->password);
-        $user->mobile = $request->mobile;
+        //$user->mobile = $request->mobile;
         $user->save();
 
         $otp = $this->generateOTP();
         $msgtxt = 'Your%20verification%20code%20is%20' . $otp;
         $user->otp = $otp;
         $current = Carbon::now();
-        $user->otp_time = $current->addMinutes(5);
+        $user->otp_time = $current->addMinutes(10);
         $user->save();
 
-        $msg = new Mesg();
-        $msg->sendMessage($user->mobile, $msgtxt);
+        //$message = new Mesg();
+        //$numbers = $user->mobile;
+        //$message->sendMessage($numbers, $msgtxt);
+        // dd(sendMessage($to, $msgtxt));
+        //return $this->sendWhatsappNotification($otp, $user->mobile);
+        //dd($message);
+	//SENDGRID
 
-        Auth::login($user);
+	Mail::to($user->email, 'Reimalie Academy Security')->send(new SendOtp($otp));
+	Auth::login($user);
         return redirect('/verify')->with('success', 'Registration Successfull.');
     }
+
+       private function sendWhatsappNotification(string $otp, string $recipient)
+    {
+        $twilio_whatsapp_number = getenv("TWILIO_WHATSAPP_NUMBER");
+        $account_sid = getenv("TWILIO_ACCOUNT_SID");
+        $auth_token = getenv("TWILIO_AUTH_TOKEN");
+
+        $client = new Client($account_sid, $auth_token);
+        $message = "Your registration pin code is $otp";
+        $log = $client->messages->create("whatsapp:$recipient", array('from' => "whatsapp:$twilio_whatsapp_number", 'body' => $message));
+	print($log);
+    }
+
 
     public function generateOTP()
     {
@@ -92,7 +114,7 @@ class LoginController extends Controller
         $this->validate($request, ['otp' => 'required|max:6|min:6', ]);
         if (Auth::check())
         {
-            $user = User::where('mobile', Auth::user()->mobile)
+            $user = User::where('email', Auth::user()->email)
                 ->where('status', '0')
                 ->first();
 
@@ -102,12 +124,13 @@ class LoginController extends Controller
                 $time = $user->otp_time;
                 if (strtotime($time) >= strtotime(Carbon::now()))
                 {
+			
                     if ($otp == $user->otp)
                     {
                         $user->status = "1";
                         $user->save();
                         return redirect('home')
-                            ->with('success', 'Mobile Number Verified Successfully');
+                            ->with('success', 'Account Verified Successfully');
                     }
                     else
                     {
@@ -115,11 +138,13 @@ class LoginController extends Controller
                             ->with('error', 'Incorrect OTP');
                     }
                 }
-                else
+                
+		else
                 {
                     return Redirect::back()
                         ->with('error', 'OTP Expired');
                 }
+		
             }
             else
             {
@@ -209,7 +234,8 @@ class LoginController extends Controller
                     $user->save();
                     $msg = new Mesg();
                     $msg->sendMessage($user->mobile, $msgtxt);
-                    return Redirect::back()->with('success', 'OTP Send Successfully');
+                    Mail::to($user->email, 'Reimalie Academy Security')->send(new SendOtp($otp));
+		    return Redirect::back()->with('success', 'OTP Send Successfully');
                 }
                 else
                 {
