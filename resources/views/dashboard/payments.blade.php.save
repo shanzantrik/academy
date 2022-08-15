@@ -79,8 +79,8 @@ $payments = App\Payment::all();
                     ?>
                     {{$application['name'] }}
                   </td>
-                  <td>
-                   @if(!empty($application->roll_no)) {{ $application->roll_no }} @endif
+                  <td>-
+                   @if(!empty($application)) {{ $application }} @endif
                   </td>
                   <td>
                     <?php

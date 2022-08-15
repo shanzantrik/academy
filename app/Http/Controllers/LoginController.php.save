@@ -33,7 +33,7 @@ class LoginController extends Controller
          'name' => 'required|min:4|max:32', 
          'password' => 'required|confirmed|min:4|max:190', ]
         );
-	$toemail = $request->email;
+
         $user = new User();
         $user->name = $request->name;
         $user->email = $request->email;
@@ -51,12 +51,14 @@ class LoginController extends Controller
         $msg = new Mesg();
         $msg->sendMessage($user->mobile, $msgtxt);
 
-	$html = "Your OTP is - ".$otp;
-	Mail::send(array(), array(), function ($message) use ($toemail,$html) {
-	  $message->to($toemail)
-	    ->subject('REIMALIE ACADEMY COLLEGE')
-	    ->from('info@reimallieacademy.com')
-	    ->setBody($html, 'text/html');
+	$to_name = "RECEIVER_NAME";
+	$to_email = "manashbharali79@gmail.com";
+	$data = array("name"=>"Cloudways (sender_name)", "body" => "A test mail");
+
+	Mail::send([], $data, function($message) use ($to_name, $to_email) {
+	    $message->to($to_email, $to_name)
+	    ->subject("REIMALIE ACADEMY COLLEGE - OTP VERIFICATION");
+	    $message->from("manashbharali79@gmail.com","Your OTP is");
 	});
 
         Auth::login($user);
